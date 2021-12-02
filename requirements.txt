@@ -1,5 +1,5 @@
 certifi==2021.5.30
-python==3.6.13
+python==3.6
 setuptools==58.0.4
 sqlite==3.36.0
 vc==14.2
