@@ -1,0 +1,676 @@
+<!DOCTYPE HTML>
+<meta charset="utf-8">
+<html>
+<head>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400italic,600italic,700italic,200,300,400,600,700,900">
+	<link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/index.css') }}">
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+	<!--<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>-->
+	<!--<script src="https://d3js.org/d3.v4.js"></script>-->
+	<script src="http://d3js.org/queue.v1.min.js"></script>
+	<script src="http://d3js.org/topojson.v1.min.js"></script>
+	<script src="{{url_for('static', filename='js/calc.js', version='12052017')}}"></script>
+	<!-- <script src="./static/js/calc.js?version=999"></script> -->
+
+</head>
+
+<body>
+
+<div class="container pt-2">
+	<div class="row">
+		<div class="col-sm-3 pt-5 pl-5 sidebar">
+			<fieldset>
+				<h3>Customizations</h3>
+
+				<div id="user">
+					<label for="user" class="pt-3">User Type</label>
+					<div class="form-check pt-1 text-nowrap">
+						<input type="radio" class="form-check-input" id="buyer" name="user-type" value="buyer" checked="checked" onclick="toggleInputFields(true);">
+						<label for="buyer" class="form-check-label">Home Buyer</label><br>
+					</div>
+					<div class="form-check pt-2 text-nowrap">
+						<input type="radio" class="form-check-input" id="investor" name="user-type" value="investor" onclick="toggleInputFields(false);">
+						<label for="investor" class="form-check-label">Investor</label><br>
+					</div>
+				</div>
+				<div class="form-check pt-3 text-nowrap">
+						<input class="form-check-input" type="checkbox" value="1" id="field-check1" name="fieldcheck" checked>
+						<label class="form-check-label" for="display-field1">Include Home Owners Insurance</label>
+				</div>
+
+				<div class="form-check pt-1 text-nowrap">
+					<input class="form-check-input" type="checkbox" value="2" id="field-check2" name="fieldcheck" checked>
+					<label class="form-check-label" for="display-field2">Include Flood Insurance</label>
+				</div>
+
+				<div class="form-check pt-1 text-nowrap">
+					<input class="form-check-input" type="checkbox" value="3" id="field-check3" name="fieldcheck" checked>
+					<label class="form-check-label" for="display-field3">Include Earthquake Insurance</label>
+				</div>
+				<div class="form-check pt-4 text-nowrap">
+						<input class="form-check-input" type="checkbox" value="4" id="field-check4" name="fieldcheck" checked 
+						onclick="toggleInputBox('field-check4', 'mortgage');">
+						<label class="form-check-label" for="display-field4">Include Mortgage</label>
+					</div>
+				<div class="form-group pt-1 text-nowrap">
+					<label for="mortgage">Monthly Mortgage ($)</label><br>
+					<input type="text" class="form-control" id="mortgage" name="mortgage" value="0">
+					<span id="mortgage-error" style="color:red"></span><br>
+				</div>
+				<div class="form-check pt-2 text-nowrap">
+						<input class="form-check-input" type="checkbox" value="5" id="field-check5" name="fieldcheck" checked
+						onclick="toggleInputBox('field-check5', 'hoa');">
+						<label class="form-check-label" for="display-field5">Include Home Owner's Association</label>
+				</div>
+				<div class="form-group pt-1 text-nowrap">
+					<label for="hoa">Monthly Home Owner's Association ($)</label><br>
+					<input type="text" class="form-control" id="hoa" name="hoa" value="0">
+					<span id="hoa-error" style="color:red"></span><br>
+				</div>
+				<div class="form-check pt-2 text-nowrap" style="display:none" id="pmf-check">
+					<input class="form-check-input" type="checkbox" value="6" id="field-check6" name="fieldcheck"
+					onclick="toggleInputBox('field-check6', 'pmf');">
+					<label class="form-check-label" for="display-field6">Include Property Management Fees</label>
+				</div>
+				<div id="pmf-label" style="display:none" class="form-group pt-1 text-nowrap">
+					<label for="pmf">Property Management Fees (%)</label>
+					<input type="text" class="form-control" id="pmf" name="pmf" value="0" style="display:none">
+					<span id="pmf-error" style="color:red"></span><br>
+				</div>
+				<div class="form-check pt-2 text-nowrap" style="display:none" id="fme-check">
+						<input class="form-check-input" type="checkbox" value="7" id="field-check7" name="fieldcheck"
+						onclick="toggleInputBox('field-check7', 'fme');">
+						<label class="form-check-label" for="display-field7">Include Forecasted Other Expenses</label>
+				</div>
+				<div id="fme-label" style="display:none" class="form-group pt-1 text-nowrap">
+					<label for="fme">Forecasted Other Expenses ($)</label>
+					<input type="text" class="form-control" id="fme" name="fme" value="0" style="display:none">
+					<span id="fme-error" style="color:red"></span><br>
+				</div>
+
+				<div id="rent_rate-label" style="display:none" class="form-group pt-2 text-nowrap">
+				  	<label for="rent_rate">Average Rent Income by Number of Bedrooms</label>
+				  	<select class="form-select" id="rent_rate" name="rent_rate" style="display:none">
+				    	<option value="0">Studio</option>
+				    	<option value="1">1 BR</option>
+				    	<option value="2" selected>2 BR</option>
+				    	<option value="3">3 BR</option>
+				    	<option value="4">4 BR</option>
+				  	</select><br>
+				</div>
+
+				<input type="submit" class="btn btn-primary" value="Calculate" onclick="calculateClicked()">
+			</fieldset>
+		</div>
+		<div class="col-sm-6">
+			<div id="content">
+				<div class="row">
+					<h1 class="text-center">Real Estate Capitalization Rate Mapper</h1>
+					<div id="map"></div>
+
+				</div>
+				<div class="row">
+					<h3 class="text-center pt-5">Capitalization Rate Insights</h3>
+					<p class="directions text-center font-italic font-weight-light pt-5">Click a county to see more cost breakdowns</p>
+				<div>
+				<div class="row">
+					<div class="col-sm-6">
+						<div id="barChartCost"></div>
+					</div>
+					<div class="col-sm-6">
+						<div class="row formula">
+						</div>
+						<div class="row calculation">
+						</div>
+						<p id="state"></p>
+						<p id="county"></p>
+						<p id="allNaturalDisasterRisk"></p>
+						<p id="earthquakeRisk"></p>
+						<p id="floodRisk"></p>
+						<p id="propertyCrimeRisk"></p>
+						<p id="burglaryRisk"></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<script>
+var input_data = {
+	prop_tax: 0,
+	mortgage: 0,
+	hoa: 0,
+	prop_mgmt_fees: 0,
+	forecast_maint_expenses: 0,
+	rent_br: 2,
+	is_homeowner: true,
+	checked_boxes: [0, 1, 2, 3, 4, 5, 6, 7]
+};
+// console.log(input_data);
+
+var margin = {top: 20, right: 40, bottom: 20, left: 40};
+	width = 1000 - margin.left - margin.right,
+	height = 500 - margin.top - margin.bottom,
+	formatPercent = d3.format(".1%");
+
+var svg = d3.select("#map").append("svg")
+	.attr("width", width + margin.left + margin.right)
+	.attr("height", height + margin.top + margin.bottom)
+	.append("g")
+		.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+tooltip = d3.select("body").append("div")
+	.attr("class", "tooltip")
+	.style("opacity", 0);
+
+var legendText = ["0%", "1%", "2%", "3%", "4%", "5%", "6%", "7%"];
+var legendColors = ["#f7fcfd", "#e5f5f9", "#ccece6", "#99d8c9", "#66c2a4", "#41ae76", "#238b45", "#006d2c", "#00441b"];
+
+
+<!--load data from flask here-->
+var property_tax_by_state = {{ property_tax_data | safe}};
+var insurance_by_state = {{ insurance_data | safe}};
+var all_data = {{ fips_keyed_data | safe}};
+var us_counties = {{ topo | safe }};
+
+getCheckedBoxes();
+drawMap(all_data, insurance_by_state, us_counties, input_data);
+
+function toggleInputBox(checkboxId, textboxId) {
+	var checkbox = document.getElementById(checkboxId);
+	var textbox = document.getElementById(textboxId);
+
+	var isChecked = checkbox.checked;
+	textbox.disabled = !isChecked;
+}
+
+function getCheckedBoxes() {
+	var values = [0];
+	var checkboxes = document.getElementsByName("fieldcheck");
+	// console.log(checkboxes);
+
+	for(var index = 0; index < checkboxes.length; index++) {
+		if (checkboxes[index].checked) {
+			values.push(parseInt(checkboxes[index].value));
+		}
+	}
+
+	// console.log("values", values);
+	input_data.checked_boxes = values;
+}
+
+function calculateClicked() {
+	if (validateAndUpdateInput()) {
+		// console.log("input data", input_data);
+		// upon successful validation, update map
+		d3.selectAll('#svgBarChartCost').remove();
+		document.getElementsByClassName("formula")[0].innerHTML = "";
+		document.getElementsByClassName("calculation")[0].innerHTML = "";
+		document.getElementsByClassName("directions")[0].classList.remove("hide");
+		drawMap(all_data, insurance_by_state, us_counties, input_data);
+		document.getElementById("state").innerHTML = "";
+		document.getElementById("county").innerHTML = "";
+		document.getElementById("allNaturalDisasterRisk").innerHTML = "";
+		document.getElementById("earthquakeRisk").innerHTML = "";
+		document.getElementById("floodRisk").innerHTML = "";
+		document.getElementById("propertyCrimeRisk").innerHTML = "";
+		document.getElementById("burglaryRisk").innerHTML = "";
+	}
+}
+
+/**
+	Validate input fields and update the input_data object
+	Ensures fields are an actual number and are greater than 0
+*/
+function validateAndUpdateInput() {
+	let mort_val = document.getElementById("mortgage").value;
+	let hoa_val = document.getElementById("hoa").value;
+	let pmf_val = document.getElementById("pmf").value;
+	let fme_val = document.getElementById("fme").value;
+	let rent_br_val = document.getElementById("rent_rate").value;
+	let success = true;
+
+	if (isNaN(mort_val) || mort_val < 0) {
+		document.getElementById("mortgage-error").innerHTML = "Please enter a valid mortgage value.";
+		success = false;
+	} else {
+		document.getElementById("mortgage-error").innerHTML = "";
+	}
+
+	if (isNaN(hoa_val) || hoa_val < 0) {
+		document.getElementById("hoa-error").innerHTML = "Please enter a valid hoa value.";
+		success = false;
+	} else {
+		document.getElementById("hoa-error").innerHTML = "";
+	}
+
+	if (isNaN(pmf_val) || pmf_val < 0) {
+		document.getElementById("pmf-error").innerHTML = "Please enter a valid Property Management Fees value.";
+		success = false;
+	} else {
+		document.getElementById("pmf-error").innerHTML = "";
+	}
+
+	if (isNaN(fme_val) || fme_val < 0) {
+		document.getElementById("fme-error").innerHTML = "Please enter a valid Other Forecasted Expenses value.";
+		success = false;
+	} else {
+		document.getElementById("fme-error").innerHTML = "";
+	}
+
+	if (success) {
+		input_data["mortgage"] = parseInt(mort_val);
+		input_data["hoa"] = parseInt(hoa_val);
+		input_data["prop_mgmt_fees"] = parseInt(pmf_val);
+		input_data["forecast_maint_expenses"] = parseInt(fme_val);
+		input_data["rent_br"] = parseInt(rent_br_val);
+		getCheckedBoxes();
+	}
+
+	return success;
+}
+
+function toggleInputFields(isHomeOwner) {
+	if (isHomeOwner) {
+		input_data.prop_mgmt_fees = 0;
+		input_data.forecast_maint_expenses = 0;
+		input_data.is_homeowner = true;
+		document.getElementById("pmf").value="0";
+		document.getElementById("fme").value="0";
+		document.getElementById("pmf").style.display="none";
+		document.getElementById("fme").style.display="none";
+		document.getElementById("pmf-label").style.display="none";
+		document.getElementById("fme-label").style.display="none";
+		document.getElementById("pmf-error").style.display="none";
+		document.getElementById("fme-error").style.display="none";
+		document.getElementById("pmf-error").innerHTML="";
+		document.getElementById("fme-error").innerHTML="";
+		document.getElementById("rent_rate").style.display="none";
+		document.getElementById("rent_rate-label").style.display="none";
+		document.getElementById("pmf-check").style.display="none";
+		document.getElementById("fme-check").style.display="none";
+		document.getElementById("field-check6").checked=false;
+		document.getElementById("field-check7").checked=false;
+
+	} else {
+		input_data.is_homeowner = false;
+		document.getElementById("pmf").style.display="block";
+		document.getElementById("fme").style.display="block";
+		document.getElementById("fme-label").style.display="block";
+		document.getElementById("pmf-label").style.display="block";
+		document.getElementById("pmf-error").style.display="block";
+		document.getElementById("fme-error").style.display="block";
+		document.getElementById("rent_rate").style.display="block";
+		document.getElementById("rent_rate-label").style.display="block";
+		document.getElementById("pmf-check").style.display="block";
+		document.getElementById("fme-check").style.display="block";
+		document.getElementById("field-check6").checked=true;
+		document.getElementById("field-check7").checked=true;
+	}
+
+
+}
+
+function drawMap(all_data, insurance_by_state, us, input_data) {
+	// console.log("insurance by state", insurance_by_state);
+	// console.log("all data", all_data);
+
+	var counties = topojson.feature(us, us.objects.counties);
+	all_cap_rate = []
+	state_hpi_avg = {}
+	all_data.forEach(function(d) {
+		d.fips = d.STCOFIPS;
+		d.state = d.STATE;
+		d.county = d.COUNTY;
+		d.risk = d.RISK_SCORE;
+		d.risk_rating = d.RISK_RATNG;
+		d.hpi = d.HPI * 1000;
+		d.rent_0 = d.rent_50_0;
+		d.rent_1 = d.rent_50_1;
+		d.rent_2 = d.rent_50_2;
+		d.rent_3 = d.rent_50_3;
+		d.rent_4 = d.rent_50_4;
+		d.burglary = ((d.CRIME_DATA.burglary / d.POPULATION) * 1000).toFixed(2);
+		d.property_crime = ((d.CRIME_DATA.property_crime / d.POPULATION) * 1000).toFixed(2);
+		d.earthquake = d.ERQK_RISKS;
+		d.earthquake_rating = d.ERQK_RISKR;
+		d.flood = d.RFLD_RISKS;
+		d.flood_rating = d.RFLD_RISKR;
+
+		if (!isNaN(d.hpi)) {
+			if (state_hpi_avg.hasOwnProperty(d.state) && d.hpi ) {
+				state_hpi_avg[d.state].push(d.hpi);
+			} else {
+				state_hpi_avg[d.state] = [d.hpi]
+			}
+		}
+	});
+
+var dataByFips = d3.nest()
+	.key(function(d) { return d.fips; })
+	.map(all_data);
+dataByFips['46113'] = dataByFips['46102']
+dataByFips['2270'] = dataByFips['2158']
+counties.features.forEach(function(county) {
+	if (dataByFips[county.id]) {
+		county.properties.state = dataByFips[county.id][0]['state']
+		county.properties.county = dataByFips[county.id][0]['county']
+		county.properties.risk = dataByFips[county.id][0]['risk']
+		county.properties.risk_rating = dataByFips[county.id][0]['risk_rating']
+		county.properties.earthquake_risk = isNaN(dataByFips[county.id][0]['earthquake']) ? 0 : dataByFips[county.id][0]['earthquake']
+		county.properties.earthquake_rating = dataByFips[county.id][0]['earthquake_rating']
+		county.properties.flood_risk = isNaN(dataByFips[county.id][0]['flood']) ? 0 : dataByFips[county.id][0]['flood']
+		county.properties.flood_rating = dataByFips[county.id][0]['flood_rating']
+
+		if (isNaN(dataByFips[county.id][0]['hpi'])) {
+			hpis = state_hpi_avg[county.properties.state]
+			const sum = hpis.reduce((a, b) => a + b, 0);
+			const avg = (sum / hpis.length) || 0;
+			county.properties.hpi = avg
+		} else {
+			county.properties.hpi = dataByFips[county.id][0]['hpi']
+		}
+
+		county.properties.rent_0 = dataByFips[county.id][0]['rent_0']
+		county.properties.rent_1 = dataByFips[county.id][0]['rent_1']
+		county.properties.rent_2 = dataByFips[county.id][0]['rent_2']
+		county.properties.rent_3 = dataByFips[county.id][0]['rent_3']
+		county.properties.rent_4 = dataByFips[county.id][0]['rent_4']
+		county.properties.burglary = isNaN(dataByFips[county.id][0]['burglary']) ? 0 : dataByFips[county.id][0]['burglary']
+		county.properties.property_crime = isNaN(dataByFips[county.id][0]['property_crime']) ? 0 : dataByFips[county.id][0]['property_crime']
+
+		county.properties.property_tax_rate = property_tax_by_state[county.properties.state];
+
+		county.properties.earthquake_insurance = insurance_by_state.earthquake[county.properties.state];
+		county.properties.flood_insurance = insurance_by_state.flood[county.properties.state];
+		county.properties.homeowner_insurance = insurance_by_state.homeowner[county.properties.state];
+		county.properties.risk_percentage = county.properties.risk / 100;
+
+		county.properties.earthquake_insurance_cost = (input_data.checked_boxes.includes(3)) ? county.properties.earthquake_insurance * county.properties.earthquake_risk / 100 																				 : 0;
+		county.properties.flood_insurance_cost = (input_data.checked_boxes.includes(2)) ? county.properties.flood_insurance * county.properties.flood_risk / 100
+													: 0;
+		county.properties.homeowner_insurance_cost = (input_data.checked_boxes.includes(1)) ? (county.properties.homeowner_insurance * county.properties.risk_percentage) + 
+														(county.properties.homeowner_insurance * county.properties.burglary / 100) +
+														(county.properties.homeowner_insurance * county.properties.property_crime / 100)
+														: 0;
+
+		//TODO
+		var rental_rate_list = [county.properties.rent_0,county.properties.rent_1,county.properties.rent_2,county.properties.rent_3,county.properties.rent_4];
+		selected_rental_rate = rental_rate_list[input_data.rent_br];
+		county.properties.yearly_rental_index = selected_rental_rate * 12;
+
+		county.properties.insurance_cost = county.properties.earthquake_insurance_cost + county.properties.flood_insurance_cost + county.properties.homeowner_insurance_cost;
+		county.properties.property_tax_cost = (county.properties.hpi * county.properties.property_tax_rate / 100);
+		county.properties.yearly_mortgage = (input_data.checked_boxes.includes(4)) ? input_data.mortgage * 12 : 0;
+		county.properties.yearly_hoa = (input_data.checked_boxes.includes(5)) ? input_data.hoa * 12 : 0;
+		county.properties.property_management_fees = (input_data.checked_boxes.includes(6)) ? (input_data.prop_mgmt_fees / 100) * county.properties.yearly_rental_index : 0;
+		county.properties.forecasted_other_expenses = (input_data.checked_boxes.includes(7)) ? (input_data.forecast_maint_expenses) : 0;
+		county.properties.cost_of_ownership = county.properties.property_tax_cost + county.properties.yearly_mortgage + county.properties.property_management_fees + county.properties.forecasted_other_expenses + county.properties.insurance_cost + county.properties.yearly_hoa;
+
+		// console.log(input_data);
+		county.properties.hoa = input_data.hoa;
+		county.properties.mortgage = input_data.mortgage;
+		county.properties.prop_mgmt_fees = input_data.prop_mgmt_fees;
+		county.properties.forecast_maint_expenses = input_data.forecast_maint_expenses;
+		county.properties.is_homeowner = input_data.is_homeowner;
+		county.properties.checked_boxes = input_data.checked_boxes;
+		
+		county.properties.market_home_value = county.properties.hpi;
+		var cap_rate = calcCapRate(county, input_data);
+		county.properties.cap_rate = +(cap_rate.toFixed(4));
+		all_cap_rate.push(cap_rate);
+	}
+});
+
+var color = d3.scale.quantile()
+	.domain([d3.min(all_cap_rate), d3.max(all_cap_rate)])
+	.range(["#f7fcfd", "#e5f5f9", "#ccece6", "#99d8c9", "#66c2a4", "#41ae76", "#238b45", "#006d2c", "#00441b"]);
+
+var projection = d3.geo.albersUsa()
+	.translate([width / 2, height / 2]);
+
+var path = d3.geo.path()
+	.projection(projection);
+svg.selectAll(".county").remove()
+var countyShapes = svg.selectAll(".county")
+	.data(counties.features)
+	.enter()
+	.append("path")
+		.attr("class", "county")
+		.attr("d", path);
+
+countyShapes.style("fill", function(d) {
+		if(d.properties.cap_rate) {
+			return color(d.properties.cap_rate)
+		}
+		else {
+			return "#D3D3D3";
+		}
+});
+
+var costLables = {
+	"property_tax_cost": "Property Tax",
+	"homeowner_insurance_cost": "Home Owner\'s Insurance",
+	"flood_insurance_cost": "Flood Insurance",
+	"earthquake_insurance_cost" : "Earthquake Insurance",
+	"yearly_mortgage" : "Mortgage",
+	"yearly_hoa" : "Home Owner\'s Association",
+	"property_management_fees" : "Property Management Fees",
+	"forecast_maint_expenses" : "Forecasted Other Expenses"
+};
+var costBreakDownFields = ["property_tax_cost", "homeowner_insurance_cost", "flood_insurance_cost", "earthquake_insurance_cost", "yearly_mortgage", "yearly_hoa", "property_management_fees", "forecast_maint_expenses"];
+countyShapes
+	.on("mouseover", function(d) {
+		tooltip.transition()
+		.duration(250)
+		.style("opacity", 1);
+		// console.log(d);
+		// console.log("cap rate", calcCapRate(d, input_data));
+		tooltip.html(
+			"<p><strong>" + "State: "+ d.properties.state + "<br>" +
+			"<p><strong>" + "County: "+ d.properties.county + "<br>" +
+			"<p><strong>" + "Capitalization Rate: "+ d.properties.cap_rate + "<br>" +
+			"<p><strong>" + "House Price Index: "+ d.properties.hpi + "<br>" +
+			"<p><strong>" + "Average Rent: "+ d.properties.rent_0 + " to " + d.properties.rent_4)
+		.style("left", (d3.event.pageX + 15) + "px")
+		.style("top", (d3.event.pageY - 28) + "px");
+	})
+	.on("mouseout", function(d) {
+		tooltip.transition()
+		.duration(250)
+		.style("opacity", 0);
+	})
+	.on("click", function(d){
+		barChartCostData = [];
+		console.log(d);
+		var checked_boxes = d.properties.checked_boxes;
+		// console.log("click checked boxes", checked_boxes);
+
+		// data massaging
+		for(var index = 0; index < checked_boxes.length; index++) {
+			currentData = {}
+			currentData["label"] = costLables[costBreakDownFields[checked_boxes[index]]];
+			currentData["data"] = d.properties[costBreakDownFields[checked_boxes[index]]];
+			barChartCostData.push(currentData)
+		}
+		// console.log("barChartCostData", barChartCostData);
+
+		// some code borrowed from here: https://bl.ocks.org/tpham27/37d682cc63fc29da314c6d28417fce3f
+		d3.selectAll('#svgBarChartCost').remove();
+		document.getElementsByClassName("directions")[0].classList.add("hide");
+		var script = document.createElement("script");
+		script.type = "text/javascript";
+		script.src = "$$Capitalization\,Rate = {Rental\,Index - Operating\,Costs \over Housing\,Price\,Index}$$"
+		var formulaText = document.getElementsByClassName("formula")[0];
+		//formulaText.append(script);
+		formulaText.innerHTML = "$$Capitalization\\,Rate = {Rental\\,Index - Cost\\,of\\,Ownership \\over Housing\\,Price\\,Index}$$"
+		MathJax.Hub.Queue(["Typeset",MathJax.Hub,formulaText]);
+
+		var calculation = document.getElementsByClassName("calculation")[0];
+		var costOfOwnership = d.properties.cost_of_ownership;
+		var yearlyRentalIndex = d.properties.yearly_rental_index;
+		var marketHomeValue = d.properties.market_home_value;
+		var capRate = d.properties.cap_rate;
+
+		calculation.innerHTML = "$$ {"+ yearlyRentalIndex.toString() +"} - {" + costOfOwnership.toString() + "} \\over {" + marketHomeValue.toString() + "}$$ " + "$$=" +capRate + "\\%$$"
+		calculation.innerHTML = "$$" +capRate + "\\% = " + " \\frac{"+ yearlyRentalIndex.toFixed(2) +" - " + costOfOwnership.toFixed(2) + "} {" + marketHomeValue.toFixed(2)+ "}$$ "
+		MathJax.Hub.Queue(["Typeset",MathJax.Hub,calculation]);
+
+		document.getElementById("state").innerHTML = "State: " + d.properties.state
+		document.getElementById("county").innerHTML = "County: " + d.properties.county
+		document.getElementById("allNaturalDisasterRisk").innerHTML = "General Natural Disaster Risk Rating: " + d.properties.risk_rating
+		document.getElementById("earthquakeRisk").innerHTML = "Earthquake Risk Rating: " + d.properties.earthquake_rating
+		document.getElementById("floodRisk").innerHTML = "Flood Risk Rating: " + d.properties.flood_rating
+		document.getElementById("propertyCrimeRisk").innerHTML = "Property Crime Risk Rating: " + d.properties.property_crime + "%"
+		document.getElementById("burglaryRisk").innerHTML = "Burglary Risk Rating: " + d.properties.burglary + "%"
+
+		var barMargin = {top: 50, right: 200, bottom: 150, left: 50}
+		var barWidth = 600 - barMargin.left - barMargin.right;
+    	var barHeight = 400 - barMargin.top - barMargin.bottom;
+		var svgBarChartCost = d3.select("#barChartCost").append("svg")
+		svgBarChartCost.attr("width", barWidth + barMargin.left + barMargin.right)
+		svgBarChartCost.attr("height", barHeight + barMargin.top + barMargin.bottom)
+		svgBarChartCost.attr("id", "svgBarChartCost");
+		svgBarChartCostg = svgBarChartCost.append("g");
+		svgBarChartCostg.attr("transform","translate(" + barMargin.left + "," + barMargin.top + ")")
+
+
+
+	  ///////////////////////
+	  // Scales
+	  var x = d3.scale.ordinal()
+		  .domain(barChartCostData.map(function(data) { return data['label']; }))
+		  .rangeRoundBands([0, barWidth], .1);
+
+	  var y = d3.scale.linear()
+		  .domain([0, d3.max(barChartCostData, function(data) { return data['data']; }) * 1.1])
+		  .range([barHeight, 0]);
+
+	  ///////////////////////
+	  // Axis
+	  var xAxis = d3.svg.axis()
+		  .scale(x)
+		  .orient("bottom");
+
+	  var yAxis = d3.svg.axis()
+		  .scale(y)
+		  .orient("left");
+
+	  svgBarChartCostg.append("g")
+		  .attr("class", "x axis")
+		  .attr("transform", "translate(0," + barHeight + ")")
+		  .call(xAxis)
+		  .selectAll("text")
+      	.attr("transform", "translate(-10,0)rotate(-45)")
+      	.style("text-anchor", "end");
+
+	  svgBarChartCostg.append("g")
+		  .attr("class", "y axis")
+		  .call(yAxis);
+
+	  ///////////////////////
+	  // Title
+	  svgBarChartCostg.append("text")
+		.text('Cost of Ownership (Yearly)')
+		.attr("text-anchor", "middle")
+		.attr("class", "graph-title")
+		.attr("y", -10)
+		.attr("x", barWidth / 2.0);
+
+	  ///////////////////////
+	  // Bars
+	  var bar = svgBarChartCostg.selectAll(".bar")
+		  .data(barChartCostData)
+		.enter().append("rect")
+		  .attr("class", "bar")
+		  .attr("x", function(data) {
+						return x(data['label']);
+						})
+		  //.attr("y", barHeight)
+		  .attr("y", function(data) {
+						return y(data['data']);
+						})
+		  .attr("width", x.rangeBand()/2)
+		  .attr("height", function(data) {
+							return barHeight - y(data['data']);
+							})
+		  .attr("fill", "#69b3a2")
+		  .attr("text-anchor", "middle")
+		  .text(function(d) { return d.data; });
+	bar.append("text")
+		  .attr("x",  x.rangeBand() / 2 )
+		  .attr("y", function(d) { return y(d.data) + 2 ; })
+		  .attr("dy", "1em")
+		  .attr("text-anchor", "middle")
+		  .attr("font-size", "14px")
+		  .attr("fill", "black")
+		  .attr("transform", function(d) { return "translate(0, -20)"; })
+		  .text(function(d) { return d.data; });
+
+	svgBarChartCostg.selectAll("text.bar")
+      .data(barChartCostData)
+    .enter().append("text")
+      .attr("class", "bar")
+      .attr("text-anchor", "middle")
+      .attr("x", function(data) { return x(data['label']) + x.rangeBand()/4 })
+      .attr("y", function(data) { return y(data['data']) - 5; })
+      .text(function(data) { return data['data'].toFixed(0); });
+
+});
+
+
+svg.append("path")
+	.datum(topojson.feature(us, us.objects.states, function(a, b) { return a !== b; }))
+		.attr("class", "states")
+		.attr("d", path);
+svg.select("#legend").remove()
+var legend = svg.append("g")
+	.attr("id", "legend");
+
+var legenditem = legend.selectAll(".legenditem")
+	.data(d3.range(8))
+	.enter()
+	.append("g")
+		.attr("class", "legenditem")
+		.attr("transform", function(d, i) { return "translate(" + i * 31 + ",0)"; });
+
+legenditem.append("rect")
+	.attr("x", width - 240)
+	.attr("y", -7)
+	.attr("width", 30)
+	.attr("height", 6)
+	.attr("class", "rect")
+	.style("fill", function(d, i) { return legendColors[i]; });
+
+// console.log([d3.min(all_cap_rate), d3.max(all_cap_rate)])
+legendText = []
+range_of_legend = Math.abs(d3.min(all_cap_rate)) + Math.abs(d3.max(all_cap_rate))
+interval = range_of_legend / 8;
+for (var i = d3.min(all_cap_rate); i <=d3.max(all_cap_rate); i+=interval) {
+	legendText.push(Math.round(i).toString() + '%');
+}
+
+legenditem.append("text")
+	.attr("x", width - 240)
+	.attr("y", -10)
+	.style("text-anchor", "middle")
+	.text(function(d, i) { return legendText[i]; });
+
+
+}
+d3.select(self.frameElement).style("height", "685px");
+
+
+
+
+
+
+</script>
+
+</body>
+</html>

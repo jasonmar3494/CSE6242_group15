@@ -1,0 +1,2822 @@
+RegionID,SizeRank,RegionName,RegionType,StateName,State,Metro,StateCodeFIPS,MunicipalCodeFIPS,STCOFIPS,ZHVI
+3101,0,Los Angeles County,County,CA,CA,Los Angeles-Long Beach-Anaheim,6,037,6037,804544
+139,1,Cook County,County,IL,IL,Chicago-Naperville-Elgin,17,031,17031,293157
+1090,2,Harris County,County,TX,TX,Houston-The Woodlands-Sugar Land,48,201,48201,247453
+2402,3,Maricopa County,County,AZ,AZ,Phoenix-Mesa-Scottsdale,4,013,4013,419434
+2841,4,San Diego County,County,CA,CA,San Diego-Carlsbad,6,073,6073,809206
+1286,5,Orange County,County,CA,CA,Los Angeles-Long Beach-Anaheim,6,059,6059,935201
+581,6,Kings County,County,NY,NY,New York-Newark-Jersey City,36,047,36047,838724
+2964,7,Miami-Dade County,County,FL,FL,Miami-Fort Lauderdale-West Palm Beach,12,086,12086,390205
+978,8,Dallas County,County,TX,TX,Dallas-Fort Worth-Arlington,48,113,48113,277555
+1347,9,Queens County,County,NY,NY,New York-Newark-Jersey City,36,081,36081,700214
+2832,10,Riverside County,County,CA,CA,Riverside-San Bernardino-Ontario,6,065,6065,543730
+3250,11,San Bernardino County,County,CA,CA,Riverside-San Bernardino-Ontario,6,071,6071,480648
+445,12,Clark County,County,NV,NV,Las Vegas-Henderson-Paradise,32,003,32003,378476
+207,13,King County,County,WA,WA,Seattle-Tacoma-Bellevue,53,033,53033,805871
+791,14,Wayne County,County,MI,MI,Detroit-Warren-Dearborn,26,163,26163,145187
+2049,15,Tarrant County,County,TX,TX,Dallas-Fort Worth-Arlington,48,439,48439,289883
+3136,16,Santa Clara County,County,CA,CA,San Jose-Sunnyvale-Santa Clara,6,085,6085,1481011
+1561,17,Broward County,County,FL,FL,Miami-Fort Lauderdale-West Palm Beach,12,011,12011,348875
+386,18,Bexar County,County,TX,TX,San Antonio-New Braunfels,48,029,48029,242191
+2452,19,New York County,County,NY,NY,New York-Newark-Jersey City,36,061,36061,1261527
+3175,20,Philadelphia County,County,PA,PA,Philadelphia-Camden-Wilmington,42,101,42101,225639
+1510,21,Alameda County,County,CA,CA,San Francisco-Oakland-Hayward,6,001,6001,1129789
+2801,22,Middlesex County,County,MA,MA,Boston-Cambridge-Newton,25,017,25017,679550
+2046,23,Suffolk County,County,NY,NY,New York-Newark-Jersey City,36,103,36103,680749
+3017,24,Sacramento County,County,CA,CA,Sacramento--Roseville--Arden-Arcade,6,067,6067,513940
+401,25,Bronx County,County,NY,NY,New York-Newark-Jersey City,36,005,36005,479627
+1252,26,Nassau County,County,NY,NY,New York-Newark-Jersey City,36,059,36059,666944
+2993,27,Palm Beach County,County,FL,FL,Miami-Fort Lauderdale-West Palm Beach,12,099,12099,380668
+2241,28,Cuyahoga County,County,OH,OH,Cleveland-Elyria,39,035,39035,180993
+3165,29,Hillsborough County,County,FL,FL,Tampa-St. Petersburg-Clearwater,12,057,12057,327247
+2614,30,Allegheny County,County,PA,PA,Pittsburgh,42,003,42003,214170
+1950,31,Oakland County,County,MI,MI,Detroit-Warren-Dearborn,26,125,26125,315758
+2288,32,Franklin County,County,OH,OH,Columbus,39,049,39049,251116
+2339,33,Hennepin County,County,MN,MN,Minneapolis-St. Paul-Bloomington,27,053,27053,361085
+1287,34,Orange County,County,FL,FL,Orlando-Kissimmee-Sanford,12,095,12095,336306
+1694,35,Fairfax County,County,VA,VA,Washington-Arlington-Alexandria,51,059,51059,666372
+3159,36,Contra Costa County,County,CA,CA,San Francisco-Oakland-Hayward,6,013,6013,909963
+2840,37,Salt Lake County,County,UT,UT,Salt Lake City,49,035,49035,541027
+1440,38,Travis County,County,TX,TX,Austin-Round Rock,48,453,48453,577475
+3130,39,Saint Louis County,County,MO,MO,St. Louis,29,189,29189,238412
+281,40,Pima County,County,AZ,AZ,Tucson,4,019,4019,301455
+2975,41,Montgomery County,County,MD,MD,Washington-Arlington-Alexandria,24,031,24031,561255
+2347,42,Honolulu County,County,HI,HI,Urban Honolulu,15,003,15003,841037
+3148,43,Westchester County,County,NY,NY,New York-Newark-Jersey City,36,119,36119,724167
+2804,44,Milwaukee County,County,WI,WI,Milwaukee-Waukesha-West Allis,55,079,55079,194279
+1018,45,Fresno County,County,CA,CA,Fresno,6,019,6019,353776
+1388,46,Shelby County,County,TN,TN,Memphis,47,157,47157,193778
+1020,47,Fulton County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,121,13121,376723
+3102,48,Mecklenburg County,County,NC,NC,Charlotte-Concord-Gastonia,37,119,37119,347386
+157,49,Erie County,County,NY,NY,Buffalo-Cheektowaga-Niagara Falls,36,029,36029,234841
+1682,50,DuPage County,County,IL,IL,Chicago-Naperville-Elgin,17,043,17043,334733
+2694,51,Fairfield County,County,CT,CT,Bridgeport-Stamford-Norwalk,9,001,9001,520024
+2480,52,Pinellas County,County,FL,FL,Tampa-St. Petersburg-Clearwater,12,103,12103,322029
+874,53,Bergen County,County,NJ,NJ,New York-Newark-Jersey City,34,003,34003,576468
+1165,54,Marion County,County,IN,IN,Indianapolis-Carmel-Anderson,18,097,18097,194437
+324,55,Wake County,County,NC,NC,Raleigh,37,183,37183,409080
+2337,56,Hartford County,County,CT,CT,Hartford-West Hartford-East Hartford,9,003,9003,278852
+489,57,Duval County,County,FL,FL,Jacksonville,12,031,12031,263026
+3246,58,Prince Georges County,County,MD,MD,Washington-Arlington-Alexandria,24,033,24033,390825
+2815,59,New Haven County,County,CT,CT,New Haven-Milford,9,009,9009,301014
+1155,60,Macomb County,County,MI,MI,Detroit-Warren-Dearborn,26,099,26099,232046
+204,61,Kern County,County,CA,CA,Bakersfield,6,029,6029,300675
+2061,62,Ventura County,County,CA,CA,Oxnard-Thousand Oaks-Ventura,6,111,6111,788494
+2802,63,Middlesex County,County,NJ,NJ,New York-Newark-Jersey City,34,023,34023,417219
+2314,64,Gwinnett County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,135,13135,335298
+3227,65,San Francisco County,County,CA,CA,San Francisco-Oakland-Hayward,6,075,6075,1522846
+2626,66,Baltimore County,County,MD,MD,Baltimore-Columbia-Towson,24,005,24005,305226
+2322,67,Hamilton County,County,OH,OH,Cincinnati,39,061,39061,217646
+1690,68,El Paso County,County,TX,TX,El Paso,48,141,48141,170613
+2981,69,Montgomery County,County,PA,PA,Philadelphia-Camden-Wilmington,42,091,42091,403658
+2879,70,Worcester County,County,MA,MA,Worcester,25,027,25027,394991
+1322,71,Pierce County,County,WA,WA,Seattle-Tacoma-Bellevue,53,053,53053,511137
+504,72,Essex County,County,NJ,NJ,New York-Newark-Jersey City,34,013,34013,513781
+951,73,Collin County,County,TX,TX,Dallas-Fort Worth-Arlington,48,085,48085,449018
+1776,74,Hidalgo County,County,TX,TX,McAllen-Edinburg-Mission,48,215,48215,144301
+1223,75,Monroe County,County,NY,NY,Rochester,36,055,36055,199702
+503,76,Essex County,County,MA,MA,Boston-Cambridge-Newton,25,009,25009,591427
+2742,77,Jefferson County,County,KY,KY,Louisville/Jefferson County,21,111,21111,215040
+2810,78,Multnomah County,County,OR,OR,Portland-Vancouver-Hillsboro,41,051,41051,522911
+2045,79,Suffolk County,County,MA,MA,Boston-Cambridge-Newton,25,025,25025,664884
+2463,80,Oklahoma County,County,OK,OK,Oklahoma City,40,109,40109,181690
+2842,81,San Mateo County,County,CA,CA,San Francisco-Oakland-Hayward,6,081,6081,1607415
+2847,82,Snohomish County,County,WA,WA,Seattle-Tacoma-Bellevue,53,061,53061,676205
+220,83,Lake County,County,IL,IL,Chicago-Naperville-Elgin,17,097,17097,288146
+984,84,Dekalb County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,089,13089,290013
+135,85,Cobb County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,067,13067,357855
+3134,86,San Joaquin County,County,CA,CA,Stockton-Lodi,6,077,6077,522211
+330,87,Will County,County,IL,IL,Chicago-Naperville-Elgin,17,197,17197,273902
+1804,88,Jackson County,County,MO,MO,Kansas City,29,095,29095,200581
+1948,89,Norfolk County,County,MA,MA,Boston-Cambridge-Newton,25,021,25021,634073
+988,90,Denton County,County,TX,TX,Dallas-Fort Worth-Arlington,48,121,48121,400210
+2889,91,Bernalillo County,County,NM,NM,Albuquerque,35,001,35001,275041
+2732,92,Jefferson County,County,AL,AL,Birmingham-Hoover,1,073,1073,183190
+1106,93,Hudson County,County,NJ,NJ,New York-Newark-Jersey City,34,017,34017,535035
+2441,94,Monmouth County,County,NJ,NJ,New York-Newark-Jersey City,34,025,34025,564535
+2243,95,Davidson County,County,TN,TN,Nashville-Davidson--Murfreesboro--Franklin,47,037,47037,367681
+3001,96,Providence County,County,RI,RI,Providence-Warwick,44,007,44007,352422
+414,97,Bucks County,County,PA,PA,Philadelphia-Camden-Wilmington,42,017,42017,421579
+1689,98,El Paso County,County,CO,CO,Colorado Springs,8,041,8041,442022
+3236,99,Baltimore City,County,MD,MD,Baltimore-Columbia-Towson,24,510,24510,187174
+80,100,Lee County,County,FL,FL,Cape Coral-Fort Myers,12,071,12071,327172
+757,101,Tulsa County,County,OK,OK,Tulsa,40,143,40143,184984
+201,102,Kent County,County,MI,MI,Grand Rapids-Wyoming,26,081,26081,270803
+285,103,Polk County,County,FL,FL,Lakeland-Winter Haven,12,105,12105,253711
+3289,104,District of Columbia,County,DC,DC,Washington-Arlington-Alexandria,11,001,11001,698461
+989,105,Denver County,County,CO,CO,Denver-Aurora-Lakewood,8,031,8031,568805
+2698,106,Fort Bend County,County,TX,TX,Houston-The Woodlands-Sugar Land,48,157,48157,334679
+659,107,Ocean County,County,NJ,NJ,New York-Newark-Jersey City,34,029,34029,410658
+2127,108,Arapahoe County,County,CO,CO,Denver-Aurora-Lakewood,8,005,8005,516083
+2251,109,Delaware County,County,PA,PA,Philadelphia-Camden-Wilmington,42,045,42045,298574
+1558,110,Bristol County,County,MA,MA,Providence-Warwick,25,005,25005,436450
+1822,111,Johnson County,County,KS,KS,Kansas City,20,091,20091,362663
+1556,112,Brevard County,County,FL,FL,Palm Bay-Melbourne-Titusville,12,009,12009,294248
+1404,113,Summit County,County,OH,OH,Akron,39,153,39153,179205
+2986,114,New Castle County,County,DE,DE,Philadelphia-Camden-Wilmington,10,003,10003,302653
+3152,115,Anne Arundel County,County,MD,MD,Baltimore-Columbia-Towson,24,003,24003,427105
+771,116,Union County,County,NJ,NJ,New York-Newark-Jersey City,34,039,34039,471825
+2980,117,Montgomery County,County,OH,OH,Dayton,39,113,39113,154127
+2734,118,Jefferson County,County,CO,CO,Denver-Aurora-Lakewood,8,059,8059,608424
+3069,119,Washington County,County,OR,OR,Portland-Vancouver-Hillsboro,41,067,41067,549227
+2776,120,Lancaster County,County,PA,PA,Lancaster,42,071,42071,288083
+1676,121,Douglas County,County,NE,NE,Omaha-Council Bluffs,31,055,31055,243092
+322,122,Utah County,County,UT,UT,Provo-Orem,49,049,49049,523468
+197,123,Kane County,County,IL,IL,Chicago-Naperville-Elgin,17,089,17089,282826
+3033,124,Stanislaus County,County,CA,CA,Modesto,6,099,6099,431020
+911,125,Camden County,County,NJ,NJ,Philadelphia-Camden-Wilmington,34,007,34007,246559
+1349,126,Ramsey County,County,MN,MN,Minneapolis-St. Paul-Bloomington,27,123,27123,309484
+1964,127,Passaic County,County,NJ,NJ,New York-Newark-Jersey City,34,031,34031,440605
+1611,128,Chester County,County,PA,PA,Philadelphia-Camden-Wilmington,42,029,42029,443187
+2537,129,Sedgwick County,County,KS,KS,Wichita,20,173,20173,178752
+221,130,Lake County,County,IN,IN,Chicago-Naperville-Elgin,18,089,18089,204058
+2482,131,Plymouth County,County,MA,MA,Boston-Cambridge-Newton,25,023,25023,524194
+2063,132,Volusia County,County,FL,FL,Deltona-Daytona Beach-Ormond Beach,12,127,12127,283490
+1241,133,Morris County,County,NJ,NJ,New York-Newark-Jersey City,34,027,34027,529773
+2312,134,Guilford County,County,NC,NC,Greensboro-High Point,37,081,37081,215924
+146,135,Dane County,County,WI,WI,Madison,55,025,55025,352904
+1396,136,Sonoma County,County,CA,CA,Santa Rosa,6,097,6097,769431
+2033,137,Spokane County,County,WA,WA,Spokane-Spokane Valley,53,063,53063,399470
+2511,138,Richmond County,County,NY,NY,New York-Newark-Jersey City,36,085,36085,603546
+2465,139,Onondaga County,County,NY,NY,Syracuse,36,067,36067,186843
+669,140,Pasco County,County,FL,FL,Tampa-St. Petersburg-Clearwater,12,101,12101,274338
+1746,141,Hampden County,County,MA,MA,Springfield,25,013,25013,276932
+2983,142,Montgomery County,County,TX,TX,Houston-The Woodlands-Sugar Land,48,339,48339,317399
+2934,143,Greenville County,County,SC,SC,Greenville-Anderson-Mauldin,45,045,45045,265352
+2896,144,Burlington County,County,NJ,NJ,Philadelphia-Camden-Wilmington,34,005,34005,301905
+1442,145,Tulare County,County,CA,CA,Visalia-Porterville,6,107,6107,295769
+616,146,Lucas County,County,OH,OH,Toledo,39,095,39095,136548
+353,147,Adams County,County,CO,CO,Denver-Aurora-Lakewood,8,001,8001,481246
+3266,148,East Baton Rouge Parish,County,LA,LA,Baton Rouge,22,033,22033,206067
+3286,149,Virginia Beach City,County,VA,VA,Virginia Beach-Norfolk-Newport News,51,810,51810,339938
+343,150,York County,County,PA,PA,York-Hanover,42,133,42133,239841
+2743,151,Jefferson Parish,County,LA,LA,New Orleans-Metairie,22,051,22051,251657
+215,152,Knox County,County,TN,TN,Knoxville,47,093,47093,282606
+287,153,Polk County,County,IA,IA,Des Moines-West Des Moines,19,153,19153,233539
+1721,154,Genesee County,County,MI,MI,Flint,26,049,26049,163281
+448,155,Clark County,County,WA,WA,Portland-Vancouver-Hillsboro,53,011,53011,496243
+3229,156,Santa Barbara County,County,CA,CA,Santa Maria-Santa Barbara,6,083,6083,840434
+2538,157,Seminole County,County,FL,FL,Orlando-Kissimmee-Sanford,12,117,12117,340107
+3081,158,Williamson County,County,TX,TX,Austin-Round Rock,48,491,48491,480905
+1485,159,Washoe County,County,NV,NV,Reno,32,031,32031,524148
+2444,160,Monterey County,County,CA,CA,Salinas,6,053,6053,778228
+1395,161,Solano County,County,CA,CA,Vallejo-Fairfield,6,095,6095,576622
+1208,162,Mobile County,County,AL,AL,Mobile,1,097,1097,160820
+385,163,Berks County,County,PA,PA,Reading,42,011,42011,235330
+1585,164,Cameron County,County,TX,TX,Brownsville-Harlingen,48,061,48061,137073
+3247,165,Prince William County,County,VA,VA,Washington-Arlington-Alexandria,51,153,51153,488997
+3166,166,Hillsborough County,County,NH,NH,Manchester-Nashua,33,011,33011,402576
+971,167,Dakota County,County,MN,MN,Minneapolis-St. Paul-Bloomington,27,037,27037,358326
+66,168,Ada County,County,ID,ID,Boise City,16,001,16001,545901
+2596,169,Waukesha County,County,WI,WI,Milwaukee-Waukesha-West Allis,55,133,55133,362329
+2507,170,Richland County,County,SC,SC,Columbia,45,079,45079,195637
+1981,171,Pulaski County,County,AR,AR,Little Rock-North Little Rock-Conway,5,119,5119,162744
+2528,172,Sarasota County,County,FL,FL,North Port-Sarasota-Bradenton,12,115,12115,378759
+2661,173,Clackamas County,County,OR,OR,Portland-Vancouver-Hillsboro,41,005,41005,580632
+685,174,Pinal County,County,AZ,AZ,Phoenix-Mesa-Scottsdale,4,021,4021,351664
+730,175,Stark County,County,OH,OH,Canton-Massillon,39,151,39151,170114
+1290,176,Orange County,County,NY,NY,New York-Newark-Jersey City,36,071,36071,364535
+904,177,Butler County,County,OH,OH,Cincinnati,39,017,39017,240486
+1201,178,Mercer County,County,NJ,NJ,Trenton,34,021,34021,315408
+3200,179,Westmoreland County,County,PA,PA,Pittsburgh,42,129,42129,199944
+3223,180,Saint Charles County,County,MO,MO,St. Louis,29,183,29183,297312
+367,181,Allen County,County,IN,IN,Fort Wayne,18,003,18003,188216
+231,182,Lane County,County,OR,OR,Eugene,41,039,41039,414361
+1712,183,Forsyth County,County,NC,NC,Winston-Salem,37,067,37067,214425
+2897,184,Charleston County,County,SC,SC,Charleston-North Charleston,45,019,45019,446427
+1146,185,Lehigh County,County,PA,PA,Allentown-Bethlehem-Easton,42,077,42077,268282
+1325,186,Placer County,County,CA,CA,Sacramento--Roseville--Arden-Arcade,6,061,6061,673870
+2869,187,Washtenaw County,County,MI,MI,Ann Arbor,26,161,26161,351613
+1953,188,Orleans Parish,County,LA,LA,New Orleans-Metairie,22,071,22071,264864
+1272,189,Nueces County,County,TX,TX,Corpus Christi,48,355,48355,199258
+2323,190,Hamilton County,County,TN,TN,Chattanooga,47,065,47065,253438
+1894,191,Madison County,County,AL,AL,Huntsville,1,089,1089,262848
+1161,192,Marion County,County,FL,FL,Ocala,12,083,12083,207964
+373,193,Anoka County,County,MN,MN,Minneapolis-St. Paul-Bloomington,27,003,27003,336200
+2552,194,Somerset County,County,NJ,NJ,New York-Newark-Jersey City,34,035,34035,493644
+1916,195,Manatee County,County,FL,FL,North Port-Sarasota-Bradenton,12,081,12081,376256
+1638,196,Collier County,County,FL,FL,Naples-Immokalee-Marco Island,12,021,12021,458330
+1893,197,Luzerne County,County,PA,PA,Scranton--Wilkes-Barre--Hazleton,42,079,42079,150793
+2912,198,Cumberland County,County,NC,NC,Fayetteville,37,051,37051,162415
+3269,199,Saint Louis City,County,MO,MO,St. Louis,29,510,29510,160147
+3158,200,Chesterfield County,County,VA,VA,Richmond,51,041,51041,312017
+1171,201,Marion County,County,OR,OR,Salem,41,047,41047,398053
+2151,202,Brazoria County,County,TX,TX,Houston-The Woodlands-Sugar Land,48,039,48039,280284
+1887,203,Loudoun County,County,VA,VA,Washington-Arlington-Alexandria,51,107,51107,672605
+2515,204,Rockland County,County,NY,NY,New York-Newark-Jersey City,36,087,36087,555323
+98,205,Bell County,County,TX,TX,Killeen-Temple,48,027,48027,215387
+1922,206,McHenry County,County,IL,IL,Chicago-Naperville-Elgin,17,111,17111,266884
+1771,207,Henrico County,County,VA,VA,Richmond,51,087,51087,304848
+470,208,Davis County,County,UT,UT,Ogden-Clearfield,49,011,49011,512494
+823,209,Albany County,County,NY,NY,Albany-Schenectady-Troy,36,001,36001,273954
+1150,210,Lorain County,County,OH,OH,Cleveland-Elyria,39,093,39093,194390
+1849,211,Larimer County,County,CO,CO,Fort Collins,8,069,8069,507628
+3112,212,Northampton County,County,PA,PA,Allentown-Bethlehem-Easton,42,095,42095,277688
+2259,213,Escambia County,County,FL,FL,Pensacola-Ferry Pass-Brent,12,033,12033,215259
+2255,214,Dutchess County,County,NY,NY,New York-Newark-Jersey City,36,027,36027,396085
+219,215,Lake County,County,FL,FL,Orlando-Kissimmee-Sanford,12,069,12069,298451
+1701,216,Fayette County,County,KY,KY,Lexington-Fayette,21,067,21067,248795
+2877,217,Winnebago County,County,IL,IL,Rockford,17,201,17201,143422
+3013,218,Rockingham County,County,NH,NH,Boston-Cambridge-Newton,33,015,33015,482730
+1549,219,Boulder County,County,CO,CO,Boulder,8,013,8013,708602
+2616,220,Anchorage Borough,County,AK,AK,Anchorage,2,020,2020,359041
+2702,221,Galveston County,County,TX,TX,Houston-The Woodlands-Sugar Land,48,167,48167,284578
+2929,222,Gloucester County,County,NJ,NJ,Philadelphia-Camden-Wilmington,34,015,34015,266395
+1101,223,Howard County,County,MD,MD,Baltimore-Columbia-Towson,24,027,24027,526694
+1670,224,Douglas County,County,CO,CO,Denver-Aurora-Lakewood,8,035,8035,688787
+2775,225,Lancaster County,County,NE,NE,Lincoln,31,109,31109,250362
+3141,226,Spartanburg County,County,SC,SC,Spartanburg,45,083,45083,204191
+2911,227,Cumberland County,County,ME,ME,Portland-South Portland,23,005,23005,449797
+1110,228,Ingham County,County,MI,MI,Lansing-East Lansing,26,065,26065,175408
+159,229,Erie County,County,PA,PA,Erie,42,049,42049,162496
+1891,230,Lubbock County,County,TX,TX,Lubbock,48,303,48303,179532
+3131,231,Saint Lucie County,County,FL,FL,Port St. Lucie,12,111,12111,307594
+232,232,Leon County,County,FL,FL,Tallahassee,12,073,12073,233678
+1057,233,Greene County,County,MO,MO,Springfield,29,077,29077,192382
+2318,234,Hamilton County,County,IN,IN,Indianapolis-Carmel-Anderson,18,057,18057,367608
+2133,235,Atlantic County,County,NJ,NJ,Atlantic City-Hammonton,34,001,34001,273348
+2987,236,New London County,County,CT,CT,Norwich-New London,9,011,9011,311833
+3122,237,Saint Clair County,County,IL,IL,St. Louis,17,163,17163,136741
+3261,238,San Luis Obispo County,County,CA,CA,San Luis Obispo-Paso Robles-Arroyo Grande,6,079,6079,770495
+563,239,Horry County,County,SC,SC,Myrtle Beach-Conway-North Myrtle Beach,45,051,45051,249148
+1900,240,Madison County,County,IL,IL,St. Louis,17,119,17119,157046
+1957,241,Osceola County,County,FL,FL,Orlando-Kissimmee-Sanford,12,097,12097,294741
+1650,242,Dauphin County,County,PA,PA,Harrisburg-Carlisle,42,043,42043,210275
+999,243,Durham County,County,NC,NC,Durham-Chapel Hill,37,063,37063,342148
+2849,244,Saint Joseph County,County,IN,IN,South Bend-Mishawaka,18,141,18141,174931
+1608,245,Chatham County,County,GA,GA,Savannah,13,051,13051,237146
+1300,246,Ottawa County,County,MI,MI,Grand Rapids-Wyoming,26,139,26139,299129
+3016,247,Rutherford County,County,TN,TN,Nashville-Davidson--Murfreesboro--Franklin,47,149,47149,331988
+2779,248,Lexington County,County,SC,SC,Columbia,45,063,45063,213652
+3025,249,Santa Cruz County,County,CA,CA,Santa Cruz-Watsonville,6,087,6087,1112980
+1622,250,Clayton County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,063,13063,188720
+1196,251,Merced County,County,CA,CA,Merced,6,047,6047,373447
+2668,252,Cleveland County,County,OK,OK,Oklahoma City,40,027,40027,203559
+423,253,Caddo Parish,County,LA,LA,Shreveport-Bossier City,22,017,22017,127082
+329,254,Weld County,County,CO,CO,Greeley,8,123,8123,473711
+625,255,Marin County,County,CA,CA,San Francisco-Oakland-Hayward,6,041,6041,1480898
+2754,256,Jefferson County,County,TX,TX,Beaumont-Port Arthur,48,245,48245,137371
+2575,257,Thurston County,County,WA,WA,Olympia-Tumwater,53,067,53067,475431
+1138,258,Kitsap County,County,WA,WA,Bremerton-Silverdale,53,035,53035,526895
+2761,259,Kalamazoo County,County,MI,MI,Kalamazoo-Portage,26,077,26077,222478
+328,260,Webb County,County,TX,TX,Laredo,48,479,48479,171315
+410,261,Brown County,County,WI,WI,Green Bay,55,009,55009,233661
+1509,262,Alachua County,County,FL,FL,Gainesville,12,001,12001,247022
+562,263,Hinds County,County,MS,MS,Jackson,28,049,28049,115827
+1761,264,Harford County,County,MD,MD,Baltimore-Columbia-Towson,24,025,24025,355661
+1503,265,Yakima County,County,WA,WA,Yakima,53,077,53077,304360
+3173,266,Norfolk City,County,VA,VA,Virginia Beach-Norfolk-Newport News,51,710,51710,252580
+2399,267,Mahoning County,County,OH,OH,Youngstown-Warren-Boardman,39,099,39099,132686
+2156,268,Buncombe County,County,NC,NC,Asheville,37,021,37021,382386
+3061,269,Washington County,County,MN,MN,Minneapolis-St. Paul-Bloomington,27,163,27163,399630
+2914,270,Cumberland County,County,PA,PA,Harrisburg-Carlisle,42,041,42041,258722
+2429,271,McLennan County,County,TX,TX,Waco,48,309,48309,223936
+1283,272,Oneida County,County,NY,NY,Utica-Rome,36,065,36065,180364
+3225,273,Saint Tammany Parish,County,LA,LA,New Orleans-Metairie,22,103,22103,266564
+2699,274,Frederick County,County,MD,MD,Washington-Arlington-Alexandria,24,021,24021,421454
+802,275,Weber County,County,UT,UT,Ogden-Clearfield,49,057,49057,426893
+225,276,Lake County,County,OH,OH,Cleveland-Elyria,39,085,39085,196359
+2967,277,Montgomery County,County,AL,AL,Montgomery,1,101,1101,122250
+344,278,York County,County,SC,SC,Charlotte-Concord-Gastonia,45,091,45091,312065
+3254,279,Chesapeake City,County,VA,VA,Virginia Beach-Norfolk-Newport News,51,550,51550,337141
+126,280,Clay County,County,MO,MO,Kansas City,29,047,29047,255295
+2770,281,Lafayette Parish,County,LA,LA,Lafayette,22,055,22055,197170
+864,282,Benton County,County,AR,AR,Fayetteville-Springdale-Rogers,5,007,5007,273790
+418,283,Butte County,County,CA,CA,Chico,6,007,6007,390605
+2529,284,Saratoga County,County,NY,NY,Albany-Schenectady-Troy,36,091,36091,340101
+2744,285,Jefferson County,County,MO,MO,St. Louis,29,099,29099,217614
+1946,286,Niagara County,County,NY,NY,Buffalo-Cheektowaga-Niagara Falls,36,063,36063,194324
+2885,287,Barnstable County,County,MA,MA,Barnstable Town,25,001,25001,611001
+2949,288,Lackawanna County,County,PA,PA,Scranton--Wilkes-Barre--Hazleton,42,069,42069,167830
+2188,289,Cherokee County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,057,13057,375105
+1480,290,Warren County,County,OH,OH,Cincinnati,39,165,39165,309626
+235,291,Linn County,County,IA,IA,Cedar Rapids,19,113,19113,185057
+2112,292,Yavapai County,County,AZ,AZ,Prescott,4,025,4025,451786
+2583,293,Trumbull County,County,OH,OH,Youngstown-Warren-Boardman,39,155,39155,128444
+725,294,Smith County,County,TX,TX,Tyler,48,423,48423,212977
+2252,295,Dona Ana County,County,NM,NM,Las Cruces,35,013,35013,218436
+3070,296,Washington County,County,PA,PA,Pittsburgh,42,125,42125,203805
+2619,297,Arlington County,County,VA,VA,Washington-Arlington-Alexandria,51,013,51013,789518
+1032,298,Gaston County,County,NC,NC,Charlotte-Concord-Gastonia,37,071,37071,238307
+3219,299,Richmond City,County,VA,VA,Richmond,51,760,51760,291353
+553,300,Henry County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,151,13151,271480
+1809,301,Jackson County,County,OR,OR,Medford,41,029,41029,406736
+3048,302,Washington County,County,AR,AR,Fayetteville-Springdale-Rogers,5,143,5143,256995
+3109,303,New Hanover County,County,NC,NC,Wilmington,37,129,37129,326626
+770,304,Union County,County,NC,NC,Charlotte-Concord-Gastonia,37,179,37179,376880
+2086,305,Whatcom County,County,WA,WA,Bellingham,53,073,53073,553205
+2648,306,Champaign County,County,IL,IL,Champaign-Urbana,17,019,17019,172418
+340,307,Yolo County,County,CA,CA,Sacramento--Roseville--Arden-Arcade,6,113,6113,582714
+895,308,Broome County,County,NY,NY,Binghamton,36,007,36007,151421
+2509,309,Richmond County,County,GA,GA,Augusta-Richmond County,13,245,13245,148002
+3129,310,Saint Louis County,County,MN,MN,Duluth,27,137,27137,205061
+1210,311,Mohave County,County,AZ,AZ,Lake Havasu City-Kingman,4,015,4015,335278
+2010,312,Saginaw County,County,MI,MI,Saginaw,26,145,26145,129476
+1691,313,Elkhart County,County,IN,IN,Elkhart-Goshen,18,039,18039,208162
+2526,314,Sangamon County,County,IL,IL,Springfield,17,167,17167,147755
+2206,315,Clermont County,County,OH,OH,Cincinnati,39,025,39025,251738
+1412,316,Sussex County,County,DE,DE,Salisbury,10,005,10005,386880
+341,317,York County,County,ME,ME,Portland-South Portland,23,031,23031,417378
+347,318,Yuma County,County,AZ,AZ,Yuma,4,027,4027,226341
+1348,319,Racine County,County,WI,WI,Racine,55,101,55101,198661
+1381,320,Shelby County,County,AL,AL,Birmingham-Hoover,1,117,1117,286516
+890,321,Brazos County,County,TX,TX,College Station-Bryan,48,041,48041,245533
+3043,322,Tuscaloosa County,County,AL,AL,Tuscaloosa,1,125,1125,206492
+1832,323,Kanawha County,County,WV,WV,Charleston,54,039,54039,117800
+2644,324,Calcasieu Parish,County,LA,LA,Lake Charles,22,019,22019,181374
+118,325,Clay County,County,FL,FL,Jacksonville,12,019,12019,289100
+3128,326,Saint Johns County,County,FL,FL,Jacksonville,12,109,12109,434722
+2955,327,Litchfield County,County,CT,CT,Torrington,9,005,9005,326031
+2448,328,Muscogee County,County,GA,GA,Columbus,13,215,13215,141788
+913,329,Canyon County,County,ID,ID,Boise City,16,027,16027,417263
+2122,330,Anderson County,County,SC,SC,Greenville-Anderson-Mauldin,45,007,45007,222250
+2333,331,Harrison County,County,MS,MS,Gulfport-Biloxi-Pascagoula,28,047,28047,174646
+1314,332,Peoria County,County,IL,IL,Peoria,17,143,17143,116788
+1092,333,Hawaii County,County,HI,HI,Hilo,15,001,15001,489658
+905,334,Butler County,County,PA,PA,Pittsburgh,42,019,42019,301531
+3080,335,Williamson County,County,TN,TN,Nashville-Davidson--Murfreesboro--Franklin,47,187,47187,674233
+1448,336,Ulster County,County,NY,NY,Kingston,36,111,36111,350270
+1525,337,Baldwin County,County,AL,AL,Daphne-Fairhope-Foley,1,003,1003,284928
+2691,338,El Dorado County,County,CA,CA,Sacramento--Roseville--Arden-Arcade,6,017,6017,667789
+2959,339,Livingston County,County,MI,MI,Detroit-Warren-Dearborn,26,093,26093,351004
+2460,340,Okaloosa County,County,FL,FL,Crestview-Fort Walton Beach-Destin,12,091,12091,317571
+3278,341,Newport News City,County,VA,VA,Virginia Beach-Norfolk-Newport News,51,700,51700,230421
+3146,342,Vanderburgh County,County,IN,IN,Evansville,18,163,18163,162945
+172,343,Hall County,County,GA,GA,Gainesville,13,139,13139,309951
+2159,344,Cabarrus County,County,NC,NC,Charlotte-Concord-Gastonia,37,025,37025,308409
+2023,345,Shawnee County,County,KS,KS,Topeka,20,177,20177,154660
+2141,346,Berkeley County,County,SC,SC,Charleston-North Charleston,45,015,45015,277790
+1285,347,Onslow County,County,NC,NC,Jacksonville,37,133,37133,198412
+1380,348,Shasta County,County,CA,CA,Redding,6,089,6089,359910
+2820,349,Outagamie County,County,WI,WI,Appleton,55,087,55087,242675
+1711,350,Forsyth County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,117,13117,480775
+872,351,Benton County,County,WA,WA,Kennewick-Richland,53,005,53005,386994
+2354,352,Imperial County,County,CA,CA,El Centro,6,025,6025,294487
+2249,353,Delaware County,County,OH,OH,Columbus,39,041,39041,411133
+3041,354,Tippecanoe County,County,IN,IN,Lafayette-West Lafayette,18,157,18157,223264
+2341,355,Hernando County,County,FL,FL,Tampa-St. Petersburg-Clearwater,12,053,12053,255437
+1191,356,Medina County,County,OH,OH,Cleveland-Elyria,39,103,39103,270025
+2982,357,Montgomery County,County,TN,TN,Clarksville,47,125,47125,248702
+2449,358,Muskegon County,County,MI,MI,Muskegon,26,121,26121,192997
+860,359,Beaver County,County,PA,PA,Pittsburgh,42,007,42007,170428
+1225,360,Monroe County,County,PA,PA,East Stroudsburg,42,089,42089,258481
+1186,361,McLean County,County,IL,IL,Bloomington,17,113,17113,185303
+2805,362,Minnehaha County,County,SD,SD,Sioux Falls,46,099,46099,265937
+2360,363,Johnston County,County,NC,NC,Raleigh,37,101,37101,273360
+67,364,Bay County,County,FL,FL,Panama City,12,005,12005,289873
+283,365,Pitt County,County,NC,NC,Greenville,37,147,37147,181153
+1595,366,Carroll County,County,MD,MD,Baltimore-Columbia-Towson,24,013,24013,420554
+2878,367,Winnebago County,County,WI,WI,Oshkosh-Neenah,55,139,55139,191344
+1862,368,Licking County,County,OH,OH,Columbus,39,089,39089,262486
+1837,369,Kenosha County,County,WI,WI,Chicago-Naperville-Elgin,55,059,55059,242039
+202,370,Kent County,County,RI,RI,Providence-Warwick,44,003,44003,339557
+2800,371,Middlesex County,County,CT,CT,Hartford-West Hartford-East Hartford,9,007,9007,358326
+706,372,Scott County,County,IA,IA,Davenport-Moline-Rock Island,19,163,19163,186547
+1330,373,Porter County,County,IN,IN,Chicago-Naperville-Elgin,18,127,18127,275682
+3123,374,Saint Clair County,County,MI,MI,Detroit-Warren-Dearborn,26,147,26147,213571
+2242,375,Davidson County,County,NC,NC,Winston-Salem,37,057,37057,197435
+395,376,Boone County,County,MO,MO,Columbia,29,019,29019,240252
+199,377,Kent County,County,DE,DE,Dover,10,001,10001,287544
+2138,378,Beaufort County,County,SC,SC,Hilton Head Island-Bluffton-Beaufort,45,013,45013,411534
+1061,379,Greene County,County,OH,OH,Dayton,39,057,39057,234253
+1975,380,Portage County,County,OH,OH,Akron,39,133,39133,216670
+983,381,DeSoto County,County,MS,MS,Memphis,28,033,28033,249206
+1407,382,Sumner County,County,TN,TN,Nashville-Davidson--Murfreesboro--Franklin,47,165,47165,353726
+308,383,Rock County,County,WI,WI,Janesville-Beloit,55,105,55105,189009
+1802,384,Jackson County,County,MI,MI,Jackson,26,075,26075,184815
+365,385,Aiken County,County,SC,SC,Augusta-Richmond County,45,003,45003,190358
+2650,386,Charlotte County,County,FL,FL,Punta Gorda,12,015,12015,308537
+1133,387,Kenton County,County,KY,KY,Cincinnati,21,117,21117,213699
+1789,388,Iredell County,County,NC,NC,Charlotte-Concord-Gastonia,37,097,37097,301142
+3004,389,Rensselaer County,County,NY,NY,Albany-Schenectady-Troy,36,083,36083,243545
+1337,390,Pueblo County,County,CO,CO,Pueblo,8,101,8101,268892
+704,391,Sarpy County,County,NE,NE,Omaha-Council Bluffs,31,153,31153,276047
+2714,392,Hampshire County,County,MA,MA,Springfield,25,015,25015,345670
+2679,393,Deschutes County,County,OR,OR,Bend-Redmond,41,017,41017,643071
+2881,394,Wyandotte County,County,KS,KS,Kansas City,20,209,20209,160902
+178,395,Hays County,County,TX,TX,Austin-Round Rock,48,209,48209,423125
+2913,396,Cumberland County,County,NJ,NJ,Vineland-Bridgeton,34,011,34011,197189
+2569,397,Sullivan County,County,TN,TN,Kingsport-Bristol-Bristol,47,163,47163,169570
+1544,398,Berrien County,County,MI,MI,Niles-Benton Harbor,26,021,26021,226619
+2901,399,Chittenden County,County,VT,VT,Burlington-South Burlington,50,007,50007,403875
+101,400,Bibb County,County,GA,GA,Macon-Bibb County,13,021,13021,113737
+250,401,Maui County,County,HI,HI,Kahului-Wailuku-Lahaina,15,009,15009,825114
+3137,402,Schenectady County,County,NY,NY,Albany-Schenectady-Troy,36,093,36093,221223
+1604,403,Catawba County,County,NC,NC,Hickory-Lenoir-Morganton,37,035,37035,224532
+930,404,Centre County,County,PA,PA,State College,42,027,42027,281746
+2824,405,Penobscot County,County,ME,ME,Bangor,23,019,23019,213566
+2468,406,Ouachita Parish,County,LA,LA,Monroe,22,073,22073,160544
+580,407,Kings County,County,CA,CA,Hanford-Corcoran,6,031,6031,296479
+2054,408,Tolland County,County,CT,CT,Hartford-West Hartford-East Hartford,9,013,9013,296662
+1220,409,Monroe County,County,MI,MI,Monroe,26,115,26115,215946
+3026,410,Santa Rosa County,County,FL,FL,Pensacola-Ferry Pass-Brent,12,113,12113,294491
+2117,411,Alamance County,County,NC,NC,Burlington,37,001,37001,211311
+1827,412,Johnson County,County,TX,TX,Dallas-Fort Worth-Arlington,48,251,48251,273898
+1156,413,Madera County,County,CA,CA,Madera,6,039,6039,363786
+2037,414,Stearns County,County,MN,MN,St. Cloud,27,145,27145,273016
+113,415,Cass County,County,ND,ND,Fargo,38,017,38017,262898
+2289,416,Franklin County,County,PA,PA,Chambersburg-Waynesboro,42,055,42055,220676
+498,417,Ellis County,County,TX,TX,Dallas-Fort Worth-Arlington,48,139,48139,305748
+1413,418,Sussex County,County,NJ,NJ,New York-Newark-Jersey City,34,037,34037,328822
+3028,419,Schuylkill County,County,PA,PA,Pottsville,42,107,42107,117186
+3149,420,Yellowstone County,County,MT,MT,Billings,30,111,30111,313614
+3119,421,Rock Island County,County,IL,IL,Davenport-Moline-Rock Island,17,161,17161,124556
+3059,422,Washington County,County,MD,MD,Hagerstown-Martinsburg,24,043,24043,261836
+251,423,Mesa County,County,CO,CO,Grand Junction,8,077,8077,350196
+1607,424,Charles County,County,MD,MD,Washington-Arlington-Alexandria,24,017,24017,397363
+2799,425,Merrimack County,County,NH,NH,Concord,33,013,33013,352497
+1176,426,Martin County,County,FL,FL,Port St. Lucie,12,085,12085,385762
+2695,427,Fairfield County,County,OH,OH,Columbus,39,045,39045,277738
+2722,428,Hendricks County,County,IN,IN,Indianapolis-Carmel-Anderson,18,063,18063,276222
+1951,429,Olmsted County,County,MN,MN,Rochester,27,109,27109,300651
+2527,430,Santa Fe County,County,NM,NM,Santa Fe,35,049,35049,469592
+1582,431,Cambria County,County,PA,PA,Johnstown,42,021,42021,92850
+2470,432,Paulding County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,223,13223,289834
+2495,433,Randolph County,County,NC,NC,Greensboro-High Point,37,151,37151,177090
+1351,434,Rankin County,County,MS,MS,Jackson,28,121,28121,214735
+938,435,Citrus County,County,FL,FL,Homosassa Springs,12,017,12017,227445
+78,436,Lee County,County,AL,AL,Auburn-Opelika,1,081,1081,235140
+3253,437,Alexandria City,County,VA,VA,Washington-Arlington-Alexandria,51,510,51510,634251
+1782,438,Houston County,County,GA,GA,Warner Robins,13,153,13153,174109
+1805,439,Jackson County,County,MS,MS,Gulfport-Biloxi-Pascagoula,28,059,28059,166716
+1821,440,Johnson County,County,IN,IN,Indianapolis-Carmel-Anderson,18,081,18081,254612
+2368,441,Kootenai County,County,ID,ID,Coeur d'Alene,16,055,16055,551591
+701,442,Rowan County,County,NC,NC,Charlotte-Concord-Gastonia,37,159,37159,201492
+446,443,Clark County,County,OH,OH,Springfield,39,023,39023,152662
+3074,444,Washington County,County,UT,UT,St. George,49,053,49053,484806
+3168,445,Indian River County,County,FL,FL,Sebastian-Vero Beach,12,061,12061,299735
+1218,446,Monroe County,County,IN,IN,Bloomington,18,105,18105,266288
+3164,447,Hampton City,County,VA,VA,Virginia Beach-Norfolk-Newport News,51,650,51650,222927
+494,448,Ector County,County,TX,TX,Odessa,48,135,48135,175427
+2266,449,Florence County,County,SC,SC,Florence,45,041,45041,156627
+1930,450,Midland County,County,TX,TX,Midland,48,329,48329,266919
+1703,451,Fayette County,County,PA,PA,Pittsburgh,42,051,42051,130927
+2923,452,Dorchester County,County,SC,SC,Charleston-North Charleston,45,035,45035,290488
+255,453,Napa County,County,CA,CA,Napa,6,055,6055,870123
+1575,454,Calhoun County,County,MI,MI,Battle Creek,26,025,26025,155016
+2572,455,Tazewell County,County,IL,IL,Peoria,17,179,17179,140666
+2900,456,Chautauqua County,County,NY,NY,Jamestown-Dunkirk-Fredonia,36,013,36013,129296
+2351,457,Humboldt County,County,CA,CA,Eureka-Arcata-Fortuna,6,023,6023,417277
+2207,458,Coconino County,County,AZ,AZ,Flagstaff,4,005,4005,527172
+2001,459,Robeson County,County,NC,NC,Lumberton,37,155,37155,89411
+2401,460,Marathon County,County,WI,WI,Wausau,55,073,55073,202116
+1289,461,Orange County,County,NC,NC,Durham-Chapel Hill,37,135,37135,408276
+1854,462,Lebanon County,County,PA,PA,Lebanon,42,075,42075,234323
+1671,463,Douglas County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,097,13097,256790
+3077,464,Washington County,County,WI,WI,Milwaukee-Waukesha-West Allis,55,131,55131,317931
+1901,465,Madison County,County,IN,IN,Indianapolis-Carmel-Anderson,18,095,18095,143123
+1992,466,Rapides Parish,County,LA,LA,Alexandria,22,079,22079,168312
+2524,467,Sandoval County,County,NM,NM,Albuquerque,35,043,35043,288958
+2712,468,Guadalupe County,County,TX,TX,San Antonio-New Braunfels,48,187,48187,296899
+1423,469,Taylor County,County,TX,TX,Abilene,48,441,48441,168936
+2095,470,Wichita County,County,TX,TX,Wichita Falls,48,485,48485,129640
+1634,471,Cochise County,County,AZ,AZ,Sierra Vista-Douglas,4,003,4003,197749
+2628,472,Berkshire County,County,MA,MA,Pittsfield,25,003,25003,309044
+2890,473,Black Hawk County,County,IA,IA,Waterloo-Cedar Falls,19,013,19013,150624
+1819,474,Johnson County,County,IA,IA,Iowa City,19,103,19103,256379
+2519,475,San Juan County,County,NM,NM,Farmington,35,045,35045,173515
+711,476,Scott County,County,MN,MN,Minneapolis-St. Paul-Bloomington,27,139,27139,401944
+2556,477,Stafford County,County,VA,VA,Washington-Arlington-Alexandria,51,179,51179,454206
+2729,478,Hunterdon County,County,NJ,NJ,New York-Newark-Jersey City,34,019,34019,480568
+2958,479,Livingston Parish,County,LA,LA,Baton Rouge,22,063,22063,206246
+960,480,Coweta County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,077,13077,302326
+387,481,Blair County,County,PA,PA,Altoona,42,013,42013,133967
+3071,482,Washington County,County,RI,RI,Providence-Warwick,44,009,44009,524858
+2844,483,Sebastian County,County,AR,AR,Fort Smith,5,131,5131,145555
+335,484,Wood County,County,OH,OH,Toledo,39,173,39173,206048
+1500,485,Wright County,County,MN,MN,Minneapolis-St. Paul-Bloomington,27,171,27171,335533
+2506,486,Richland County,County,OH,OH,Mansfield,39,139,39139,138987
+2221,487,Comanche County,County,OK,OK,Lawton,40,031,40031,109507
+2213,488,Columbia County,County,GA,GA,Augusta-Richmond County,13,073,13073,261138
+2851,489,Strafford County,County,NH,NH,Boston-Cambridge-Newton,33,017,33017,355752
+884,490,Blount County,County,TN,TN,Knoxville,47,009,47009,276605
+3072,491,Washington County,County,TN,TN,Johnson City,47,179,47179,215212
+794,492,Wayne County,County,NC,NC,Goldsboro,37,191,37191,162898
+3193,493,Spotsylvania County,County,VA,VA,Washington-Arlington-Alexandria,51,177,51177,374516
+2364,494,Kennebec County,County,ME,ME,Augusta-Waterville,23,011,23011,254244
+1296,495,Oswego County,County,NY,NY,Syracuse,36,075,36075,146102
+548,496,Gregg County,County,TX,TX,Longview,48,183,48183,175164
+3039,497,Tangipahoa Parish,County,LA,LA,Hammond,22,105,22105,177055
+1333,498,Potter County,County,TX,TX,Amarillo,48,375,48375,117940
+1733,499,Grayson County,County,TX,TX,Sherman-Denison,48,181,48181,220183
+1991,500,Randall County,County,TX,TX,Amarillo,48,381,48381,214835
+1229,501,Morgan County,County,AL,AL,Decatur,1,103,1103,172661
+1972,502,Pickens County,County,SC,SC,Greenville-Anderson-Mauldin,45,077,45077,221762
+394,503,Boone County,County,KY,KY,Cincinnati,21,015,21015,268057
+1569,504,Calhoun County,County,AL,AL,Anniston-Oxford-Jacksonville,1,015,1015,130397
+2097,505,Windham County,County,CT,CT,Worcester,9,015,9015,258271
+2247,506,Delaware County,County,IN,IN,Muncie,18,035,18035,121602
+1118,507,Jasper County,County,MO,MO,Joplin,29,097,29097,150811
+1548,508,Bossier Parish,County,LA,LA,Shreveport-Bossier City,22,015,22015,193389
+1308,509,Parker County,County,TX,TX,Dallas-Fort Worth-Arlington,48,367,48367,369994
+1393,510,Skagit County,County,WA,WA,Mount Vernon-Anacortes,53,057,53057,517669
+940,511,Clarke County,County,GA,GA,Athens-Clarke County,13,059,13059,244060
+238,512,Linn County,County,OR,OR,Albany,41,043,41043,362190
+1203,513,Mercer County,County,PA,PA,Youngstown-Warren-Boardman,42,085,42085,156020
+2748,514,Jefferson County,County,NY,NY,Watertown-Fort Drum,36,045,36045,165625
+2394,515,Lycoming County,County,PA,PA,Williamsport,42,081,42081,184965
+2173,516,Canadian County,County,OK,OK,Oklahoma City,40,017,40017,206378
+2845,517,Sheboygan County,County,WI,WI,Sheboygan,55,117,55117,190544
+1835,518,Kendall County,County,IL,IL,Chicago-Naperville-Elgin,17,093,17093,280492
+1762,519,Harnett County,County,NC,NC,Dunn,37,085,37085,213974
+2767,520,La Crosse County,County,WI,WI,La Crosse-Onalaska,55,063,55063,237972
+797,521,Wayne County,County,OH,OH,Wooster,39,169,39169,205785
+1496,522,Wilson County,County,TN,TN,Nashville-Davidson--Murfreesboro--Franklin,47,189,47189,393442
+2371,523,La Salle County,County,IL,IL,Ottawa-Peru,17,099,17099,138589
+1474,524,Warren County,County,KY,KY,Bowling Green,21,227,21227,206102
+2363,525,Kankakee County,County,IL,IL,Kankakee,17,091,17091,168715
+2260,526,Faulkner County,County,AR,AR,Little Rock-North Little Rock-Conway,5,045,5045,190573
+422,527,Cache County,County,UT,UT,Logan,49,005,49005,397624
+3249,528,Saint Lawrence County,County,NY,NY,Ogdensburg-Massena,36,089,36089,100270
+3040,529,Terrebonne Parish,County,LA,LA,Houma-Thibodaux,22,109,22109,176298
+2370,530,La Porte County,County,IN,IN,Michigan City-La Porte,18,091,18091,190511
+1513,531,Allegan County,County,MI,MI,Holland,26,005,26005,258152
+1673,532,Douglas County,County,KS,KS,Lawrence,20,045,20045,259603
+620,533,Macon County,County,IL,IL,Decatur,17,115,17115,101423
+1590,534,Carroll County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,045,13045,225010
+441,535,Clark County,County,IN,IN,Louisville/Jefferson County,18,019,18019,207725
+2855,536,Tom Green County,County,TX,TX,San Angelo,48,451,48451,181186
+2434,537,Missoula County,County,MT,MT,Missoula,30,063,30063,509203
+1889,538,Lowndes County,County,GA,GA,Valdosta,13,185,13185,156692
+1478,539,Warren County,County,NJ,NJ,Allentown-Bethlehem-Easton,34,041,34041,317096
+454,540,Comal County,County,TX,TX,San Antonio-New Braunfels,48,091,48091,428394
+1952,541,Ontario County,County,NY,NY,Rochester,36,069,36069,230715
+323,542,Vigo County,County,IN,IN,Terre Haute,18,167,18167,113603
+2905,543,Columbiana County,County,OH,OH,Salem,39,029,39029,120820
+68,544,Bay County,County,MI,MI,Bay City,26,017,26017,136744
+493,545,Eaton County,County,MI,MI,Lansing-East Lansing,26,045,26045,207907
+3151,546,Androscoggin County,County,ME,ME,Lewiston-Auburn,23,001,23001,255957
+1678,547,Douglas County,County,OR,OR,Roseburg,41,019,41019,288369
+1411,548,Sumter County,County,SC,SC,Sumter,45,085,45085,151426
+1253,549,Navajo County,County,AZ,AZ,Show Low,4,017,4017,325709
+2640,550,Brunswick County,County,NC,NC,Myrtle Beach-Conway-North Myrtle Beach,37,019,37019,331551
+2623,551,Ascension Parish,County,LA,LA,Baton Rouge,22,005,22005,257787
+1362,552,Saline County,County,AR,AR,Little Rock-North Little Rock-Conway,5,125,5125,227859
+2719,553,Henderson County,County,NC,NC,Asheville,37,089,37089,340600
+1697,554,Fayette County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,113,13113,375016
+371,555,Allen County,County,OH,OH,Lima,39,003,39003,149096
+1079,556,Hardin County,County,KY,KY,Elizabethtown-Fort Knox,21,093,21093,196374
+1657,557,DeKalb County,County,IL,IL,Chicago-Naperville-Elgin,17,037,17037,207699
+3132,558,Saint Marys County,County,MD,MD,California-Lexington Park,24,037,24037,356987
+1007,559,Etowah County,County,AL,AL,Gadsden,1,055,1055,135420
+2892,560,Bonneville County,County,ID,ID,Idaho Falls,16,019,16019,330886
+2142,561,Berkeley County,County,WV,WV,Hagerstown-Martinsburg,54,003,54003,243795
+962,562,Craven County,County,NC,NC,New Bern,37,049,37049,192835
+1833,563,Kaufman County,County,TX,TX,Dallas-Fort Worth-Arlington,48,257,48257,297600
+2872,564,Whitfield County,County,GA,GA,Dalton,13,313,13313,182047
+641,565,Miami County,County,OH,OH,Dayton,39,109,39109,199097
+1644,566,Cowlitz County,County,WA,WA,Longview,53,015,53015,370980
+2592,567,Walworth County,County,WI,WI,Whitewater-Elkhorn,55,127,55127,293819
+2601,568,Woodbury County,County,IA,IA,Sioux City,19,193,19193,145824
+3092,569,Fond du Lac County,County,WI,WI,Fond du Lac,55,039,55039,176250
+2578,570,Tompkins County,County,NY,NY,Ithaca,36,109,36109,250626
+1781,571,Houston County,County,AL,AL,Dothan,1,069,1069,151553
+2624,572,Ashtabula County,County,OH,OH,Ashtabula,39,007,39007,128538
+2283,573,Franklin County,County,MO,MO,St. Louis,29,071,29071,204912
+362,574,Adams County,County,PA,PA,Gettysburg,42,001,42001,254164
+429,575,Cecil County,County,MD,MD,Philadelphia-Camden-Wilmington,24,015,24015,302087
+2997,576,Pennington County,County,SD,SD,Rapid City,46,103,46103,294078
+855,577,Bartow County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,015,13015,242501
+1263,578,Newton County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,217,13217,228156
+1856,579,Lenawee County,County,MI,MI,Adrian,26,091,26091,194516
+1758,580,Hanover County,County,VA,VA,Richmond,51,085,51085,351221
+1343,581,Putnam County,County,NY,NY,New York-Newark-Jersey City,36,079,36079,456218
+112,582,Cass County,County,MO,MO,Kansas City,29,037,29037,268218
+2110,583,Yamhill County,County,OR,OR,Portland-Vancouver-Hillsboro,41,071,41071,467611
+2039,584,Steuben County,County,NY,NY,Corning,36,101,36101,129423
+2608,585,Albemarle County,County,VA,VA,Charlottesville,51,003,51003,425184
+1554,586,Bradley County,County,TN,TN,Cleveland,47,011,47011,222398
+2724,587,Highlands County,County,FL,FL,Sebring,12,055,12055,187178
+1261,588,Nevada County,County,CA,CA,Truckee-Grass Valley,6,057,6057,652267
+2924,589,Eau Claire County,County,WI,WI,Eau Claire,55,035,55035,233342
+2598,590,Wicomico County,County,MD,MD,Salisbury,24,045,24045,198862
+1911,591,Madison County,County,TN,TN,Jackson,47,113,47113,170101
+2667,592,Cleveland County,County,NC,NC,Shelby,37,045,37045,174864
+3290,593,Fairbanks North Star Borough,County,AK,AK,Fairbanks,2,090,2090,255037
+2174,594,Cape May County,County,NJ,NJ,Ocean City,34,009,34009,548878
+3184,595,Roanoke City,County,VA,VA,Roanoke,51,770,51770,165381
+1652,596,Daviess County,County,KY,KY,Owensboro,21,059,21059,161058
+2674,597,Craighead County,County,AR,AR,Jonesboro,5,031,5031,169613
+906,598,Cabell County,County,WV,WV,Huntington-Ashland,54,011,54011,112996
+2774,599,Lafourche Parish,County,LA,LA,Houma-Thibodaux,22,057,22057,158628
+512,600,Floyd County,County,GA,GA,Rome,13,115,13115,164136
+2966,601,Monongalia County,County,WV,WV,Morgantown,54,061,54061,214438
+1718,602,Garland County,County,AR,AR,Hot Springs,5,051,5051,203222
+256,603,Nash County,County,NC,NC,Rocky Mount,37,127,37127,173597
+1707,604,Flagler County,County,FL,FL,Deltona-Daytona Beach-Ormond Beach,12,035,12035,321972
+3260,605,Portsmouth City,County,VA,VA,Virginia Beach-Norfolk-Newport News,51,740,51740,213466
+1905,606,Madison County,County,MS,MS,Jackson,28,089,28089,266510
+1415,607,Sutter County,County,CA,CA,Yuba City,6,101,6101,421375
+2686,608,Dougherty County,County,GA,GA,Albany,13,095,13095,90547
+3244,609,Northumberland County,County,PA,PA,Sunbury,42,097,42097,124885
+2984,610,Montgomery County,County,VA,VA,Blacksburg-Christiansburg-Radford,51,121,51121,253361
+796,611,Wayne County,County,NY,NY,Rochester,36,117,36117,174051
+1683,612,Dubuque County,County,IA,IA,Dubuque,19,061,19061,210868
+3012,613,Rockingham County,County,NC,NC,Greensboro-High Point,37,157,37157,143331
+1409,614,Sumter County,County,FL,FL,The Villages,12,119,12119,319143
+1033,615,Geauga County,County,OH,OH,Cleveland-Elyria,39,055,39055,284393
+3216,616,Pottawattamie County,County,IA,IA,Omaha-Council Bluffs,19,155,19155,170296
+2405,617,Marshall County,County,AL,AL,Albertville,1,095,1095,163468
+2952,618,Lauderdale County,County,AL,AL,Florence-Muscle Shoals,1,077,1077,157060
+3044,619,Tuscarawas County,County,OH,OH,New Philadelphia-Dover,39,157,39157,155068
+399,620,Bowie County,County,TX,TX,Texarkana,48,037,48037,136356
+2991,621,Orangeburg County,County,SC,SC,Orangeburg,45,075,45075,102065
+1998,622,Roanoke County,County,VA,VA,Roanoke,51,161,51161,248169
+1848,623,Laramie County,County,WY,WY,Cheyenne,56,021,56021,326745
+2386,624,Lawrence County,County,PA,PA,New Castle,42,073,42073,131031
+924,625,Carver County,County,MN,MN,Minneapolis-St. Paul-Bloomington,27,019,27019,419604
+2265,626,Flathead County,County,MT,MT,Kalispell,30,029,30029,567075
+416,627,Burke County,County,NC,NC,Hickory-Lenoir-Morganton,37,023,37023,182234
+2168,628,Campbell County,County,KY,KY,Cincinnati,21,037,21037,222739
+1376,629,Sevier County,County,TN,TN,Sevierville,47,155,47155,353916
+735,630,Story County,County,IA,IA,Ames,19,169,19169,236703
+2299,631,Gallatin County,County,MT,MT,Bozeman,30,031,30031,637164
+1326,632,Platte County,County,MO,MO,Kansas City,29,165,29165,301861
+2154,633,Buchanan County,County,MO,MO,St. Joseph,29,021,29021,130144
+542,634,Grant County,County,WA,WA,Moses Lake,53,025,53025,297247
+1729,635,Grafton County,County,NH,NH,Claremont-Lebanon,33,009,33009,303002
+3277,636,Matanuska Susitna Borough,County,AK,AK,Anchorage,2,170,2170,254178
+1788,637,Indiana County,County,PA,PA,Indiana,42,063,42063,139724
+1610,638,Chemung County,County,NY,NY,Elmira,36,015,36015,125692
+2235,639,Crawford County,County,PA,PA,Meadville,42,039,42039,121672
+485,640,Dodge County,County,WI,WI,Beaver Dam,55,027,55027,210489
+1581,641,Calvert County,County,MD,MD,Washington-Arlington-Alexandria,24,009,24009,417555
+2846,642,Sherburne County,County,MN,MN,Minneapolis-St. Paul-Bloomington,27,141,27141,336712
+1142,643,Lapeer County,County,MI,MI,Detroit-Warren-Dearborn,26,087,26087,227832
+649,644,Moore County,County,NC,NC,Pinehurst-Southern Pines,37,125,37125,309304
+2796,645,Mendocino County,County,CA,CA,Ukiah,6,045,6045,492665
+3240,646,Grand Traverse County,County,MI,MI,Traverse City,26,055,26055,334935
+338,647,Wood County,County,WV,WV,Parkersburg-Vienna,54,107,54107,134656
+1358,648,Rogers County,County,OK,OK,Tulsa,40,131,40131,228721
+2125,650,Angelina County,County,TX,TX,Lufkin,48,005,48005,139515
+1961,651,Ozaukee County,County,WI,WI,Milwaukee-Waukesha-West Allis,55,089,55089,359703
+185,652,Hunt County,County,TX,TX,Dallas-Fort Worth-Arlington,48,231,48231,249742
+2812,653,Muskingum County,County,OH,OH,Zanesville,39,119,39119,150925
+870,654,Benton County,County,OR,OR,Corvallis,41,003,41003,467386
+2514,655,Rockdale County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,247,13247,261063
+3194,656,Suffolk City,County,VA,VA,Virginia Beach-Norfolk-Newport News,51,800,51800,303526
+3126,657,Saint Croix County,County,WI,WI,Minneapolis-St. Paul-Bloomington,55,109,55109,334646
+1469,658,Walton County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,297,13297,289212
+2756,659,Jefferson County,County,WI,WI,Watertown-Fort Atkinson,55,055,55055,268618
+1929,660,Midland County,County,MI,MI,Midland,26,111,26111,191847
+3121,661,Saint Clair County,County,AL,AL,Birmingham-Hoover,1,115,1115,227911
+3187,662,Saint Landry Parish,County,LA,LA,Opelousas,22,097,22097,130198
+2163,663,Caldwell County,County,NC,NC,Hickory-Lenoir-Morganton,37,027,37027,154409
+1902,664,Madison County,County,KY,KY,Richmond-Berea,21,151,21151,215214
+85,665,Lee County,County,MS,MS,Tupelo,28,081,28081,144609
+1945,666,Newport County,County,RI,RI,Providence-Warwick,44,005,44005,593851
+1530,667,Bannock County,County,ID,ID,Pocatello,16,005,16005,282189
+2780,668,Limestone County,County,AL,AL,Huntsville,1,083,1083,231806
+1100,669,Howard County,County,IN,IN,Kokomo,18,067,18067,143957
+2760,670,Josephine County,County,OR,OR,Grants Pass,41,033,41033,397546
+2853,671,Talladega County,County,AL,AL,Talladega-Sylacauga,1,121,1121,121216
+1630,672,Clinton County,County,NY,NY,Plattsburgh,36,019,36019,162965
+1291,673,Orange County,County,TX,TX,Beaumont-Port Arthur,48,361,48361,155970
+2902,674,Clearfield County,County,PA,PA,DuBois,42,033,42033,115935
+2865,675,Vermilion County,County,IL,IL,Danville,17,183,17183,73775
+2783,676,Manitowoc County,County,WI,WI,Manitowoc,55,071,55071,151914
+1602,677,Cascade County,County,MT,MT,Great Falls,30,013,30013,252846
+2157,678,Burleigh County,County,ND,ND,Bismarck,38,015,38015,310165
+1495,679,Wilson County,County,NC,NC,Wilson,37,195,37195,154851
+632,680,Maury County,County,TN,TN,Nashville-Davidson--Murfreesboro--Franklin,47,119,47119,323789
+1647,681,Cullman County,County,AL,AL,Cullman,1,043,1043,161498
+3088,682,Cattaraugus County,County,NY,NY,Olean,36,009,36009,98934
+2953,683,Lauderdale County,County,MS,MS,Meridian,28,075,28075,101992
+929,684,Cayuga County,County,NY,NY,Auburn,36,011,36011,157769
+525,685,Glynn County,County,GA,GA,Brunswick,13,127,13127,260766
+1370,686,Scioto County,County,OH,OH,Portsmouth,39,145,39145,94195
+1003,687,Elmore County,County,AL,AL,Montgomery,1,051,1051,205391
+1990,688,Raleigh County,County,WV,WV,Beckley,54,081,54081,97662
+2721,689,Henderson County,County,TX,TX,Athens,48,213,48213,227654
+1112,690,Island County,County,WA,WA,Oak Harbor,53,029,53029,570337
+2516,691,Rockwall County,County,TX,TX,Dallas-Fort Worth-Arlington,48,397,48397,383654
+2700,692,Frederick County,County,VA,VA,Winchester,51,069,51069,346109
+1875,693,Lincoln County,County,NC,NC,Charlotte-Concord-Gastonia,37,109,37109,300000
+2294,694,Franklin County,County,WA,WA,Kennewick-Richland,53,021,53021,358885
+309,695,Ross County,County,OH,OH,Chillicothe,39,141,39141,146891
+2553,696,Somerset County,County,PA,PA,Somerset,42,111,42111,125175
+2567,697,Sullivan County,County,NY,NY,,36,105,36105,248366
+2733,698,Jefferson County,County,AR,AR,Pine Bluff,5,069,5069,66146
+2659,699,Christian County,County,MO,MO,Springfield,29,043,29043,224566
+2766,700,Kosciusko County,County,IN,IN,Warsaw,18,085,18085,221845
+670,701,Payne County,County,OK,OK,Stillwater,40,119,40119,167709
+3045,702,Twin Falls County,County,ID,ID,Twin Falls,16,083,16083,341021
+2195,703,Cheshire County,County,NH,NH,Keene,33,005,33005,277547
+158,704,Erie County,County,OH,OH,Sandusky,39,043,39043,171695
+805,705,White County,County,AR,AR,Searcy,5,145,5145,142411
+3084,706,Bartholomew County,County,IN,IN,Columbus,18,005,18005,210415
+2777,707,Lancaster County,County,SC,SC,Charlotte-Concord-Gastonia,45,057,45057,308307
+2586,708,Valencia County,County,NM,NM,Albuquerque,35,061,35061,204634
+3014,709,Rockingham County,County,VA,VA,Harrisonburg,51,165,51165,275438
+2860,710,Van Buren County,County,MI,MI,Kalamazoo-Portage,26,159,26159,211608
+3100,711,Leavenworth County,County,KS,KS,Kansas City,20,103,20103,269459
+137,712,Cole County,County,MO,MO,Jefferson City,29,051,29051,200778
+2585,713,Umatilla County,County,OR,OR,Hermiston-Pendleton,41,059,41059,267086
+3237,714,Cape Girardeau County,County,MO,MO,Cape Girardeau,29,031,29031,191195
+1861,715,Liberty County,County,TX,TX,Houston-The Woodlands-Sugar Land,48,291,48291,169849
+3243,716,Lynchburg City,County,VA,VA,Lynchburg,51,680,51680,182355
+601,717,Lewis County,County,WA,WA,Centralia,53,041,53041,251932
+1941,718,Natrona County,County,WY,WY,Casper,56,025,56025,244090
+292,719,Polk County,County,OR,OR,Salem,41,053,41053,420392
+1643,720,Coryell County,County,TX,TX,Killeen-Temple,48,099,48099,165264
+1628,721,Clinton County,County,MI,MI,Lansing-East Lansing,26,037,26037,244304
+2123,722,Anderson County,County,TN,TN,Knoxville,47,001,47001,211277
+2118,723,Allegany County,County,MD,MD,Cumberland,24,001,24001,104528
+1710,724,Forrest County,County,MS,MS,Hattiesburg,28,035,28035,134087
+1755,725,Hancock County,County,OH,OH,Findlay,39,063,39063,175349
+337,726,Wood County,County,WI,WI,Wisconsin Rapids-Marshfield,55,141,55141,154628
+514,727,Floyd County,County,IN,IN,Louisville/Jefferson County,18,043,18043,230086
+1338,728,Putnam County,County,FL,FL,Palatka,12,107,12107,169670
+1565,729,Bullitt County,County,KY,KY,Louisville/Jefferson County,21,029,21029,243934
+1276,730,Oconee County,County,SC,SC,Seneca,45,073,45073,222527
+1533,731,Bastrop County,County,TX,TX,Austin-Round Rock,48,021,48021,324172
+2658,732,Christian County,County,KY,KY,Clarksville,21,047,21047,121921
+1523,733,Augusta County,County,VA,VA,Staunton-Waynesboro,51,015,51015,259338
+737,734,Surry County,County,NC,NC,Mount Airy,37,171,37171,147405
+1909,735,Madison County,County,NY,NY,Syracuse,36,053,36053,164247
+1251,736,Nassau County,County,FL,FL,Jacksonville,12,089,12089,378569
+1109,737,Iberia Parish,County,LA,LA,Lafayette,22,045,22045,133251
+1214,738,Monroe County,County,FL,FL,Key West,12,087,12087,772883
+2065,739,Wagoner County,County,OK,OK,Tulsa,40,145,40145,211430
+3163,740,Grays Harbor County,County,WA,WA,Aberdeen,53,027,53027,294375
+932,741,Chelan County,County,WA,WA,Wenatchee,53,007,53007,472863
+1345,742,Putnam County,County,TN,TN,Cookeville,47,141,47141,231144
+346,743,Yuba County,County,CA,CA,Yuba City,6,115,6115,372762
+2622,744,Aroostook County,County,ME,ME,,23,003,23003,120884
+834,745,Apache County,County,AZ,AZ,,4,001,4001,219845
+2428,746,McKinley County,County,NM,NM,Gallup,35,031,35031,187848
+1619,747,Clallam County,County,WA,WA,Port Angeles,53,009,53009,423829
+2281,748,Franklin County,County,MA,MA,Greenfield Town,25,011,25011,279575
+695,749,Riley County,County,KS,KS,Manhattan,20,161,20161,208336
+1656,750,De Kalb County,County,AL,AL,Fort Payne,1,049,1049,115442
+2450,751,Muskogee County,County,OK,OK,Muskogee,40,101,40101,90369
+3031,752,Shiawassee County,County,MI,MI,Owosso,26,155,26155,151418
+1540,753,Belmont County,County,OH,OH,Wheeling,39,013,39013,122672
+2356,754,Isabella County,County,MI,MI,Mount Pleasant,26,073,26073,162589
+1566,755,Bulloch County,County,GA,GA,Statesboro,13,031,13031,169082
+531,756,Grant County,County,IN,IN,Marion,18,053,18053,101280
+1976,757,Portage County,County,WI,WI,Stevens Point,55,097,55097,205206
+1751,758,Hancock County,County,IN,IN,Indianapolis-Carmel-Anderson,18,059,18059,258616
+460,759,Creek County,County,OK,OK,Tulsa,40,037,40037,127533
+2749,760,Jefferson County,County,OH,OH,Weirton-Steubenville,39,081,39081,97163
+2710,761,Greenwood County,County,SC,SC,Greenwood,45,047,45047,141400
+3178,762,Pottawatomie County,County,OK,OK,Shawnee,40,125,40125,115308
+852,763,Barrow County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,013,13013,268262
+1492,764,Wilkes County,County,NC,NC,North Wilkesboro,37,193,37193,161338
+2336,765,Harrison County,County,WV,WV,Clarksburg,54,033,54033,114951
+2620,766,Armstrong County,County,PA,PA,Pittsburgh,42,005,42005,124820
+789,767,Wayne County,County,IN,IN,Richmond,18,177,18177,113448
+1233,768,Morgan County,County,IN,IN,Indianapolis-Carmel-Anderson,18,109,18109,231129
+1063,769,Greene County,County,TN,TN,Greeneville,47,059,47059,159041
+1465,770,Walker County,County,GA,GA,Chattanooga,13,295,13295,174842
+2917,771,Darlington County,County,SC,SC,Florence,45,031,45031,102997
+1538,772,Bedford County,County,VA,VA,Lynchburg,51,019,51019,275396
+1149,773,Lonoke County,County,AR,AR,Little Rock-North Little Rock-Conway,5,085,5085,169120
+1466,774,Walker County,County,TX,TX,Huntsville,48,471,48471,218077
+3015,775,Rutherford County,County,NC,NC,Forest City,37,161,37161,171175
+574,776,Jones County,County,MS,MS,Laurel,28,067,28067,116166
+2212,777,Columbia County,County,FL,FL,Lake City,12,023,12023,190078
+2216,778,Columbia County,County,PA,PA,Bloomsburg-Berwick,42,037,42037,177894
+356,779,Adams County,County,IL,IL,Quincy,17,001,17001,137390
+578,780,Kauai County,County,HI,HI,Kapaa,15,007,15007,723350
+2785,781,Marquette County,County,MI,MI,Marquette,26,103,26103,184413
+756,782,Troup County,County,GA,GA,LaGrange,13,285,13285,154533
+1464,783,Walker County,County,AL,AL,Birmingham-Hoover,1,127,1127,105993
+2942,784,James City County,County,VA,VA,Virginia Beach-Norfolk-Newport News,51,095,51095,382428
+3093,785,Grand Forks County,County,ND,ND,Grand Forks,38,035,38035,230646
+1852,786,Laurens County,County,SC,SC,Greenville-Anderson-Mauldin,45,059,45059,129984
+1170,787,Marion County,County,OH,OH,Marion,39,101,39101,118341
+2179,788,Carteret County,County,NC,NC,Morehead City,37,031,37031,354171
+1842,789,Klamath County,County,OR,OR,Klamath Falls,41,035,41035,263478
+3079,790,Williamson County,County,IL,IL,Carbondale-Marion,17,199,17199,109662
+2834,791,Robertson County,County,TN,TN,Nashville-Davidson--Murfreesboro--Franklin,47,147,47147,293112
+976,792,Dallas County,County,IA,IA,Des Moines-West Des Moines,19,049,19049,289234
+702,793,Salem County,County,NJ,NJ,Philadelphia-Camden-Wilmington,34,033,34033,199007
+900,794,Butler County,County,KS,KS,Wichita,20,015,20015,172847
+1479,795,Warren County,County,NY,NY,Glens Falls,36,113,36113,279918
+931,796,Chaves County,County,NM,NM,Roswell,35,005,35005,126401
+2335,797,Harrison County,County,TX,TX,Marshall,48,203,48203,154876
+2789,798,McCracken County,County,KY,KY,Paducah,21,145,21145,142820
+345,799,York County,County,VA,VA,Virginia Beach-Norfolk-Newport News,51,199,51199,353748
+2961,800,Livingston County,County,NY,NY,Rochester,36,051,36051,166603
+3248,801,Saint Francois County,County,MO,MO,Farmington,29,187,29187,150663
+915,802,Carbon County,County,PA,PA,Allentown-Bethlehem-Easton,42,025,42025,208648
+2261,803,Fauquier County,County,VA,VA,Washington-Arlington-Alexandria,51,061,51061,527899
+276,804,Pike County,County,KY,KY,,21,195,21195,62287
+3190,805,San Patricio County,County,TX,TX,Corpus Christi,48,409,48409,170373
+841,806,Athens County,County,OH,OH,Athens,39,009,39009,154942
+77,807,Lea County,County,NM,NM,Hobbs,35,025,35025,192763
+217,808,Lake County,County,CA,CA,Clearlake,6,033,6033,323586
+3108,809,Nacogdoches County,County,TX,TX,Nacogdoches,48,347,48347,163781
+2340,810,Herkimer County,County,NY,NY,Utica-Rome,36,043,36043,129290
+301,811,Reno County,County,KS,KS,Hutchinson,20,155,20155,113481
+304,812,Rice County,County,MN,MN,Faribault-Northfield,27,131,27131,308113
+2554,813,Spalding County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,255,13255,180312
+2891,814,Blue Earth County,County,MN,MN,Mankato-North Mankato,27,013,27013,242537
+1605,815,Catoosa County,County,GA,GA,Chattanooga,13,047,13047,210195
+567,816,Ionia County,County,MI,MI,Ionia,26,067,26067,197524
+664,817,Otero County,County,NM,NM,Alamogordo,35,035,35035,153557
+3176,818,Pittsylvania County,County,VA,VA,Danville,51,143,51143,152075
+1609,819,Chatham County,County,NC,NC,Durham-Chapel Hill,37,037,37037,413082
+1426,820,Tehama County,County,CA,CA,Red Bluff,6,103,6103,310413
+1859,821,Liberty County,County,GA,GA,Hinesville,13,179,13179,157185
+2012,822,Sampson County,County,NC,NC,,37,163,37163,109890
+3258,823,Lewis and Clark County,County,MT,MT,Helena,30,049,30049,390671
+2443,824,Montcalm County,County,MI,MI,Grand Rapids-Wyoming,26,117,26117,181369
+3066,825,Washington County,County,NY,NY,Glens Falls,36,115,36115,180188
+2214,826,Columbia County,County,NY,NY,Hudson,36,021,36021,344878
+1985,827,Pulaski County,County,KY,KY,Somerset,21,199,21199,164169
+142,828,Coos County,County,OR,OR,Coos Bay,41,011,41011,304443
+2149,829,Bradford County,County,PA,PA,Sayre,42,015,42015,165535
+1745,830,Hamblen County,County,TN,TN,Morristown,47,063,47063,186984
+2675,831,Crow Wing County,County,MN,MN,Brainerd,27,035,27035,274342
+2385,832,Lawrence County,County,OH,OH,Huntington-Ashland,39,087,39087,119604
+2201,833,Chippewa County,County,WI,WI,Eau Claire,55,017,55017,220352
+1204,834,Mercer County,County,WV,WV,Bluefield,54,055,54055,80559
+1298,835,Otsego County,County,NY,NY,Oneonta,36,077,36077,169516
+314,836,Sauk County,County,WI,WI,Baraboo,55,111,55111,233987
+2226,837,Crawford County,County,AR,AR,Fort Smith,5,033,5033,133810
+3067,838,Washington County,County,OH,OH,Marietta,39,167,39167,151689
+820,839,Acadia Parish,County,LA,LA,Lafayette,22,001,22001,133557
+296,840,Pope County,County,AR,AR,Russellville,5,115,5115,148885
+1838,841,Kershaw County,County,SC,SC,Columbia,45,055,45055,151942
+325,842,Ward County,County,ND,ND,Minot,38,101,38101,247200
+2009,843,Rutland County,County,VT,VT,Rutland,50,021,50021,232866
+3186,844,Saint Joseph County,County,MI,MI,Sturgis,26,149,26149,161188
+1435,845,Tipton County,County,TN,TN,Memphis,47,167,47167,183411
+731,846,Starr County,County,TX,TX,Rio Grande City,48,427,48427,76603
+2525,847,Sandusky County,County,OH,OH,Fremont,39,143,39143,138408
+214,848,Knox County,County,OH,OH,Mount Vernon,39,083,39083,182964
+630,849,Mason County,County,WA,WA,Shelton,53,045,53045,439898
+2285,850,Franklin County,County,NC,NC,Raleigh,37,069,37069,277267
+1397,851,Stanly County,County,NC,NC,Albemarle,37,167,37167,214942
+2303,852,Garfield County,County,OK,OK,Enid,40,047,40047,97025
+1795,853,Jackson County,County,GA,GA,Jefferson,13,157,13157,316433
+1279,854,Oldham County,County,KY,KY,Louisville/Jefferson County,21,185,21185,360504
+1797,855,Jackson County,County,IL,IL,Carbondale-Marion,17,077,17077,119025
+2928,856,Georgetown County,County,SC,SC,Georgetown,45,043,45043,297174
+1539,857,Belknap County,County,NH,NH,Laconia,33,001,33001,372184
+1722,858,Genesee County,County,NY,NY,Batavia,36,037,36037,159914
+2708,859,Granville County,County,NC,NC,Oxford,37,077,37077,217636
+1890,860,Lowndes County,County,MS,MS,Columbus,28,087,28087,131924
+2070,861,Warrick County,County,IN,IN,Evansville,18,173,18173,231442
+565,862,Huron County,County,OH,OH,Norwalk,39,077,39077,140881
+3076,863,Washington County,County,VT,VT,Barre,50,023,50023,292726
+1147,864,Lenoir County,County,NC,NC,Kinston,37,107,37107,104029
+382,865,Barry County,County,MI,MI,Grand Rapids-Wyoming,26,015,26015,240594
+333,866,Wise County,County,TX,TX,Dallas-Fort Worth-Arlington,48,497,48497,289180
+1769,867,Haywood County,County,NC,NC,Asheville,37,087,37087,289576
+125,868,Clay County,County,MN,MN,Fargo,27,027,27027,234042
+1144,869,Laurel County,County,KY,KY,London,21,125,21125,129561
+3147,870,Walla Walla County,County,WA,WA,Walla Walla,53,071,53071,348748
+173,871,Hall County,County,NE,NE,Grand Island,31,079,31079,179083
+998,872,Duplin County,County,NC,NC,,37,061,37061,105163
+2871,873,Whiteside County,County,IL,IL,Sterling,17,195,17195,108157
+2124,874,Anderson County,County,TX,TX,Palestine,48,001,48001,122419
+1436,875,Tooele County,County,UT,UT,Salt Lake City,49,045,49045,415543
+1265,876,Newton County,County,MO,MO,Joplin,29,145,29145,150480
+2219,877,Columbus County,County,NC,NC,,37,047,37047,110249
+2866,878,Vermilion Parish,County,LA,LA,Lafayette,22,113,22113,163396
+86,879,Lee County,County,NC,NC,Sanford,37,105,37105,190400
+1305,880,Oxford County,County,ME,ME,,23,017,23017,213013
+923,881,Carter County,County,TN,TN,Johnson City,47,019,47019,161693
+280,882,Pike County,County,PA,PA,New York-Newark-Jersey City,42,103,42103,234920
+883,883,Blount County,County,AL,AL,Birmingham-Hoover,1,009,1009,258838
+2992,884,Otter Tail County,County,MN,MN,Fergus Falls,27,111,27111,271246
+2218,885,Columbia County,County,WI,WI,Madison,55,021,55021,254489
+1768,885,Hawkins County,County,TN,TN,Kingsport-Bristol-Bristol,47,073,47073,152483
+1374,887,Seneca County,County,OH,OH,Tiffin,39,147,39147,125505
+2099,888,Windsor County,County,VT,VT,Claremont-Lebanon,50,027,50027,319818
+393,889,Boone County,County,IN,IN,Indianapolis-Carmel-Anderson,18,011,18011,321876
+2687,890,Edgecombe County,County,NC,NC,Rocky Mount,37,065,37065,74910
+1175,891,Marion County,County,WV,WV,Fairmont,54,049,54049,120098
+2300,892,Garfield County,County,CO,CO,Glenwood Springs,8,045,8045,538529
+2292,893,Franklin County,County,VA,VA,Roanoke,51,067,51067,264624
+2915,894,Cumberland County,County,TN,TN,Crossville,47,035,47035,231514
+2894,895,Broomfield County,County,CO,CO,Denver-Aurora-Lakewood,8,014,8014,604030
+3115,896,Pearl River County,County,MS,MS,Picayune,28,109,28109,158403
+2058,897,Tuscola County,County,MI,MI,,26,157,26157,116035
+2479,898,Pickaway County,County,OH,OH,Columbus,39,129,39129,211102
+589,899,Lamar County,County,MS,MS,Hattiesburg,28,073,28073,195260
+1364,900,Saline County,County,KS,KS,Salina,20,169,20169,148812
+1024,901,Fulton County,County,NY,NY,Gloversville,36,035,36035,147087
+1346,902,Putnam County,County,WV,WV,Huntington-Ashland,54,079,54079,179790
+3257,903,Kenai Peninsula Borough,County,AK,AK,,2,122,2122,264530
+2584,904,Tuolumne County,County,CA,CA,Sonora,6,109,6109,380112
+2193,905,Cherokee County,County,SC,SC,Gaffney,45,021,45021,96939
+3087,906,Carson City,County,NV,NV,Carson City,32,510,32510,449100
+3020,907,San Benito County,County,CA,CA,San Jose-Sunnyvale-Santa Clara,6,069,6069,820402
+1044,908,Gordon County,County,GA,GA,Calhoun,13,129,13129,167881
+1468,909,Walton County,County,FL,FL,Crestview-Fort Walton Beach-Destin,12,131,12131,585797
+2060,910,Venango County,County,PA,PA,Oil City,42,121,42121,96031
+3075,911,Washington County,County,VA,VA,Kingsport-Bristol-Bristol,51,191,51191,173967
+2171,912,Campbell County,County,VA,VA,Lynchburg,51,031,51031,192741
+1743,913,Halifax County,County,NC,NC,Roanoke Rapids,37,083,37083,81367
+3019,914,Saint Mary Parish,County,LA,LA,Morgan City,22,101,22101,127664
+1082,915,Hardin County,County,TX,TX,Beaumont-Port Arthur,48,199,48199,194218
+1524,916,Autauga County,County,AL,AL,Montgomery,1,001,1001,228760
+1636,917,Colbert County,County,AL,AL,Florence-Muscle Shoals,1,033,1033,126765
+1753,918,Hancock County,County,ME,ME,,23,009,23009,290620
+2417,919,Maverick County,County,TX,TX,Eagle Pass,48,323,48323,154903
+696,920,Roane County,County,TN,TN,Knoxville,47,145,47145,209547
+392,921,Boone County,County,IL,IL,Rockford,17,007,17007,202774
+561,922,Henry County,County,VA,VA,Martinsville,51,089,51089,97844
+1615,923,Chisago County,County,MN,MN,Minneapolis-St. Paul-Bloomington,27,025,27025,347681
+453,924,Coles County,County,IL,IL,Charleston-Mattoon,17,029,17029,97206
+164,926,Gila County,County,AZ,AZ,Payson,4,007,4007,307760
+2757,927,Jefferson County,County,WV,WV,Washington-Arlington-Alexandria,54,037,54037,315258
+259,928,Ogle County,County,IL,IL,Rochelle,17,141,17141,155349
+312,929,Rusk County,County,TX,TX,Longview,48,401,48401,146793
+1791,930,Jackson County,County,AL,AL,Scottsboro,1,071,1071,122618
+1519,931,Ashland County,County,OH,OH,Ashland,39,005,39005,162762
+467,932,Darke County,County,OH,OH,Greenville,39,037,39037,159825
+2005,933,Russell County,County,AL,AL,Columbus,1,113,1113,118262
+208,934,Knox County,County,IL,IL,Galesburg,17,095,17095,83513
+798,935,Wayne County,County,PA,PA,,42,127,42127,229272
+947,936,Coffee County,County,TN,TN,Tullahoma-Manchester,47,031,47031,209368
+3222,937,Saint Charles Parish,County,LA,LA,New Orleans-Metairie,22,089,22089,220959
+1824,938,Johnson County,County,MO,MO,Warrensburg,29,101,29101,205551
+2862,939,Van Zandt County,County,TX,TX,,48,467,48467,184143
+1872,940,Lincoln County,County,MO,MO,St. Louis,29,113,29113,245015
+527,941,Grady County,County,OK,OK,Oklahoma City,40,051,40051,148683
+2074,942,Waupaca County,County,WI,WI,,55,135,55135,182835
+1457,943,Vernon Parish,County,LA,LA,Fort Polk South,22,115,22115,153150
+773,944,Union County,County,OH,OH,Columbus,39,159,39159,312010
+110,945,Cass County,County,MI,MI,South Bend-Mishawaka,26,027,26027,184958
+1986,946,Pulaski County,County,MO,MO,Fort Leonard Wood,29,169,29169,167253
+1190,947,McMinn County,County,TN,TN,Athens,47,107,47107,160301
+2689,948,Effingham County,County,GA,GA,Savannah,13,103,13103,239692
+2551,949,Somerset County,County,ME,ME,,23,025,23025,153797
+1313,950,Pender County,County,NC,NC,Wilmington,37,141,37141,323240
+491,951,Eagle County,County,CO,CO,Edwards,8,037,8037,945108
+3188,952,Saint Martin Parish,County,LA,LA,Lafayette,22,099,22099,117053
+249,953,Lyon County,County,NV,NV,Fernley,32,019,32019,378163
+741,954,Taney County,County,MO,MO,Branson,29,213,29213,176283
+2287,955,Franklin County,County,NY,NY,Malone,36,033,36033,125937
+1498,956,Winona County,County,MN,MN,Winona,27,169,27169,213392
+2880,957,Worcester County,County,MD,MD,Salisbury,24,047,24047,350666
+2753,958,Jefferson County,County,TN,TN,Morristown,47,089,47089,195254
+2369,959,La Plata County,County,CO,CO,Durango,8,067,8067,551180
+543,960,Grant County,County,WI,WI,Platteville,55,043,55043,152393
+184,961,Hood County,County,TX,TX,Dallas-Fort Worth-Arlington,48,221,48221,326263
+748,963,Tioga County,County,NY,NY,Binghamton,36,107,36107,151597
+2073,964,Watauga County,County,NC,NC,Boone,37,189,37189,394690
+3068,965,Washington County,County,OK,OK,Bartlesville,40,147,40147,121724
+2907,966,Crittenden County,County,AR,AR,Memphis,5,035,5035,111604
+2194,967,Cherokee County,County,TX,TX,Jacksonville,48,073,48073,143983
+908,968,Camden County,County,GA,GA,St. Marys,13,039,13039,213009
+555,969,Henry County,County,IL,IL,Davenport-Moline-Rock Island,17,073,17073,123441
+2186,970,Chenango County,County,NY,NY,,36,017,36017,122053
+1853,971,LeFlore County,County,OK,OK,Fort Smith,40,079,40079,88905
+145,972,Dale County,County,AL,AL,Ozark,1,045,1045,107572
+2979,973,Montgomery County,County,NY,NY,Amsterdam,36,057,36057,133850
+1068,974,Grundy County,County,IL,IL,Chicago-Naperville-Elgin,17,063,17063,234626
+2244,975,Dearborn County,County,IN,IN,Cincinnati,18,029,18029,223423
+2637,976,Box Elder County,County,UT,UT,Ogden-Clearfield,49,003,49003,362574
+945,977,Coffee County,County,AL,AL,Enterprise,1,031,1031,152519
+1559,978,Bristol County,County,RI,RI,Providence-Warwick,44,001,44001,469092
+590,979,Lamar County,County,TX,TX,Paris,48,277,48277,130313
+1536,980,Bedford County,County,PA,PA,,42,009,42009,160601
+1794,981,Jackson County,County,FL,FL,,12,063,12063,124591
+1038,982,Gibson County,County,TN,TN,,47,053,47053,106402
+1668,983,Dickson County,County,TN,TN,Nashville-Davidson--Murfreesboro--Franklin,47,043,47043,246489
+205,984,Kerr County,County,TX,TX,Kerrville,48,265,48265,302145
+103,985,Boyd County,County,KY,KY,Huntington-Ashland,21,019,21019,95791
+556,986,Henry County,County,IN,IN,New Castle,18,065,18065,112477
+1387,987,Shelby County,County,OH,OH,Sidney,39,149,39149,177687
+2215,988,Columbia County,County,OR,OR,Portland-Vancouver-Hillsboro,41,009,41009,408850
+2224,989,Cortland County,County,NY,NY,Cortland,36,023,36023,145712
+2279,990,Franklin County,County,KY,KY,Frankfort,21,073,21073,182666
+1060,991,Greene County,County,NY,NY,,36,039,36039,271413
+1624,992,Clinton County,County,IA,IA,Clinton,19,045,19045,143383
+1580,993,Calumet County,County,WI,WI,Appleton,55,015,55015,171767
+2119,994,Allegany County,County,NY,NY,,36,003,36003,86869
+3273,995,Harrisonburg City,County,VA,VA,Harrisonburg,51,660,51660,222900
+2857,996,Val Verde County,County,TX,TX,Del Rio,48,465,48465,139978
+156,997,Elko County,County,NV,NV,Elko,32,007,32007,316664
+1476,998,Warren County,County,MS,MS,Vicksburg,28,149,28149,138412
+2758,999,Jessamine County,County,KY,KY,Lexington-Fayette,21,113,21113,212060
+1151,1000,Loudon County,County,TN,TN,Knoxville,47,105,47105,301704
+1944,1001,Newaygo County,County,MI,MI,,26,123,26123,169849
+1851,1002,Laurens County,County,GA,GA,Dublin,13,175,13175,125107
+465,1003,Curry County,County,NM,NM,Clovis,35,009,35009,171985
+2248,1004,Delaware County,County,NY,NY,,36,025,36025,172604
+1598,1005,Carroll County,County,NH,NH,,33,003,33003,395061
+3118,1006,Queen Annes County,County,MD,MD,Baltimore-Columbia-Towson,24,035,24035,412956
+2396,1007,Macoupin County,County,IL,IL,St. Louis,17,117,17117,93296
+2137,1008,Beaufort County,County,NC,NC,Washington,37,013,37013,160386
+2293,1009,Franklin County,County,VT,VT,Burlington-South Burlington,50,011,50011,266584
+1942,1010,Navarro County,County,TX,TX,Corsicana,48,349,48349,126015
+3034,1011,Stephenson County,County,IL,IL,Freeport,17,177,17177,100960
+2818,1012,Oktibbeha County,County,MS,MS,Starkville,28,105,28105,186584
+922,1013,Carter County,County,OK,OK,Ardmore,40,019,40019,101598
+654,1014,Noble County,County,IN,IN,Kendallville,18,113,18113,163245
+662,1015,Osage County,County,OK,OK,Tulsa,40,113,40113,128024
+3024,1016,Santa Cruz County,County,AZ,AZ,Nogales,4,023,4023,202711
+1401,1017,Stokes County,County,NC,NC,Winston-Salem,37,169,37169,142497
+2772,1018,Lafayette County,County,MS,MS,Oxford,28,071,28071,208267
+710,1019,Scott County,County,KY,KY,Lexington-Fayette,21,209,21209,243808
+3058,1020,Washington Parish,County,LA,LA,Bogalusa,22,117,22117,113829
+2408,1021,Marshall County,County,IN,IN,Plymouth,18,099,18099,177947
+1677,1022,Douglas County,County,NV,NV,Gardnerville Ranchos,32,005,32005,647953
+2192,1023,Cherokee County,County,OK,OK,Tahlequah,40,021,40021,126651
+181,1024,Hoke County,County,NC,NC,Fayetteville,37,093,37093,185359
+1779,1025,Hopkins County,County,KY,KY,Madisonville,21,107,21107,99296
+1713,1026,Fremont County,County,CO,CO,Ca��on City,8,043,8043,289588
+1869,1027,Lincoln Parish,County,LA,LA,Ruston,22,061,22061,168272
+3157,1028,Chesterfield County,County,SC,SC,,45,025,45025,125010
+2240,1029,Culpeper County,County,VA,VA,Washington-Arlington-Alexandria,51,047,51047,366235
+2725,1030,Hillsdale County,County,MI,MI,Hillsdale,26,059,26059,160987
+1931,1031,Mifflin County,County,PA,PA,Lewistown,42,087,42087,117797
+2510,1032,Richmond County,County,NC,NC,Rockingham,37,153,37153,84118
+76,1033,Kay County,County,OK,OK,Ponca City,40,071,40071,71025
+3104,1034,Mississippi County,County,AR,AR,Blytheville,5,093,5093,94721
+1717,1035,Gadsden County,County,FL,FL,Tallahassee,12,039,12039,126800
+2718,1036,Henderson County,County,KY,KY,Evansville,21,101,21101,134009
+1471,1037,Warren County,County,IA,IA,Des Moines-West Des Moines,19,181,19181,230939
+1727,1038,Goodhue County,County,MN,MN,Red Wing,27,049,27049,290036
+193,1039,Iron County,County,UT,UT,Cedar City,49,021,49021,334242
+2381,1040,Lawrence County,County,IN,IN,Bedford,18,093,18093,134265
+2172,1041,Campbell County,County,WY,WY,Gillette,56,005,56005,280590
+1562,1042,Buffalo County,County,NE,NE,Kearney,31,019,31019,233630
+1706,1043,Fayette County,County,WV,WV,Beckley,54,019,54019,75545
+1880,1044,Lincoln County,County,OR,OR,Newport,41,041,41041,422915
+1192,1045,Medina County,County,TX,TX,San Antonio-New Braunfels,48,325,48325,255442
+682,1046,Perry County,County,PA,PA,Harrisburg-Carlisle,42,099,42099,207598
+2134,1047,Auglaize County,County,OH,OH,Wapakoneta,39,011,39011,172173
+3285,1048,Saint John the Baptist Parish,County,LA,LA,New Orleans-Metairie,22,095,22095,159505
+2938,1049,Huntingdon County,County,PA,PA,Huntingdon,42,061,42061,146654
+851,1050,Barron County,County,WI,WI,,55,005,55005,198464
+611,1051,Logan County,County,OH,OH,Bellefontaine,39,091,39091,167891
+2827,1052,Pittsburg County,County,OK,OK,McAlester,40,121,40121,96266
+1526,1053,Baldwin County,County,GA,GA,Milledgeville,13,009,13009,157723
+1545,1054,Bingham County,County,ID,ID,Blackfoot,16,011,16011,298103
+2643,1055,Calaveras County,County,CA,CA,,6,009,6009,455124
+2210,1056,Colquitt County,County,GA,GA,Moultrie,13,071,13071,105630
+781,1057,Vance County,County,NC,NC,Henderson,37,181,37181,100988
+294,1058,Polk County,County,TX,TX,,48,373,48373,129403
+889,1059,Branch County,County,MI,MI,Coldwater,26,023,26023,141667
+2752,1060,Jefferson County,County,PA,PA,,42,065,42065,96636
+1317,1061,Phelps County,County,MO,MO,Rolla,29,161,29161,163049
+2573,1062,Tazewell County,County,VA,VA,Bluefield,51,185,51185,98914
+1537,1063,Bedford County,County,TN,TN,Shelbyville,47,003,47003,222138
+1113,1063,Itasca County,County,MN,MN,Grand Rapids,27,061,27061,189085
+2558,1065,Stephens County,County,OK,OK,Duncan,40,137,40137,94229
+2421,1066,McDowell County,County,NC,NC,Marion,37,111,37111,173192
+775,1067,Union County,County,PA,PA,Lewisburg,42,119,42119,206682
+2129,1068,Atascosa County,County,TX,TX,San Antonio-New Braunfels,48,013,48013,196626
+2548,1069,Siskiyou County,County,CA,CA,,6,093,6093,251521
+407,1070,Brown County,County,OH,OH,Cincinnati,39,015,39015,162063
+1881,1071,Lincoln County,County,SD,SD,Sioux Falls,46,083,46083,292443
+2093,1072,Whitman County,County,WA,WA,Pullman,53,075,53075,346896
+1430,1073,Thomas County,County,GA,GA,Thomasville,13,275,13275,159113
+1227,1074,Monroe County,County,WI,WI,,55,081,55081,182565
+1226,1075,Monroe County,County,TN,TN,,47,123,47123,172647
+2098,1076,Windham County,County,VT,VT,,50,025,50025,292405
+262,1077,Ohio County,County,WV,WV,Wheeling,54,069,54069,119200
+2139,1078,Beltrami County,County,MN,MN,Bemidji,27,007,27007,202635
+1384,1079,Shelby County,County,IN,IN,Indianapolis-Carmel-Anderson,18,145,18145,165188
+2166,1080,Callaway County,County,MO,MO,Jefferson City,29,027,29027,184023
+295,1081,Polk County,County,WI,WI,,55,095,55095,244360
+1681,1082,Douglas County,County,WI,WI,Duluth,55,031,55031,177743
+3089,1083,Cerro Gordo County,County,IA,IA,Mason City,19,033,19033,133506
+909,1084,Camden County,County,MO,MO,,29,029,29029,316824
+90,1085,Nye County,County,NV,NV,Pahrump,32,023,32023,310491
+1754,1086,Hancock County,County,MS,MS,Gulfport-Biloxi-Pascagoula,28,045,28045,161330
+152,1087,Dunn County,County,WI,WI,Menomonie,55,033,55033,197264
+974,1088,Dallas County,County,AL,AL,Selma,1,047,1047,61910
+3036,1089,Sweetwater County,County,WY,WY,Rock Springs,56,037,56037,255101
+2234,1090,Crawford County,County,OH,OH,Bucyrus,39,033,39033,98547
+2566,1091,Sullivan County,County,NH,NH,Claremont-Lebanon,33,019,33019,240938
+1614,1092,Chilton County,County,AL,AL,Birmingham-Hoover,1,021,1021,144378
+2343,1093,Highland County,County,OH,OH,,39,071,39071,129404
+2042,1094,Stevens County,County,WA,WA,Spokane-Spokane Valley,53,065,53065,299323
+3288,1095,Charlottesville City,County,VA,VA,Charlottesville,51,540,51540,388638
+1205,1096,Miller County,County,AR,AR,Texarkana,5,091,5091,114545
+1185,1097,McKean County,County,PA,PA,Bradford,42,083,42083,73271
+1254,1098,Nelson County,County,KY,KY,Bardstown,21,179,21179,202434
+1910,1099,Madison County,County,OH,OH,Columbus,39,097,39097,212936
+3142,1100,Susquehanna County,County,PA,PA,,42,115,42115,144419
+1467,1101,Waller County,County,TX,TX,Houston-The Woodlands-Sugar Land,48,473,48473,282573
+2015,1102,Sanilac County,County,MI,MI,,26,151,26151,129979
+3205,1103,Danville City,County,VA,VA,Danville,51,590,51590,72303
+2713,1104,Habersham County,County,GA,GA,Cornelia,13,137,13137,190237
+1497,1105,Wilson County,County,TX,TX,San Antonio-New Braunfels,48,493,48493,338014
+1954,1106,Orleans County,County,NY,NY,Rochester,36,073,36073,126372
+1926,1107,Mecosta County,County,MI,MI,Big Rapids,26,107,26107,153881
+902,1108,Butler County,County,MO,MO,Poplar Bluff,29,023,29023,122862
+897,1109,Burnet County,County,TX,TX,,48,053,48053,310772
+2811,1110,Muscatine County,County,IA,IA,Muscatine,19,139,19139,148802
+1025,1111,Fulton County,County,OH,OH,Toledo,39,051,39051,169324
+801,1112,Wayne County,County,WV,WV,Huntington-Ashland,54,099,54099,90607
+1731,1113,Gratiot County,County,MI,MI,Alma,26,057,26057,109360
+413,1114,Bryan County,County,OK,OK,Durant,40,013,40013,130563
+2541,1115,Sequoyah County,County,OK,OK,Fort Smith,40,135,40135,99458
+1798,1116,Jackson County,County,IN,IN,Seymour,18,071,18071,160216
+1096,1117,Holmes County,County,OH,OH,,39,075,39075,248899
+946,1118,Coffee County,County,GA,GA,Douglas,13,069,13069,123072
+1336,1119,Preble County,County,OH,OH,,39,135,39135,161380
+2762,1120,Kandiyohi County,County,MN,MN,Willmar,27,067,27067,205310
+1658,1121,De Kalb County,County,IN,IN,Auburn,18,033,18033,178814
+1316,1122,Pettis County,County,MO,MO,Sedalia,29,159,29159,119646
+850,1123,Barren County,County,KY,KY,Glasgow,21,009,21009,145236
+2105,1124,Wyoming County,County,NY,NY,,36,121,36121,142252
+1052,1125,Greene County,County,AR,AR,Paragould,5,055,5055,126357
+1385,1126,Shelby County,County,KY,KY,Louisville/Jefferson County,21,211,21211,247835
+2625,1127,Avoyelles Parish,County,LA,LA,,22,009,22009,117375
+1631,1128,Clinton County,County,OH,OH,Wilmington,39,027,39027,160845
+3030,1129,Shenandoah County,County,VA,VA,,51,171,51171,226193
+749,1130,Tioga County,County,PA,PA,,42,117,42117,170788
+336,1131,Wood County,County,TX,TX,,48,499,48499,177392
+2022,1132,Shawano County,County,WI,WI,Shawano,55,115,55115,150204
+997,1133,Dubois County,County,IN,IN,Jasper,18,037,18037,190697
+2388,1134,Lawrence County,County,TN,TN,Lawrenceburg,47,099,47099,140323
+612,1135,Logan County,County,OK,OK,Oklahoma City,40,083,40083,229915
+1481,1136,Warren County,County,PA,PA,Warren,42,123,42123,100514
+2784,1137,Marinette County,County,WI,WI,Marinette,55,075,55075,128327
+761,1138,Union County,County,AR,AR,El Dorado,5,139,5139,88342
+3038,1139,Tallapoosa County,County,AL,AL,Alexander City,1,123,1123,161304
+2570,1140,Suwannee County,County,FL,FL,,12,121,12121,163436
+856,1141,Baxter County,County,AR,AR,Mountain Home,5,005,5005,151560
+2250,1142,Delaware County,County,OK,OK,,40,041,40041,162381
+286,1143,Polk County,County,GA,GA,Cedartown,13,233,13233,127416
+334,1144,Wise County,County,VA,VA,Big Stone Gap,51,195,51195,85046
+1301,1145,Ottawa County,County,OH,OH,Port Clinton,39,123,39123,201075
+2085,1146,Wharton County,County,TX,TX,El Campo,48,481,48481,164158
+2445,1147,Montrose County,County,CO,CO,Montrose,8,085,8085,343754
+633,1148,Mayes County,County,OK,OK,,40,097,40097,134121
+468,1149,Davie County,County,NC,NC,Winston-Salem,37,059,37059,223243
+2079,1150,Webster Parish,County,LA,LA,Shreveport-Bossier City,22,119,22119,123564
+2461,1151,Okanogan County,County,WA,WA,,53,047,53047,279425
+2290,1152,Franklin County,County,TN,TN,Tullahoma-Manchester,47,051,47051,195257
+1323,1153,Pierce County,County,WI,WI,Minneapolis-St. Paul-Bloomington,55,093,55093,254406
+2367,1154,Kittitas County,County,WA,WA,Ellensburg,53,037,53037,457612
+885,1155,Bonner County,County,ID,ID,Sandpoint,16,017,16017,487505
+2759,1156,Jim Wells County,County,TX,TX,Alice,48,249,48249,103840
+1202,1157,Mercer County,County,OH,OH,Celina,39,107,39107,185788
+234,1158,Levy County,County,FL,FL,,12,075,12075,195119
+2170,1159,Campbell County,County,TN,TN,Knoxville,47,013,47013,137460
+2995,1160,Pasquotank County,County,NC,NC,Elizabeth City,37,139,37139,180097
+2406,1161,Marshall County,County,IA,IA,Marshalltown,19,127,19127,118816
+278,1162,Pike County,County,MS,MS,McComb,28,113,28113,112144
+1105,1163,Howell County,County,MO,MO,West Plains,29,091,29091,140733
+2920,1164,Des Moines County,County,IA,IA,Burlington,19,057,19057,112963
+1806,1165,Jackson County,County,NC,NC,Cullowhee,37,099,37099,317935
+3006,1166,Rio Arriba County,County,NM,NM,Espa��ola,35,039,35039,198812
+1993,1167,Ravalli County,County,MT,MT,,30,081,30081,465690
+1716,1168,Fremont County,County,WY,WY,Riverton,56,013,56013,241112
+318,1169,Tift County,County,GA,GA,Tifton,13,277,13277,152137
+2649,1170,Champaign County,County,OH,OH,Urbana,39,021,39021,164978
+2311,1171,Guernsey County,County,OH,OH,Cambridge,39,059,39059,123789
+2464,1172,Okmulgee County,County,OK,OK,Tulsa,40,111,40111,76033
+2990,1173,Okeechobee County,County,FL,FL,Okeechobee,12,093,12093,166830
+1620,1174,Clarion County,County,PA,PA,,42,031,42031,106609
+1482,1175,Warren County,County,TN,TN,McMinnville,47,177,47177,145855
+211,1176,Knox County,County,ME,ME,,23,013,23013,294866
+1394,1177,Snyder County,County,PA,PA,Selinsgrove,42,109,42109,191437
+1248,1178,Murray County,County,GA,GA,Dalton,13,213,13213,158063
+3172,1179,Natchitoches Parish,County,LA,LA,Natchitoches,22,069,22069,179813
+2276,1180,Franklin County,County,IL,IL,,17,055,17055,70308
+1315,1181,Person County,County,NC,NC,Durham-Chapel Hill,37,145,37145,155075
+515,1182,Floyd County,County,KY,KY,,21,071,21071,62744
+505,1184,Essex County,County,NY,NY,,36,031,36031,171265
+2330,1185,Harrison County,County,IN,IN,Louisville/Jefferson County,18,061,18061,183529
+1450,1186,Upshur County,County,TX,TX,Longview,48,459,48459,171904
+2816,1187,Nez Perce County,County,ID,ID,Lewiston,16,069,16069,330603
+1632,1188,Clinton County,County,PA,PA,Lock Haven,42,035,42035,160592
+712,1189,Scott County,County,MO,MO,Sikeston,29,201,29201,119161
+652,1190,Mower County,County,MN,MN,Austin,27,099,27099,160140
+1093,1191,Hendry County,County,FL,FL,Clewiston,12,051,12051,160267
+2231,1192,Crawford County,County,KS,KS,Pittsburg,20,037,20037,91693
+2185,1193,Cheatham County,County,TN,TN,Nashville-Davidson--Murfreesboro--Franklin,47,021,47021,297556
+2245,1194,Defiance County,County,OH,OH,Defiance,39,039,39039,141395
+109,1195,Cass County,County,IN,IN,Logansport,18,017,18017,100734
+2956,1196,Livingston County,County,IL,IL,Pontiac,17,105,17105,105760
+2208,1197,Colleton County,County,SC,SC,,45,029,45029,160988
+2739,1198,Jefferson County,County,IL,IL,Mount Vernon,17,081,17081,108341
+783,1199,Waldo County,County,ME,ME,,23,027,23027,233006
+1062,1200,Greene County,County,PA,PA,,42,059,42059,143486
+2602,1201,Woodford County,County,IL,IL,Peoria,17,203,17203,179032
+2383,1202,Lawrence County,County,MO,MO,,29,109,29109,130757
+2199,1203,Chippewa County,County,MI,MI,Sault Ste. Marie,26,033,26033,136936
+867,1204,Benton County,County,MN,MN,St. Cloud,27,009,27009,234430
+209,1205,Knox County,County,IN,IN,Vincennes,18,083,18083,104233
+455,1206,Cooke County,County,TX,TX,Gainesville,48,097,48097,206976
+1680,1207,Douglas County,County,WA,WA,Wenatchee,53,017,53017,415268
+1704,1208,Fayette County,County,TN,TN,Memphis,47,047,47047,277407
+1502,1209,Yadkin County,County,NC,NC,Winston-Salem,37,197,37197,161968
+153,1210,Dyer County,County,TN,TN,Dyersburg,47,045,47045,111103
+2258,1211,Escambia County,County,AL,AL,Atmore,1,053,1053,106931
+2972,1212,Montgomery County,County,IN,IN,Crawfordsville,18,107,18107,152415
+409,1213,Brown County,County,TX,TX,Brownwood,48,049,48049,127623
+829,1214,Amador County,County,CA,CA,,6,005,6005,385794
+2164,1215,Caldwell County,County,TX,TX,Austin-Round Rock,48,055,48055,207363
+2077,1216,Webster County,County,IA,IA,Fort Dodge,19,187,19187,98696
+1341,1217,Putnam County,County,IN,IN,Indianapolis-Carmel-Anderson,18,133,18133,177375
+502,1218,Erath County,County,TX,TX,Stephenville,48,143,48143,193662
+3213,1219,Manassas City,County,VA,VA,Washington-Arlington-Alexandria,51,683,51683,409779
+1111,1220,Isanti County,County,MN,MN,Minneapolis-St. Paul-Bloomington,27,059,27059,297700
+1418,1221,Talbot County,County,MD,MD,Easton,24,041,24041,397954
+2672,1222,Covington County,County,AL,AL,,1,039,1039,107374
+1625,1223,Clinton County,County,IL,IL,St. Louis,17,027,17027,155474
+1277,1224,Oconto County,County,WI,WI,Green Bay,55,083,55083,176857
+2600,1225,Williams County,County,OH,OH,,39,171,39171,127851
+1483,1226,Warren County,County,VA,VA,Washington-Arlington-Alexandria,51,187,51187,309346
+1899,1227,Madison County,County,ID,ID,Rexburg,16,065,16065,364406
+2453,1228,Newberry County,County,SC,SC,Newberry,45,071,45071,152870
+2485,1229,Pontotoc County,County,OK,OK,Ada,40,123,40123,114021
+593,1230,Latah County,County,ID,ID,Moscow,16,057,16057,404810
+1047,1231,Graham County,County,AZ,AZ,Safford,4,009,4009,220196
+2610,1232,Alexander County,County,NC,NC,Hickory-Lenoir-Morganton,37,003,37003,179274
+2167,1233,Calloway County,County,KY,KY,Murray,21,035,21035,147857
+2412,1234,Marshall County,County,MS,MS,Memphis,28,093,28093,122862
+2374,1235,Lagrange County,County,IN,IN,,18,087,18087,240178
+2888,1236,Bennington County,County,VT,VT,Bennington,50,003,50003,265842
+2939,1237,Huntington County,County,IN,IN,Huntington,18,069,18069,136528
+1050,1238,Graves County,County,KY,KY,Mayfield,21,083,21083,106451
+473,1239,Delta County,County,MI,MI,Escanaba,26,041,26041,111179
+1021,1239,Fulton County,County,IL,IL,Canton,17,057,17057,78671
+826,1241,Alcorn County,County,MS,MS,Corinth,28,003,28003,110558
+1621,1242,Clatsop County,County,OR,OR,Astoria,41,007,41007,445883
+1222,1243,Monroe County,County,MS,MS,,28,095,28095,109221
+3192,1244,Scotts Bluff County,County,NE,NE,Scottsbluff,31,157,31157,151563
+1737,1245,Greenup County,County,KY,KY,Huntington-Ashland,21,089,21089,96460
+390,1246,Boone County,County,AR,AR,Harrison,5,009,5009,141651
+639,1246,Miami County,County,IN,IN,Peru,18,103,18103,100403
+2671,1248,Coshocton County,County,OH,OH,Coshocton,39,031,39031,130819
+2930,1249,Gloucester County,County,VA,VA,Virginia Beach-Norfolk-Newport News,51,073,51073,273863
+1115,1250,Jasper County,County,IA,IA,Newton,19,099,19099,140821
+546,1250,Green County,County,WI,WI,Madison,55,045,55045,197004
+1508,1252,Addison County,County,VT,VT,,50,001,50001,304610
+1013,1253,Finney County,County,KS,KS,Garden City,20,055,20055,193293
+613,1254,Logan County,County,WV,WV,Logan,54,045,54045,74626
+2787,1255,Matagorda County,County,TX,TX,Bay City,48,321,48321,171064
+484,1256,Dodge County,County,NE,NE,Fremont,31,053,31053,162926
+1189,1257,McLeod County,County,MN,MN,Hutchinson,27,085,27085,231050
+3167,1258,Independence County,County,AR,AR,Batesville,5,063,5063,107605
+2348,1259,Houghton County,County,MI,MI,Houghton,26,061,26061,135159
+1399,1260,Steele County,County,MN,MN,Owatonna,27,147,27147,227286
+408,1261,Brown County,County,SD,SD,Aberdeen,46,013,46013,186670
+1405,1262,Summit County,County,UT,UT,Summit Park,49,043,49043,1070579
+327,1263,Ware County,County,GA,GA,Waycross,13,299,13299,91286
+961,1264,Cowley County,County,KS,KS,Arkansas City-Winfield,20,035,20035,90887
+824,1265,Albany County,County,WY,WY,Laramie,56,001,56001,277784
+1876,1266,Lincoln County,County,NE,NE,North Platte,31,111,31111,161035
+171,1267,Hale County,County,TX,TX,Plainview,48,189,48189,85982
+1744,1268,Halifax County,County,VA,VA,,51,083,51083,116505
+2080,1269,Webster County,County,MO,MO,Springfield,29,225,29225,177520
+2535,1270,Scotland County,County,NC,NC,Laurinburg,37,165,37165,85671
+681,1271,Perry County,County,OH,OH,Columbus,39,127,39127,139708
+83,1272,Lee County,County,IL,IL,Dixon,17,103,17103,110988
+1674,1273,Douglas County,County,MN,MN,Alexandria,27,041,27041,274271
+1284,1274,Oneida County,County,WI,WI,,55,085,55085,215723
+3221,1275,Saint Bernard Parish,County,LA,LA,New Orleans-Metairie,22,087,22087,154920
+82,1276,Lee County,County,IA,IA,Fort Madison-Keokuk,19,111,19111,97571
+3218,1277,Prince George County,County,VA,VA,Richmond,51,149,51149,252054
+1121,1278,Jasper County,County,TX,TX,,48,241,48241,130905
+452,1279,Cocke County,County,TN,TN,Newport,47,029,47029,122826
+2886,1280,Beauregard Parish,County,LA,LA,DeRidder,22,011,22011,123339
+2092,1281,Whitley County,County,KY,KY,London,21,235,21235,94475
+2069,1282,Wapello County,County,IA,IA,Ottumwa,19,179,19179,83502
+443,1283,Clark County,County,KY,KY,Lexington-Fayette,21,049,21049,167329
+383,1284,Barry County,County,MO,MO,,29,009,29009,149838
+1846,1285,Laclede County,County,MO,MO,Lebanon,29,105,29105,150181
+1232,1286,Morgan County,County,IL,IL,Jacksonville,17,137,17137,103418
+2933,1287,Greenbrier County,County,WV,WV,,54,025,54025,124857
+2973,1288,Montgomery County,County,KS,KS,Coffeyville,20,125,20125,65086
+1588,1289,Carlton County,County,MN,MN,Duluth,27,017,27017,204063
+2839,1290,Sagadahoc County,County,ME,ME,Portland-South Portland,23,023,23023,287485
+3210,1291,Isle of Wight County,County,VA,VA,Virginia Beach-Norfolk-Newport News,51,093,51093,315501
+1373,1292,Seneca County,County,NY,NY,Seneca Falls,36,099,36099,140798
+877,1293,Bladen County,County,NC,NC,,37,017,37017,104664
+2182,1295,Chambers County,County,TX,TX,Houston-The Woodlands-Sugar Land,48,071,48071,283393
+180,1296,Hill County,County,TX,TX,,48,217,48217,123200
+2075,1297,Weakley County,County,TN,TN,Martin,47,183,47183,108846
+1104,1298,Howard County,County,TX,TX,Big Spring,48,227,48227,130652
+896,1299,Bureau County,County,IL,IL,Ottawa-Peru,17,011,17011,100802
+2665,1300,Clarendon County,County,SC,SC,,45,027,45027,133712
+1143,1301,Lassen County,County,CA,CA,Susanville,6,035,6035,207367
+1908,1302,Madison County,County,NE,NE,Norfolk,31,119,31119,167639
+1987,1303,Pulaski County,County,VA,VA,Blacksburg-Christiansburg-Radford,51,155,51155,169080
+1873,1304,Lincoln County,County,MS,MS,Brookhaven,28,085,28085,130057
+1659,1305,De Soto County,County,FL,FL,Arcadia,12,027,12027,160204
+1243,1306,Morrow County,County,OH,OH,Columbus,39,117,39117,188215
+2657,1307,Christian County,County,IL,IL,Taylorville,17,021,17021,89910
+1306,1308,Panola County,County,MS,MS,,28,107,28107,126243
+449,1309,Clark County,County,WI,WI,,55,019,55019,126014
+1091,1310,Harvey County,County,KS,KS,Wichita,20,079,20079,141759
+1921,1311,McClain County,County,OK,OK,Oklahoma City,40,087,40087,192811
+1344,1312,Putnam County,County,OH,OH,,39,137,39137,174407
+1870,1313,Lincoln County,County,ME,ME,,23,015,23015,289468
+3202,1314,Williamsburg County,County,SC,SC,,45,089,45089,82569
+357,1315,Adams County,County,IN,IN,Decatur,18,001,18001,167082
+521,1316,Geary County,County,KS,KS,Junction City,20,061,20061,161677
+2378,1317,Lawrence County,County,AL,AL,Decatur,1,079,1079,131035
+1879,1318,Lincoln County,County,OK,OK,Oklahoma City,40,081,40081,113585
+2690,1319,Effingham County,County,IL,IL,Effingham,17,049,17049,153692
+2181,1320,Chambers County,County,AL,AL,Valley,1,017,1017,79099
+3032,1321,Silver Bow County,County,MT,MT,Butte-Silver Bow,30,093,30093,176880
+2038,1322,Steuben County,County,IN,IN,Angola,18,151,18151,204157
+2925,1324,Evangeline Parish,County,LA,LA,,22,039,22039,90199
+622,1325,Macon County,County,NC,NC,,37,113,37113,265260
+147,1326,Dare County,County,NC,NC,Kill Devil Hills,37,055,37055,450174
+1011,1327,Fannin County,County,TX,TX,Bonham,48,147,48147,154865
+161,1328,Ford County,County,KS,KS,Dodge City,20,057,20057,128147
+3073,1329,Washington County,County,TX,TX,Brenham,48,477,48477,266688
+717,1330,Sioux County,County,IA,IA,,19,167,19167,196855
+246,1331,Lyon County,County,KS,KS,Emporia,20,111,20111,122735
+1979,1332,Preston County,County,WV,WV,Morgantown,54,077,54077,122747
+1037,1333,Gibson County,County,IN,IN,,18,051,18051,142180
+1292,1334,Orange County,County,VA,VA,,51,137,51137,309537
+1117,1335,Jasper County,County,IN,IN,Chicago-Naperville-Elgin,18,073,18073,201627
+2492,1336,Randolph County,County,IL,IL,,17,157,17157,96012
+1836,1337,Kendall County,County,TX,TX,San Antonio-New Braunfels,48,259,48259,463427
+2730,1338,Iberville Parish,County,LA,LA,Baton Rouge,22,047,22047,172036
+2771,1339,Lafayette County,County,MO,MO,Kansas City,29,107,29107,170753
+1882,1340,Lincoln County,County,TN,TN,,47,103,47103,156170
+1163,1341,Marion County,County,IA,IA,Pella,19,125,19125,178301
+2091,1342,Whitley County,County,IN,IN,Fort Wayne,18,183,18183,190394
+1807,1343,Jackson County,County,OH,OH,Jackson,39,079,39079,92483
+1626,1344,Clinton County,County,IN,IN,Frankfort,18,023,18023,131467
+2446,1345,Morrison County,County,MN,MN,,27,097,27097,219691
+1056,1346,Greene County,County,IN,IN,,18,055,18055,128556
+2114,1347,Accomack County,County,VA,VA,,51,001,51001,203823
+1153,1348,Louisa County,County,VA,VA,,51,109,51109,268226
+2791,1349,McCurtain County,County,OK,OK,,40,089,40089,85851
+2634,1350,Botetourt County,County,VA,VA,Roanoke,51,023,51023,253178
+1612,1351,Chester County,County,SC,SC,Charlotte-Concord-Gastonia,45,023,45023,112723
+564,1352,Huron County,County,MI,MI,,26,063,26063,124836
+2416,1353,Marshall County,County,WV,WV,Wheeling,54,051,54051,93834
+3197,1354,Transylvania County,County,NC,NC,Brevard,37,175,37175,285699
+2177,1355,Caroline County,County,MD,MD,,24,011,24011,219643
+1172,1356,Marion County,County,SC,SC,,45,067,45067,84978
+141,1357,Coos County,County,NH,NH,Berlin,33,007,33007,148852
+1217,1358,Monroe County,County,IL,IL,St. Louis,17,133,17133,214487
+316,1359,Taos County,County,NM,NM,Taos,35,055,35055,344104
+2937,1360,Hot Spring County,County,AR,AR,Malvern,5,059,5059,108409
+271,1361,Pike County,County,AL,AL,Troy,1,109,1109,128964
+1462,1362,Wabash County,County,IN,IN,Wabash,18,169,18169,129459
+3060,1363,Washington County,County,ME,ME,,23,029,23029,136051
+1410,1364,Sumter County,County,GA,GA,Americus,13,261,13261,90751
+1275,1365,Oconee County,County,GA,GA,Athens-Clarke County,13,219,13219,384164
+640,1366,Miami County,County,KS,KS,Kansas City,20,121,20121,283315
+2843,1367,Schoharie County,County,NY,NY,Albany-Schenectady-Troy,36,095,36095,165200
+2084,1368,Wexford County,County,MI,MI,Cadillac,26,165,26165,142888
+3103,1369,Mecklenburg County,County,VA,VA,,51,117,51117,126387
+2456,1369,Nicollet County,County,MN,MN,Mankato-North Mankato,27,103,27103,244979
+501,1371,Emmet County,County,MI,MI,,26,047,26047,272985
+2922,1372,Dorchester County,County,MD,MD,Cambridge,24,019,24019,172718
+2792,1373,McDonough County,County,IL,IL,Macomb,17,109,17109,80427
+1447,1374,Uintah County,County,UT,UT,Vernal,49,047,49047,279623
+1475,1375,Warren County,County,MO,MO,St. Louis,29,219,29219,231037
+862,1376,Becker County,County,MN,MN,,27,005,27005,262772
+2740,1377,Jefferson County,County,IN,IN,Madison,18,077,18077,153068
+3259,1378,Petersburg City,County,VA,VA,Richmond,51,730,51730,91496
+1514,1379,Amherst County,County,VA,VA,Lynchburg,51,009,51009,184393
+750,1380,Titus County,County,TX,TX,Mount Pleasant,48,449,48449,145106
+560,1381,Henry County,County,TN,TN,Paris,47,079,47079,134096
+1855,1382,Leflore County,County,MS,MS,Greenwood,28,083,28083,64151
+358,1383,Adams County,County,MS,MS,Natchez,28,001,28001,100283
+1327,1384,Platte County,County,NE,NE,Columbus,31,141,31141,201023
+2664,1385,Claiborne County,County,TN,TN,,47,025,47025,132055
+726,1386,Smyth County,County,VA,VA,,51,173,51173,101515
+733,1387,Stone County,County,MO,MO,Branson,29,209,29209,209641
+992,1388,Dillon County,County,SC,SC,,45,033,45033,99916
+1843,1389,Kleberg County,County,TX,TX,Kingsville,48,273,48273,111598
+1080,1390,Hardin County,County,OH,OH,,39,065,39065,126981
+1089,1391,Harris County,County,GA,GA,Columbus,13,145,13145,275334
+2639,1392,Brookings County,County,SD,SD,Brookings,46,011,46011,229282
+1684,1393,Dunklin County,County,MO,MO,Kennett,29,069,29069,80275
+72,1394,Elk County,County,PA,PA,St. Marys,42,047,42047,94997
+210,1395,Knox County,County,KY,KY,London,21,121,21121,91439
+69,1396,Bee County,County,TX,TX,Beeville,48,025,48025,137101
+1302,1397,Ottawa County,County,OK,OK,Miami,40,115,40115,83073
+302,1398,Rhea County,County,TN,TN,Dayton,47,143,47143,170107
+658,1399,Obion County,County,TN,TN,Union City,47,131,47131,105391
+2270,1400,Franklin County,County,AL,AL,,1,059,1059,98341
+1651,1401,Daviess County,County,IN,IN,Washington,18,027,18027,159603
+288,1402,Polk County,County,MN,MN,Grand Forks,27,119,27119,215514
+3255,1403,Jefferson Davis Parish,County,LA,LA,Jennings,22,053,22053,128881
+2985,1404,Muhlenberg County,County,KY,KY,Central City,21,177,21177,87163
+2410,1405,Marshall County,County,KY,KY,,21,157,21157,155416
+360,1406,Adams County,County,NE,NE,Hastings,31,001,31001,152407
+1915,1407,Malheur County,County,OR,OR,Ontario,41,045,41045,190981
+1127,1408,Juneau Borough,County,AK,AK,Juneau,2,110,2110,423638
+2295,1409,Freeborn County,County,MN,MN,Albert Lea,27,047,27047,138951
+2645,1410,Caledonia County,County,VT,VT,,50,005,50005,187818
+289,1411,Polk County,County,MO,MO,Springfield,29,167,29167,156237
+472,1412,Delta County,County,CO,CO,,8,029,8029,300486
+1029,1413,Gallia County,County,OH,OH,Point Pleasant,39,053,39053,122771
+437,1414,Clare County,County,MI,MI,,26,035,26035,97909
+1159,1415,Marion County,County,AL,AL,,1,093,1093,97174
+2066,1415,Wakulla County,County,FL,FL,Tallahassee,12,129,12129,209538
+2282,1417,Franklin County,County,ME,ME,,23,007,23007,177986
+1757,1418,Hancock County,County,WV,WV,Weirton-Steubenville,54,029,54029,99126
+2415,1419,Marshall County,County,TN,TN,Lewisburg,47,117,47117,225722
+115,1420,Cass County,County,TX,TX,,48,067,48067,117260
+606,1421,Logan County,County,IL,IL,Lincoln,17,107,17107,103648
+412,1422,Bryan County,County,GA,GA,Savannah,13,029,13029,283077
+2971,1423,Montgomery County,County,IL,IL,,17,135,17135,75804
+786,1424,Wayne County,County,GA,GA,Jesup,13,305,13305,136083
+1720,1425,Garrett County,County,MD,MD,,24,023,24023,216951
+1601,1426,Carroll County,County,VA,VA,,51,035,51035,143223
+2561,1427,Stoddard County,County,MO,MO,,29,207,29207,103666
+1892,1428,Lumpkin County,County,GA,GA,,13,187,13187,247853
+2484,1429,Pontotoc County,County,MS,MS,Tupelo,28,115,28115,126777
+2755,1430,Jefferson County,County,WA,WA,,53,031,53031,477286
+1459,1431,Vernon County,County,WI,WI,,55,123,55123,174761
+282,1432,Pine County,County,MN,MN,,27,115,27115,188946
+2355,1433,Iroquois County,County,IL,IL,,17,075,17075,93804
+1943,1434,Neshoba County,County,MS,MS,,28,099,28099,113604
+424,1435,Caddo County,County,OK,OK,,40,015,40015,69378
+827,1436,Alpena County,County,MI,MI,Alpena,26,007,26007,116634
+538,1437,Grant County,County,NM,NM,Silver City,35,017,35017,153404
+522,1438,Giles County,County,TN,TN,,47,055,47055,144609
+2852,1439,Sunflower County,County,MS,MS,Indianola,28,133,28133,73556
+956,1440,Copiah County,County,MS,MS,Jackson,28,029,28029,79877
+1971,1441,Pickens County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,227,13227,247588
+2496,1442,Randolph County,County,WV,WV,Elkins,54,083,54083,99248
+3023,1443,San Miguel County,County,NM,NM,Las Vegas,35,047,35047,178918
+1777,1444,Hocking County,County,OH,OH,Columbus,39,073,39073,156253
+1083,1445,Harlan County,County,KY,KY,,21,095,21095,44492
+815,1446,Wythe County,County,VA,VA,,51,197,51197,147429
+1814,1447,Jackson County,County,WV,WV,,54,035,54035,126376
+2793,1448,McPherson County,County,KS,KS,McPherson,20,113,20113,176304
+2546,1449,Sheridan County,County,WY,WY,Sheridan,56,033,56033,318678
+1702,1450,Fayette County,County,OH,OH,Washington Court House,39,047,39047,137965
+776,1451,Union County,County,SC,SC,Spartanburg,45,087,45087,65973
+1293,1452,Orange County,County,VT,VT,Claremont-Lebanon,50,017,50017,223914
+2404,1453,Marlboro County,County,SC,SC,Bennettsville,45,069,45069,54092
+2008,1454,Russell County,County,VA,VA,,51,167,51167,107762
+317,1455,Tate County,County,MS,MS,Memphis,28,137,28137,152706
+1599,1456,Carroll County,County,OH,OH,Canton-Massillon,39,019,39019,156876
+1356,1457,Ripley County,County,IN,IN,,18,137,18137,193147
+3145,1458,Trempealeau County,County,WI,WI,,55,121,55121,178796
+1168,1459,Marion County,County,MO,MO,Hannibal,29,127,29127,131770
+2326,1460,Haralson County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,143,13143,160850
+224,1461,Lake County,County,MT,MT,,30,047,30047,392841
+2587,1462,Van Wert County,County,OH,OH,Van Wert,39,161,39161,118029
+1884,1463,Lincoln County,County,WI,WI,Merrill,55,069,55069,147492
+678,1464,Perry County,County,KY,KY,,21,193,21193,82502
+279,1465,Pike County,County,OH,OH,,39,131,39131,127428
+628,1466,Mason County,County,MI,MI,Ludington,26,105,26105,168894
+97,1467,Bell County,County,KY,KY,Middlesborough,21,013,21013,62184
+572,1468,Jones County,County,GA,GA,Macon-Bibb County,13,169,13169,169794
+2678,1469,Del Norte County,County,CA,CA,Crescent City,6,015,6015,300503
+635,1470,Meade County,County,KY,KY,Elizabethtown-Fort Knox,21,163,21163,198383
+111,1471,Cass County,County,MN,MN,Brainerd,27,021,27021,207329
+361,1472,Adams County,County,OH,OH,,39,001,39001,116801
+2178,1473,Caroline County,County,VA,VA,Richmond,51,033,51033,238213
+2358,1474,Jennings County,County,IN,IN,North Vernon,18,079,18079,143400
+1600,1475,Carroll County,County,TN,TN,,47,017,47017,102754
+2148,1476,Bradford County,County,FL,FL,,12,007,12007,160792
+496,1477,Ellis County,County,KS,KS,Hays,20,051,20051,192083
+400,1478,Boyle County,County,KY,KY,Danville,21,021,21021,149283
+844,1479,Austin County,County,TX,TX,Houston-The Woodlands-Sugar Land,48,015,48015,284028
+81,1480,Lee County,County,GA,GA,Albany,13,177,13177,198727
+1039,1481,Gilmer County,County,GA,GA,,13,123,13123,346191
+2106,1482,Wyoming County,County,PA,PA,Scranton--Wilkes-Barre--Hazleton,42,131,42131,189492
+713,1483,Scott County,County,MS,MS,,28,123,28123,83281
+3055,1484,Washington County,County,IN,IN,Louisville/Jefferson County,18,175,18175,146077
+3224,1485,Saint Francis County,County,AR,AR,Forrest City,5,123,5123,57146
+1173,1486,Marion County,County,TN,TN,Chattanooga,47,115,47115,151041
+559,1487,Henry County,County,OH,OH,,39,069,39069,151387
+1936,1488,Mineral County,County,WV,WV,Cumberland,54,057,54057,128805
+270,1489,Park County,County,WY,WY,,56,029,56029,323234
+1230,1490,Morgan County,County,CO,CO,Fort Morgan,8,087,8087,264671
+524,1491,Glenn County,County,CA,CA,,6,021,6021,292305
+1897,1492,Madison County,County,GA,GA,Athens-Clarke County,13,195,13195,189503
+2994,1493,Palo Pinto County,County,TX,TX,Mineral Wells,48,363,48363,145778
+818,1494,Yazoo County,County,MS,MS,Jackson,28,163,28163,73694
+2486,1495,Powhatan County,County,VA,VA,Richmond,51,145,51145,336611
+2684,1496,Dinwiddie County,County,VA,VA,Richmond,51,053,51053,183879
+1403,1497,Summit County,County,CO,CO,Breckenridge,8,117,8117,863050
+2808,1498,Morehouse Parish,County,LA,LA,Bastrop,22,067,22067,58594
+1662,1499,Decatur County,County,GA,GA,Bainbridge,13,087,13087,116063
+2016,1500,Sanpete County,County,UT,UT,,49,039,49039,290754
+2954,1501,Lauderdale County,County,TN,TN,,47,097,47097,88348
+2978,1502,Montgomery County,County,NC,NC,,37,123,37123,139370
+149,1503,Door County,County,WI,WI,,55,029,55029,251484
+2720,1504,Henderson County,County,TN,TN,,47,077,47077,133896
+1076,1505,Hardee County,County,FL,FL,Wauchula,12,049,12049,132882
+919,1506,Carter County,County,KY,KY,,21,043,21043,80995
+2389,1507,Le Sueur County,County,MN,MN,Minneapolis-St. Paul-Bloomington,27,079,27079,254434
+671,1508,Peach County,County,GA,GA,Warner Robins,13,225,13225,157882
+853,1509,Barton County,County,KS,KS,Great Bend,20,009,20009,86378
+803,1510,Wells County,County,IN,IN,Fort Wayne,18,179,18179,167320
+1031,1511,Garvin County,County,OK,OK,,40,049,40049,81738
+2029,1512,Simpson County,County,MS,MS,Jackson,28,127,28127,110908
+1246,1513,Morton County,County,ND,ND,Bismarck,38,059,38059,252544
+969,1514,Custer County,County,OK,OK,Weatherford,40,039,40039,127439
+1531,1515,Barbour County,County,AL,AL,Eufaula,1,005,1005,111265
+1589,1516,Carroll County,County,AR,AR,,5,015,5015,159666
+2191,1517,Cherokee County,County,NC,NC,,37,039,37039,182907
+631,1518,Mason County,County,WV,WV,Point Pleasant,54,053,54053,92154
+93,1519,Ashe County,County,NC,NC,,37,009,37009,221701
+2327,1520,Hardeman County,County,TN,TN,,47,069,47069,97295
+1955,1521,Orleans County,County,VT,VT,,50,019,50019,190636
+2669,1522,Codington County,County,SD,SD,Watertown,46,029,46029,227120
+1437,1523,Toombs County,County,GA,GA,Vidalia,13,279,13279,123425
+937,1524,Cibola County,County,NM,NM,Grants,35,006,35006,96412
+779,1525,Upson County,County,GA,GA,Thomaston,13,293,13293,98735
+806,1526,White County,County,GA,GA,,13,311,13311,218658
+769,1527,Union County,County,MS,MS,,28,145,28145,126659
+378,1528,Baker County,County,FL,FL,Jacksonville,12,003,12003,213536
+1169,1529,Marion County,County,MS,MS,,28,091,28091,104656
+599,1530,Lewis County,County,NY,NY,,36,049,36049,142010
+1004,1531,Elmore County,County,ID,ID,Mountain Home,16,039,16039,267367
+2688,1532,Edgefield County,County,SC,SC,Augusta-Richmond County,45,037,45037,182323
+374,1533,Anson County,County,NC,NC,,37,007,37007,89881
+122,1534,Clay County,County,IN,IN,Terre Haute,18,021,18021,122599
+608,1536,Logan County,County,KY,KY,,21,141,21141,118294
+1034,1537,Geneva County,County,AL,AL,Dothan,1,061,1061,99850
+1128,1538,Juneau County,County,WI,WI,,55,057,55057,143173
+1660,1539,De Soto Parish,County,LA,LA,Shreveport-Bossier City,22,031,22031,201953
+1066,1540,Grimes County,County,TX,TX,,48,185,48185,181048
+1274,1541,Oceana County,County,MI,MI,,26,127,26127,165258
+2974,1542,Montgomery County,County,KY,KY,Mount Sterling,21,173,21173,138519
+2550,1543,Somerset County,County,MD,MD,Salisbury,24,039,24039,128381
+1808,1544,Jackson County,County,OK,OK,Altus,40,065,40065,75162
+1215,1545,Monroe County,County,GA,GA,Macon-Bibb County,13,207,13207,220095
+1453,1546,Uvalde County,County,TX,TX,Uvalde,48,463,48463,148758
+3133,1547,San Jacinto County,County,TX,TX,,48,407,48407,163394
+391,1548,Boone County,County,IA,IA,Boone,19,015,19015,154895
+2455,1549,Nicholas County,County,WV,WV,,54,067,54067,74742
+3263,1550,Winchester City,County,VA,VA,Winchester,51,840,51840,245246
+2557,1551,Stephens County,County,GA,GA,Toccoa,13,257,13257,138764
+2493,1552,Randolph County,County,IN,IN,,18,135,18135,99636
+2683,1553,Dickinson County,County,MI,MI,Iron Mountain,26,043,26043,123488
+2653,1554,Cheboygan County,County,MI,MI,,26,031,26031,170349
+2738,1556,Jefferson County,County,ID,ID,Idaho Falls,16,051,16051,377778
+2467,1557,Ouachita County,County,AR,AR,Camden,5,103,5103,58445
+2965,1558,Mille Lacs County,County,MN,MN,Minneapolis-St. Paul-Bloomington,27,095,27095,204534
+865,1559,Benton County,County,IA,IA,Cedar Rapids,19,011,19011,167564
+1924,1560,McNairy County,County,TN,TN,,47,109,47109,105926
+1081,1561,Hardin County,County,TN,TN,,47,071,47071,134845
+2652,1562,Chattooga County,County,GA,GA,Summerville,13,055,13055,94802
+746,1563,Texas County,County,MO,MO,,29,215,29215,143994
+2278,1564,Franklin County,County,KS,KS,Ottawa,20,059,20059,161011
+2187,1565,Cherokee County,County,AL,AL,,1,019,1019,147391
+2205,1566,Cleburne County,County,AR,AR,,5,023,5023,165635
+2898,1567,Charlevoix County,County,MI,MI,,26,029,26029,228351
+688,1568,Posey County,County,IN,IN,Evansville,18,129,18129,178970
+405,1569,Brown County,County,MN,MN,New Ulm,27,015,27015,175385
+568,1570,Iosco County,County,MI,MI,,26,069,26069,110701
+248,1571,Lyon County,County,MN,MN,Marshall,27,083,27083,167925
+809,1572,White County,County,TN,TN,,47,185,47185,156620
+939,1573,Clarke County,County,AL,AL,,1,025,1025,111050
+370,1574,Allen Parish,County,LA,LA,,22,003,22003,69961
+774,1575,Union County,County,OR,OR,La Grande,41,061,41061,228522
+1732,1576,Grayson County,County,KY,KY,,21,085,21085,123894
+1664,1577,Decatur County,County,IN,IN,Greensburg,18,031,18031,174591
+1725,1578,Gladwin County,County,MI,MI,,26,051,26051,137073
+2268,1579,Fluvanna County,County,VA,VA,Charlottesville,51,065,51065,254243
+351,1580,Adair County,County,MO,MO,Kirksville,29,001,29001,135419
+89,1581,Lee County,County,VA,VA,,51,105,51105,87859
+1817,1582,Johnson County,County,AR,AR,,5,071,5071,114982
+2807,1583,Montezuma County,County,CO,CO,,8,083,8083,302466
+1521,1584,Audrain County,County,MO,MO,Mexico,29,007,29007,113051
+2571,1585,Tattnall County,County,GA,GA,,13,267,13267,122844
+2540,1586,Seminole County,County,OK,OK,,40,133,40133,62551
+1389,1587,Shelby County,County,TX,TX,,48,419,48419,122539
+636,1588,Meade County,County,SD,SD,Rapid City,46,093,46093,257075
+2606,1589,Abbeville County,County,SC,SC,Greenwood,45,001,45001,141329
+2494,1590,Randolph County,County,MO,MO,Moberly,29,175,29175,109641
+816,1591,Yates County,County,NY,NY,Rochester,36,123,36123,189031
+2487,1592,Prentiss County,County,MS,MS,,28,117,28117,99642
+2854,1593,Tillamook County,County,OR,OR,,41,057,41057,400669
+114,1594,Cass County,County,NE,NE,Omaha-Council Bluffs,31,025,31025,223809
+176,1595,Hart County,County,GA,GA,,13,147,13147,201544
+785,1595,Wasco County,County,OR,OR,The Dalles,41,065,41065,298785
+3062,1597,Washington County,County,MO,MO,,29,221,29221,124226
+243,1598,Luna County,County,NM,NM,Deming,35,029,35029,125540
+526,1599,Grady County,County,GA,GA,,13,131,13131,150563
+2481,1600,Plymouth County,County,IA,IA,Sioux City,19,149,19149,181983
+2603,1601,Woodford County,County,KY,KY,Lexington-Fayette,21,239,21239,230966
+1363,1602,Saline County,County,IL,IL,,17,165,17165,73319
+3050,1603,Washington County,County,FL,FL,,12,133,12133,141947
+320,1604,Todd County,County,MN,MN,,27,153,27153,155207
+2660,1605,Churchill County,County,NV,NV,Fallon,32,001,32001,290511
+2705,1606,Gillespie County,County,TX,TX,Fredericksburg,48,171,48171,414820
+703,1607,Salem City,County,VA,VA,Roanoke,51,775,51775,201028
+1120,1608,Jasper County,County,SC,SC,Hilton Head Island-Bluffton-Beaufort,45,053,45053,200248
+642,1609,Milam County,County,TX,TX,,48,331,48331,158205
+1207,1610,Miller County,County,MO,MO,,29,131,29131,156765
+1868,1611,Lincoln County,County,KY,KY,Danville,21,137,21137,117717
+2400,1612,Manistee County,County,MI,MI,,26,101,26101,155687
+2233,1613,Crawford County,County,MO,MO,,29,055,29055,147448
+1773,1614,Hickman County,County,TN,TN,Nashville-Davidson--Murfreesboro--Franklin,47,081,47081,152565
+2342,1615,Hertford County,County,NC,NC,,37,091,37091,141140
+533,1616,Grant County,County,KY,KY,Cincinnati,21,081,21081,168316
+808,1617,White County,County,IN,IN,,18,181,18181,156029
+1829,1618,Juniata County,County,PA,PA,,42,067,42067,179757
+398,1619,Boone County,County,WV,WV,Charleston,54,005,54005,67317
+2483,1620,Poinsett County,County,AR,AR,Jonesboro,5,111,5111,73786
+1705,1621,Fayette County,County,TX,TX,,48,149,48149,317708
+2211,1622,Columbia County,County,AR,AR,Magnolia,5,027,5027,97096
+1857,1623,Letcher County,County,KY,KY,,21,133,21133,44105
+1422,1624,Taylor County,County,KY,KY,Campbellsville,21,217,21217,117454
+1180,1625,Martin County,County,NC,NC,,37,117,37117,90325
+2597,1626,Waushara County,County,WI,WI,,55,137,55137,167361
+2101,1627,Winston County,County,AL,AL,,1,133,1133,122790
+2375,1628,Lamoille County,County,VT,VT,,50,015,50015,329469
+2838,1629,Roscommon County,County,MI,MI,,26,143,26143,129130
+981,1630,Dawson County,County,NE,NE,Lexington,31,047,31047,134193
+3283,1631,Fredericksburg City,County,VA,VA,Washington-Arlington-Alexandria,51,630,51630,367692
+1700,1632,Fayette County,County,IN,IN,Connersville,18,041,18041,97053
+891,1633,Bremer County,County,IA,IA,Waterloo-Cedar Falls,19,017,19017,182398
+1451,1634,Upshur County,County,WV,WV,,54,097,54097,114929
+1360,1635,Sabine Parish,County,LA,LA,,22,085,22085,122178
+729,1636,Stark County,County,ND,ND,Dickinson,38,089,38089,269069
+708,1637,Scott County,County,IN,IN,Louisville/Jefferson County,18,143,18143,135131
+1297,1638,Otsego County,County,MI,MI,,26,137,26137,169773
+1406,1639,Sumner County,County,KS,KS,Wichita,20,191,20191,99957
+2155,1640,Buchanan County,County,VA,VA,,51,027,51027,66765
+2387,1641,Lawrence County,County,SD,SD,Spearfish,46,081,46081,277039
+892,1642,Brooke County,County,WV,WV,Weirton-Steubenville,54,009,54009,94623
+267,1643,Page County,County,VA,VA,,51,139,51139,189585
+2797,1644,Menominee County,County,MI,MI,Marinette,26,109,26109,116842
+2715,1645,Hampshire County,County,WV,WV,Winchester,54,027,54027,160099
+2696,1646,Fairfield County,County,SC,SC,Columbia,45,039,45039,99696
+261,1647,Ohio County,County,KY,KY,,21,183,21183,116777
+594,1648,Leake County,County,MS,MS,,28,079,28079,122870
+1307,1649,Panola County,County,TX,TX,,48,365,48365,147586
+2107,1649,Wyoming County,County,WV,WV,,54,109,54109,37764
+3271,1651,West Baton Rouge Parish,County,LA,LA,Baton Rouge,22,121,22121,197201
+637,1652,Meigs County,County,OH,OH,,39,105,39105,94267
+3230,1653,Staunton City,County,VA,VA,Staunton-Waynesboro,51,790,51790,183955
+1785,1654,Houston County,County,TX,TX,,48,225,48225,122220
+1603,1655,Caswell County,County,NC,NC,,37,033,37033,126939
+190,1656,Iowa County,County,WI,WI,Madison,55,049,55049,201969
+1010,1657,Fannin County,County,GA,GA,,13,111,13111,302919
+421,1658,Butts County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,035,13035,160704
+3097,1659,King George County,County,VA,VA,,51,099,51099,341475
+833,1660,Antrim County,County,MI,MI,,26,009,26009,216022
+2677,1661,Currituck County,County,NC,NC,Virginia Beach-Norfolk-Newport News,37,053,37053,397833
+2071,1662,Wasatch County,County,UT,UT,Heber,49,051,49051,673529
+1959,1663,Osceola County,County,MI,MI,,26,133,26133,115782
+699,1664,Routt County,County,CO,CO,Steamboat Springs,8,107,8107,800855
+2435,1665,Mitchell County,County,GA,GA,,13,205,13205,95827
+91,1666,Ray County,County,MO,MO,Kansas City,29,177,29177,164638
+461,1667,Crisp County,County,GA,GA,Cordele,13,081,13081,111604
+2884,1668,Assumption Parish,County,LA,LA,,22,007,22007,151012
+2357,1669,Itawamba County,County,MS,MS,Tupelo,28,057,28057,114058
+2781,1670,Limestone County,County,TX,TX,,48,293,48293,114250
+1947,1671,Nodaway County,County,MO,MO,Maryville,29,147,29147,160146
+1365,1671,Saline County,County,MO,MO,Marshall,29,195,29195,131244
+3217,1673,Prince Edward County,County,VA,VA,,51,147,51147,185290
+1398,1674,Starke County,County,IN,IN,,18,149,18149,135768
+1823,1675,Johnson County,County,KY,KY,,21,115,21115,88753
+1427,1676,Teller County,County,CO,CO,Colorado Springs,8,119,8119,384001
+700,1677,Rowan County,County,KY,KY,,21,205,21205,130279
+415,1678,Burke County,County,GA,GA,Augusta-Richmond County,13,033,13033,115944
+1193,1679,Meeker County,County,MN,MN,,27,093,27093,186060
+715,1680,Scott County,County,VA,VA,Kingsport-Bristol-Bristol,51,169,51169,96312
+1517,1681,Aransas County,County,TX,TX,Corpus Christi,48,007,48007,248643
+2277,1682,Franklin County,County,IN,IN,,18,047,18047,212318
+1001,1683,Elbert County,County,CO,CO,Denver-Aurora-Lakewood,8,039,8039,667870
+2420,1684,McDonald County,County,MO,MO,Fayetteville-Springdale-Rogers,29,119,29119,128317
+1212,1685,Monroe County,County,AL,AL,,1,099,1099,88870
+3117,1686,Plaquemines Parish,County,LA,LA,New Orleans-Metairie,22,075,22075,307613
+438,1687,Clark County,County,AR,AR,Arkadelphia,5,019,5019,96948
+1124,1688,Jersey County,County,IL,IL,St. Louis,17,083,17083,121695
+1378,1689,Seward County,County,KS,KS,Liberal,20,175,20175,120895
+925,1689,Cassia County,County,ID,ID,Burley,16,031,16031,259771
+1778,1691,Hockley County,County,TX,TX,Levelland,48,219,48219,125432
+100,1692,Bibb County,County,AL,AL,Birmingham-Hoover,1,007,1007,145028
+2489,1693,Randolph County,County,AL,AL,,1,111,1111,116589
+3214,1694,Pointe Coupee Parish,County,LA,LA,Baton Rouge,22,077,22077,197847
+768,1695,Union Parish,County,LA,LA,Monroe,22,111,22111,112524
+605,1696,Logan County,County,CO,CO,Sterling,8,075,8075,195395
+352,1697,Adair County,County,OK,OK,,40,001,40001,88778
+2945,1698,Jo Daviess County,County,IL,IL,,17,085,17085,183096
+2308,1699,Grainger County,County,TN,TN,Knoxville,47,057,47057,153235
+1966,1700,Payette County,County,ID,ID,Ontario,16,075,16075,296865
+2135,1701,Barnwell County,County,SC,SC,,45,011,45011,112363
+2104,1702,Wyandot County,County,OH,OH,,39,175,39175,137240
+2716,1703,Hempstead County,County,AR,AR,Hope,5,057,5057,75317
+1693,1704,Emanuel County,County,GA,GA,,13,107,13107,84326
+3209,1705,Hopewell City,County,VA,VA,Richmond,51,670,51670,138241
+1036,1706,George County,County,MS,MS,,28,039,28039,137534
+1419,1707,Taylor County,County,FL,FL,,12,123,12123,125811
+3162,1708,Fairfax City,County,VA,VA,Washington-Arlington-Alexandria,51,600,51600,619202
+167,1709,Gray County,County,TX,TX,Pampa,48,179,48179,103130
+2111,1710,Yankton County,County,SD,SD,Yankton,46,135,46135,197879
+2599,1711,Williams County,County,ND,ND,Williston,38,105,38105,275128
+1914,1712,Mahaska County,County,IA,IA,Oskaloosa,19,123,19123,125036
+1123,1713,Jerome County,County,ID,ID,Twin Falls,16,053,16053,311869
+466,1714,Curry County,County,OR,OR,Brookings,41,015,41015,399131
+1383,1715,Shelby County,County,IL,IL,,17,173,17173,111507
+604,1716,Logan County,County,AR,AR,,5,083,5083,93660
+676,1717,Perry County,County,IL,IL,,17,145,17145,76609
+2936,1718,Hood River County,County,OR,OR,Hood River,41,027,41027,535376
+979,1719,Dawson County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,085,13085,321385
+163,1720,Gage County,County,NE,NE,Beatrice,31,067,31067,118891
+534,1721,Grant Parish,County,LA,LA,Alexandria,22,043,22043,146351
+3010,1722,Rockbridge County,County,VA,VA,,51,163,51163,228263
+623,1724,Macon County,County,TN,TN,Nashville-Davidson--Murfreesboro--Franklin,47,111,47111,130160
+1433,1725,Tippah County,County,MS,MS,,28,139,28139,98901
+714,1726,Scott County,County,TN,TN,,47,151,47151,107274
+339,1727,Yell County,County,AR,AR,Russellville,5,149,5149,97234
+2941,1728,Hutchinson County,County,TX,TX,Borger,48,233,48233,76679
+1699,1729,Fayette County,County,IL,IL,,17,051,17051,87668
+2096,1730,Willacy County,County,TX,TX,Raymondville,48,489,48489,78051
+1535,1731,Beckham County,County,OK,OK,Elk City,40,009,40009,120811
+3127,1733,Saint James Parish,County,LA,LA,New Orleans-Metairie,22,093,22093,145734
+3111,1734,Northampton County,County,NC,NC,Roanoke Rapids,37,131,37131,87417
+2273,1735,Franklin County,County,GA,GA,,13,119,13119,175432
+1960,1736,Overton County,County,TN,TN,Cookeville,47,133,47133,148580
+2963,1737,Meriwether County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,199,13199,115397
+1237,1738,Morgan County,County,TN,TN,Knoxville,47,129,47129,127305
+1739,1739,Grenada County,County,MS,MS,Grenada,28,043,28043,102361
+651,1740,Moore County,County,TX,TX,Dumas,48,341,48341,141771
+2423,1741,McDuffie County,County,GA,GA,Augusta-Richmond County,13,189,13189,134467
+839,1742,Ashley County,County,AR,AR,,5,003,5003,64429
+482,1743,Dodge County,County,GA,GA,,13,091,13091,91386
+758,1744,Tyler County,County,TX,TX,,48,457,48457,126562
+2475,1745,Phillips County,County,AR,AR,Helena-West Helena,5,107,5107,30815
+124,1746,Clay County,County,KY,KY,,21,051,21051,56376
+1266,1747,Newton County,County,MS,MS,,28,101,28101,101967
+2751,1747,Jefferson County,County,OR,OR,,41,031,41031,288598
+1885,1747,Lincoln County,County,WV,WV,Huntington-Ashland,54,043,54043,77808
+2707,1750,Goochland County,County,VA,VA,Richmond,51,075,51075,382640
+2390,1751,Leelanau County,County,MI,MI,Traverse City,26,089,26089,405270
+3052,1752,Washington County,County,IA,IA,Iowa City,19,183,19183,159950
+1278,1753,Ogemaw County,County,MI,MI,,26,129,26129,116323
+812,1754,Worth County,County,GA,GA,Albany,13,321,13321,124612
+2064,1755,Wabasha County,County,MN,MN,Rochester,27,157,27157,238206
+840,1756,Asotin County,County,WA,WA,Lewiston,53,003,53003,273132
+1845,1757,Labette County,County,KS,KS,Parsons,20,099,20099,61447
+3177,1758,Pottawatomie County,County,KS,KS,Manhattan,20,149,20149,236823
+2190,1759,Cherokee County,County,KS,KS,,20,021,20021,81944
+264,1760,Owen County,County,IN,IN,Bloomington,18,119,18119,151205
+2564,1761,Sullivan County,County,IN,IN,Terre Haute,18,153,18153,98659
+618,1762,Macon County,County,AL,AL,,1,087,1087,59955
+782,1763,Vilas County,County,WI,WI,,55,125,55125,240743
+2121,1764,Anderson County,County,KY,KY,Frankfort,21,005,21005,170749
+952,1765,Colusa County,County,CA,CA,,6,011,6011,292188
+916,1766,Carbon County,County,UT,UT,Price,49,007,49007,193989
+1578,1767,Calhoun County,County,TX,TX,Port Lavaca,48,057,48057,160900
+1268,1768,Nobles County,County,MN,MN,Worthington,27,105,27105,149566
+878,1769,Blaine County,County,ID,ID,Hailey,16,013,16013,725760
+1059,1770,Greene County,County,NC,NC,,37,079,37079,118213
+763,1771,Union County,County,GA,GA,,13,291,13291,254028
+1198,1772,Mercer County,County,KY,KY,,21,167,21167,154458
+745,1773,Teton County,County,WY,WY,Jackson,56,039,56039,1158343
+875,1774,Bertie County,County,NC,NC,,37,015,37015,92753
+954,1775,Conway County,County,AR,AR,,5,029,5029,104172
+75,1776,Jay County,County,IN,IN,,18,075,18075,99203
+1339,1777,Putnam County,County,GA,GA,,13,237,13237,264001
+3051,1778,Washington County,County,GA,GA,,13,303,13303,95811
+1458,1779,Vernon County,County,MO,MO,,29,217,29217,113279
+760,1780,Uinta County,County,WY,WY,Evanston,56,041,56041,228453
+2562,1781,Stutsman County,County,ND,ND,Jamestown,38,093,38093,176334
+1747,1782,Hampton County,County,SC,SC,,45,049,45049,82830
+3082,1783,Winneshiek County,County,IA,IA,,19,191,19191,203015
+1917,1784,Marengo County,County,AL,AL,,1,091,1091,104562
+972,1785,Dakota County,County,NE,NE,Sioux City,31,043,31043,168386
+3262,1785,Waynesboro City,County,VA,VA,Staunton-Waynesboro,51,820,51820,188395
+462,1787,Crook County,County,OR,OR,Prineville,41,013,41013,336134
+1477,1788,Warren County,County,NC,NC,,37,185,37185,166265
+2153,1789,Buchanan County,County,IA,IA,,19,019,19019,148780
+2031,1790,Spencer County,County,IN,IN,,18,147,18147,156019
+898,1791,Butler County,County,AL,AL,,1,013,1013,82795
+1962,1792,Pacific County,County,WA,WA,,53,049,53049,260411
+1698,1793,Fayette County,County,IA,IA,,19,065,19065,108153
+364,1794,Adams County,County,WI,WI,,55,001,55001,160674
+2209,1795,Colorado County,County,TX,TX,,48,089,48089,186344
+2263,1796,Fillmore County,County,MN,MN,Rochester,27,045,27045,199816
+1179,1797,Martin County,County,MN,MN,Fairmont,27,091,27091,134258
+1022,1798,Fulton County,County,IN,IN,,18,049,18049,130653
+2670,1799,Concordia Parish,County,LA,LA,Natchez,22,029,22029,143557
+1591,1800,Carroll County,County,IA,IA,Carroll,19,027,19027,148052
+790,1801,Wayne County,County,KY,KY,,21,231,21231,92689
+1377,1802,Sevier County,County,UT,UT,,49,041,49041,262540
+2530,1803,Saunders County,County,NE,NE,Omaha-Council Bluffs,31,155,31155,243094
+2280,1804,Franklin Parish,County,LA,LA,,22,041,22041,100461
+1907,1805,Madison County,County,NC,NC,Asheville,37,115,37115,247154
+793,1806,Wayne County,County,MS,MS,,28,153,28153,117938
+1629,1807,Clinton County,County,MO,MO,Kansas City,29,049,29049,189321
+2503,1808,Richland Parish,County,LA,LA,,22,083,22083,103829
+1424,1809,Taylor County,County,WI,WI,,55,119,55119,147919
+284,1810,Polk County,County,AR,AR,,5,113,5113,107135
+747,1811,Texas County,County,OK,OK,Guymon,40,139,40139,112520
+573,1812,Jones County,County,IA,IA,Cedar Rapids,19,105,19105,163168
+127,1813,Clay County,County,MS,MS,West Point,28,025,28025,110947
+2365,1814,Kewaunee County,County,WI,WI,Green Bay,55,061,55061,170358
+290,1816,Polk County,County,NC,NC,,37,149,37149,259359
+1877,1817,Lincoln County,County,NM,NM,Ruidoso,35,027,35027,278913
+1139,1818,La Paz County,County,AZ,AZ,,4,012,4012,235015
+1529,1819,Bandera County,County,TX,TX,San Antonio-New Braunfels,48,019,48019,264252
+1813,1820,Jackson County,County,WI,WI,,55,053,55053,152672
+1786,1821,Hubbard County,County,MN,MN,,27,057,27057,237281
+2765,1822,Klickitat County,County,WA,WA,,53,039,53039,375517
+3239,1823,East Feliciana Parish,County,LA,LA,Baton Rouge,22,037,22037,181063
+3086,1824,Buena Vista County,County,IA,IA,Storm Lake,19,021,19021,133550
+2426,1825,McIntosh County,County,OK,OK,,40,091,40091,107522
+3065,1826,Washington County,County,NE,NE,Omaha-Council Bluffs,31,177,31177,286057
+577,1827,Jones County,County,TX,TX,Abilene,48,253,48253,90046
+200,1828,Kent County,County,MD,MD,,24,029,24029,261875
+1002,1829,Elbert County,County,GA,GA,,13,105,13105,107007
+1593,1830,Carroll County,County,IN,IN,Lafayette-West Lafayette,18,015,18015,155527
+554,1831,Henry County,County,IA,IA,,19,087,19087,133765
+1661,1832,De Witt County,County,TX,TX,,48,123,48123,151405
+483,1833,Dodge County,County,MN,MN,Rochester,27,039,27039,250070
+2605,1834,Woodward County,County,OK,OK,Woodward,40,153,40153,115800
+2433,1835,Minidoka County,County,ID,ID,Burley,16,067,16067,238071
+3155,1836,Breckinridge County,County,KY,KY,,21,027,21027,120074
+1329,1837,Plumas County,County,CA,CA,,6,063,6063,323293
+1551,1838,Bourbon County,County,KY,KY,Lexington-Fayette,21,017,21017,159611
+1672,1839,Douglas County,County,IL,IL,,17,041,17041,113471
+2377,1840,Langlade County,County,WI,WI,,55,067,55067,126390
+369,1841,Allen County,County,KY,KY,Bowling Green,21,003,21003,110991
+1094,1842,Holmes County,County,FL,FL,,12,059,12059,125769
+1367,1843,Saluda County,County,SC,SC,Columbia,45,081,45081,125869
+1796,1844,Jackson County,County,IA,IA,,19,097,19097,153818
+2837,1845,Roosevelt County,County,NM,NM,Portales,35,041,35041,112449
+1288,1846,Orange County,County,IN,IN,,18,117,18117,119853
+1167,1847,Marion County,County,KY,KY,,21,155,21155,128011
+2229,1848,Crawford County,County,IL,IL,,17,033,17033,88389
+2701,1849,Freestone County,County,TX,TX,,48,161,48161,131588
+2307,1850,Gonzales County,County,TX,TX,,48,177,48177,162512
+2682,1851,Dickinson County,County,KS,KS,,20,041,20041,124832
+1970,1852,Pickens County,County,AL,AL,Tuscaloosa,1,107,1107,105141
+2442,1853,Montague County,County,TX,TX,,48,337,48337,121896
+1874,1854,Lincoln County,County,MT,MT,,30,053,30053,282074
+2376,1855,Lampasas County,County,TX,TX,Killeen-Temple,48,281,48281,221032
+2471,1856,Paulding County,County,OH,OH,,39,125,39125,107091
+3042,1857,Tishomingo County,County,MS,MS,,28,141,28141,101971
+2673,1858,Covington County,County,MS,MS,,28,031,28031,112674
+842,1859,Attala County,County,MS,MS,,28,007,28007,83057
+1654,1860,Davison County,County,SD,SD,Mitchell,46,035,46035,185622
+2918,1861,Deaf Smith County,County,TX,TX,Hereford,48,117,48117,110340
+677,1862,Perry County,County,IN,IN,,18,123,18123,131838
+603,1863,Llano County,County,TX,TX,,48,299,48299,326769
+1543,1864,Berrien County,County,GA,GA,,13,019,13019,120101
+1145,1865,Lavaca County,County,TX,TX,,48,285,48285,219001
+1896,1866,Madison County,County,FL,FL,,12,079,12079,123658
+87,1867,Lee County,County,SC,SC,,45,061,45061,88159
+2102,1868,Winston County,County,MS,MS,,28,159,28159,108056
+1095,1868,Holmes County,County,MS,MS,,28,051,28051,49702
+724,1870,Smith County,County,TN,TN,Nashville-Davidson--Murfreesboro--Franklin,47,159,47159,166435
+1484,1871,Waseca County,County,MN,MN,,27,161,27161,192108
+2741,1872,Jefferson County,County,KS,KS,Topeka,20,087,20087,189310
+778,1873,Union County,County,TN,TN,Knoxville,47,173,47173,173480
+1750,1874,Hancock County,County,IL,IL,Fort Madison-Keokuk,17,067,17067,91460
+868,1875,Benton County,County,MO,MO,,29,015,29015,130176
+2932,1876,Green Lake County,County,WI,WI,,55,047,55047,165398
+1783,1877,Houston County,County,MN,MN,La Crosse-Onalaska,27,055,27055,230391
+2128,1878,Arkansas County,County,AR,AR,,5,001,5001,88872
+679,1879,Perry County,County,MO,MO,,29,157,29157,168239
+2988,1880,New Madrid County,County,MO,MO,,29,143,29143,85616
+2829,1881,Poweshiek County,County,IA,IA,,19,157,19157,162509
+2331,1882,Harrison County,County,KY,KY,,21,097,21097,135840
+663,1883,Otero County,County,CO,CO,,8,089,8089,111536
+1501,1884,Wright County,County,MO,MO,,29,229,29229,135136
+1770,1885,Haywood County,County,TN,TN,Brownsville,47,075,47075,100553
+1319,1886,Pierce County,County,GA,GA,Waycross,13,229,13229,154466
+363,1887,Adams County,County,WA,WA,Othello,53,001,53001,230154
+986,1888,Dekalb County,County,TN,TN,,47,041,47041,170502
+350,1889,Adair County,County,KY,KY,,21,001,21001,110296
+2254,1890,Duchesne County,County,UT,UT,,49,013,49013,270408
+2256,1891,Eastland County,County,TX,TX,,48,133,48133,99188
+495,1892,Edgar County,County,IL,IL,,17,045,17045,67060
+3140,1893,Southampton County,County,VA,VA,,51,175,51175,170725
+819,1894,Young County,County,TX,TX,,48,503,48503,110506
+188,1895,Inyo County,County,CA,CA,,6,027,6027,412754
+2728,1896,Humphreys County,County,TN,TN,,47,085,47085,152369
+277,1897,Pike County,County,MO,MO,,29,163,29163,127142
+150,1898,Drew County,County,AR,AR,,5,043,5043,109914
+430,1899,Cedar County,County,IA,IA,,19,031,19031,176881
+1965,1900,Patrick County,County,VA,VA,,51,141,51141,133961
+2451,1901,New Kent County,County,VA,VA,Richmond,51,127,51127,315570
+2150,1902,Brantley County,County,GA,GA,Brunswick,13,025,13025,125459
+1064,1903,Greene County,County,VA,VA,Charlottesville,51,079,51079,298130
+381,1904,Banks County,County,GA,GA,,13,011,13011,214025
+2533,1905,Schuyler County,County,NY,NY,,36,097,36097,164466
+588,1906,Lamar County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,171,13171,160505
+1449,1907,Unicoi County,County,TN,TN,Johnson City,47,171,47171,140638
+2419,1908,McCreary County,County,KY,KY,,21,147,21147,62135
+2472,1909,Pemiscot County,County,MO,MO,,29,155,29155,80049
+1937,1910,Montour County,County,PA,PA,Bloomsburg-Berwick,42,093,42093,224441
+2403,1911,Mariposa County,County,CA,CA,,6,043,6043,344818
+1826,1912,Johnson County,County,TN,TN,,47,091,47091,127482
+1516,1913,Appling County,County,GA,GA,,13,001,13001,106568
+887,1914,Bosque County,County,TX,TX,,48,035,48035,140918
+177,1915,Hart County,County,KY,KY,,21,099,21099,108918
+3270,1916,Sainte Genevieve County,County,MO,MO,,29,186,29186,142707
+1623,1917,Clayton County,County,IA,IA,,19,043,19043,133677
+2271,1918,Franklin County,County,AR,AR,,5,047,5047,107517
+2508,1920,Richland County,County,WI,WI,,55,103,55103,157846
+1792,1921,Jackson County,County,AR,AR,,5,067,5067,62714
+2490,1922,Randolph County,County,AR,AR,,5,121,5121,95289
+2262,1923,Fentress County,County,TN,TN,,47,049,47049,119135
+2962,1924,Los Alamos County,County,NM,NM,Los Alamos,35,028,35028,359504
+464,1925,Cross County,County,AR,AR,,5,037,5037,96612
+273,1926,Pike County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,231,13231,230518
+1231,1927,Morgan County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,211,13211,293621
+2030,1928,Socorro County,County,NM,NM,,35,053,35053,146247
+509,1928,Falls County,County,TX,TX,Waco,48,145,48145,90849
+1560,1931,Bristol City,County,VA,VA,Kingsport-Bristol-Bristol,51,520,51520,114839
+1504,1932,Yancey County,County,NC,NC,,37,199,37199,212593
+1606,1933,Chaffee County,County,CO,CO,,8,015,8015,460907
+765,1934,Union County,County,IL,IL,,17,181,17181,97391
+376,1935,Avery County,County,NC,NC,,37,011,37011,183726
+734,1936,Stone County,County,MS,MS,,28,131,28131,127165
+102,1937,Bond County,County,IL,IL,St. Louis,17,005,17005,115275
+315,1938,Tama County,County,IA,IA,,19,171,19171,119104
+2246,1939,Delaware County,County,IA,IA,,19,055,19055,168460
+1472,1940,Warren County,County,IL,IL,,17,187,17187,89227
+2140,1941,Ben Hill County,County,GA,GA,Fitzgerald,13,017,13017,86565
+955,1942,Cooper County,County,MO,MO,,29,053,29053,159082
+3047,1943,Washington County,County,AL,AL,,1,129,1129,108097
+2007,1944,Russell County,County,KY,KY,,21,207,21207,106204
+1239,1945,Morgan County,County,WV,WV,,54,065,54065,171988
+3116,1946,Piscataquis County,County,ME,ME,,23,021,23021,141255
+1077,1947,Hardin County,County,IA,IA,,19,083,19083,102981
+1028,1948,Gaines County,County,TX,TX,,48,165,48165,176123
+873,1949,Benzie County,County,MI,MI,Traverse City,26,019,26019,239258
+627,1950,Mason County,County,KY,KY,Maysville,21,161,21161,105735
+1331,1951,Potter County,County,PA,PA,,42,105,42105,96360
+3201,1952,Westmoreland County,County,VA,VA,,51,193,51193,235194
+2641,1953,Brunswick County,County,VA,VA,,51,025,51025,126095
+2379,1954,Lawrence County,County,AR,AR,,5,075,5075,73783
+3291,1955,Colonial Heights City,County,VA,VA,Richmond,51,570,51570,189924
+2655,1957,Chickasaw County,County,MS,MS,,28,017,28017,82328
+310,1957,Rush County,County,IN,IN,,18,139,18139,136234
+668,1959,Parke County,County,IN,IN,,18,121,18121,134371
+2028,1960,Simpson County,County,KY,KY,,21,213,21213,149408
+552,1961,Henry County,County,AL,AL,Dothan,1,067,1067,119089
+2858,1962,Van Buren County,County,AR,AR,,5,141,5141,103731
+832,1963,Andrew County,County,MO,MO,St. Joseph,29,003,29003,188178
+523,1964,Giles County,County,VA,VA,Blacksburg-Christiansburg-Radford,51,071,51071,136402
+716,1965,Sharp County,County,AR,AR,,5,135,5135,84627
+1696,1966,Fayette County,County,AL,AL,,1,057,1057,88500
+2269,1967,Fountain County,County,IN,IN,,18,045,18045,116572
+162,1968,Frio County,County,TX,TX,,48,163,48163,95269
+138,1969,Cook County,County,GA,GA,,13,075,13075,107411
+2662,1970,Claiborne Parish,County,LA,LA,,22,027,22027,110479
+2158,1971,Burleson County,County,TX,TX,College Station-Bryan,48,051,48051,173358
+2362,1972,Kalkaska County,County,MI,MI,Traverse City,26,079,26079,145112
+1324,1973,Pitkin County,County,CO,CO,Glenwood Springs,8,097,8097,1514563
+2895,1974,Buckingham County,County,VA,VA,Charlottesville,51,029,51029,153486
+1613,1975,Chester County,County,TN,TN,Jackson,47,023,47023,142200
+2228,1976,Crawford County,County,IA,IA,,19,047,19047,113994
+2032,1978,Spencer County,County,KY,KY,Louisville/Jefferson County,21,215,21215,246633
+1375,1979,Sevier County,County,AR,AR,,5,133,5133,108352
+3011,1980,Rockcastle County,County,KY,KY,Richmond-Berea,21,203,21203,82376
+384,1981,Bates County,County,MO,MO,Kansas City,29,013,29013,142526
+1108,1982,Hughes County,County,SD,SD,Pierre,46,065,46065,231715
+799,1983,Wayne County,County,TN,TN,,47,181,47181,113204
+2704,1985,Gilchrist County,County,FL,FL,Gainesville,12,041,12041,201853
+2736,1986,Jefferson County,County,GA,GA,,13,163,13163,79562
+2130,1987,Atchison County,County,KS,KS,Atchison,20,005,20005,105604
+1371,1988,Scurry County,County,TX,TX,Snyder,48,415,48415,110097
+1719,1989,Garrard County,County,KY,KY,,21,079,21079,172805
+1425,1990,Taylor County,County,WV,WV,Clarksburg,54,091,54091,120739
+2737,1991,Jefferson County,County,IA,IA,Fairfield,19,101,19101,131429
+2773,1992,Lafayette County,County,WI,WI,,55,065,55065,137539
+2380,1993,Lawrence County,County,IL,IL,,17,101,17101,60924
+293,1994,Polk County,County,TN,TN,Cleveland,47,139,47139,151040
+233,1995,Leon County,County,TX,TX,,48,289,48289,206970
+977,1996,Dallas County,County,MO,MO,Springfield,29,059,29059,143650
+788,1997,Wayne County,County,IL,IL,,17,191,17191,90851
+1379,1998,Seward County,County,NE,NE,Lincoln,31,159,31159,223673
+684,2000,Piatt County,County,IL,IL,Champaign-Urbana,17,147,17147,156345
+73,2001,Gem County,County,ID,ID,Boise City,16,045,16045,357146
+2681,2002,Dickinson County,County,IA,IA,Spirit Lake,19,059,19059,262954
+120,2002,Clay County,County,IA,IA,Spencer,19,041,19041,137647
+1160,2004,Marion County,County,AR,AR,,5,089,5089,141806
+2236,2005,Crawford County,County,WI,WI,,55,023,55023,136884
+143,2006,Dade County,County,GA,GA,Chattanooga,13,083,13083,174968
+2835,2007,Robertson County,County,TX,TX,College Station-Bryan,48,395,48395,161891
+88,2008,Lee County,County,TX,TX,,48,287,48287,250783
+1532,2009,Barbour County,County,WV,WV,,54,001,54001,77201
+1487,2010,Wetzel County,County,WV,WV,,54,103,54103,77284
+1312,2011,Pawnee County,County,OK,OK,Tulsa,40,117,40117,105546
+990,2012,Dewitt County,County,IL,IL,Bloomington,17,039,17039,104916
+1368,2013,Sawyer County,County,WI,WI,,55,113,55113,240188
+487,2014,Dukes County,County,MA,MA,Vineyard Haven,25,007,25007,984596
+2353,2015,Humboldt County,County,NV,NV,Winnemucca,32,013,32013,266483
+1259,2016,Neosho County,County,KS,KS,,20,133,20133,74043
+2050,2017,Telfair County,County,GA,GA,,13,271,13271,69257
+723,2018,Smith County,County,MS,MS,,28,129,28129,101221
+871,2019,Benton County,County,TN,TN,,47,005,47005,115466
+1197,2020,Mercer County,County,IL,IL,Davenport-Moline-Rock Island,17,131,17131,105479
+274,2021,Pike County,County,IL,IL,,17,149,17149,78516
+1726,2022,Gogebic County,County,MI,MI,,26,053,26053,76855
+480,2023,Dixie County,County,FL,FL,,12,029,12029,126692
+3182,2024,Radford City,County,VA,VA,Blacksburg-Christiansburg-Radford,51,750,51750,185184
+2579,2025,Torrance County,County,NM,NM,Albuquerque,35,057,35057,125619
+602,2026,Lewis County,County,WV,WV,,54,041,54041,92521
+189,2027,Iowa County,County,IA,IA,,19,095,19095,169798
+585,2028,Knott County,County,KY,KY,,21,119,21119,62924
+440,2029,Clark County,County,IL,IL,,17,023,17023,96528
+2505,2030,Richland County,County,ND,ND,Wahpeton,38,077,38077,142011
+513,2031,Floyd County,County,IA,IA,,19,067,19067,117526
+660,2032,Osage County,County,KS,KS,Topeka,20,139,20139,132826
+692,2033,Rabun County,County,GA,GA,,13,241,13241,261244
+1801,2034,Jackson Parish,County,LA,LA,,22,049,22049,107049
+566,2035,Idaho County,County,ID,ID,,16,049,16049,272232
+2613,2036,Alleghany County,County,VA,VA,,51,005,51005,118616
+893,2037,Brooks County,County,GA,GA,Valdosta,13,027,13027,131400
+1831,2038,Kanabec County,County,MN,MN,,27,065,27065,187051
+2502,2039,Richland County,County,IL,IL,,17,159,17159,98472
+3046,2040,Vermillion County,County,IN,IN,Terre Haute,18,165,18165,86507
+268,2041,Park County,County,CO,CO,Denver-Aurora-Lakewood,8,093,8093,415195
+822,2042,Aitkin County,County,MN,MN,,27,001,27001,218743
+1520,2043,Ashland County,County,WI,WI,,55,003,55003,124348
+380,2044,Baker County,County,OR,OR,,41,001,41001,200297
+179,2045,Hill County,County,MT,MT,,30,041,30041,216798
+117,2046,Clay County,County,AR,AR,,5,021,5021,63108
+1995,2047,Redwood County,County,MN,MN,,27,127,27127,101980
+1053,2048,Greene County,County,GA,GA,,13,133,13133,419418
+1528,2049,Bamberg County,County,SC,SC,,45,009,45009,73706
+427,2050,Casey County,County,KY,KY,,21,045,21045,106098
+1434,2051,Tipton County,County,IN,IN,,18,159,18159,156714
+3170,2052,King William County,County,VA,VA,Richmond,51,101,51101,240475
+266,2053,Page County,County,IA,IA,,19,145,19145,88666
+2594,2054,Washburn County,County,WI,WI,,55,129,55129,191052
+2680,2055,Dickenson County,County,VA,VA,Big Stone Gap,51,051,51051,60601
+836,2056,Arenac County,County,MI,MI,,26,011,26011,108619
+917,2057,Carbon County,County,WY,WY,,56,007,56007,192991
+2334,2058,Harrison County,County,OH,OH,,39,067,39067,106336
+169,2059,Gulf County,County,FL,FL,Panama City,12,045,12045,252126
+2458,2061,Nottoway County,County,VA,VA,,51,135,51135,124632
+2413,2062,Marshall County,County,OK,OK,,40,095,40095,101609
+2522,2063,San Juan County,County,WA,WA,,53,055,53055,716608
+170,2064,Hale County,County,AL,AL,Tuscaloosa,1,065,1065,112920
+263,2065,Otoe County,County,NE,NE,,31,131,31131,164698
+2498,2066,Renville County,County,MN,MN,,27,129,27129,133507
+1895,2067,Madison County,County,AR,AR,Fayetteville-Springdale-Rogers,5,087,5087,128450
+1898,2068,Madison County,County,IA,IA,Des Moines-West Des Moines,19,121,19121,202999
+2316,2069,Hamilton County,County,IA,IA,,19,079,19079,114643
+148,2070,Dent County,County,MO,MO,,29,065,29065,128517
+269,2071,Park County,County,MT,MT,,30,067,30067,452099
+1359,2072,Roseau County,County,MN,MN,,27,135,27135,156840
+3252,2073,West Feliciana Parish,County,LA,LA,Baton Rouge,22,125,22125,278993
+2440,2074,Moniteau County,County,MO,MO,Jefferson City,29,135,29135,154975
+2438,2075,Mitchell County,County,NC,NC,,37,121,37121,165684
+621,2076,Macon County,County,MO,MO,,29,121,29121,129699
+1844,2077,Kossuth County,County,IA,IA,,19,109,19109,107615
+762,2078,Union County,County,FL,FL,,12,125,12125,167176
+1734,2079,Grayson County,County,VA,VA,,51,077,51077,129227
+2950,2080,Las Animas County,County,CO,CO,,8,071,8071,229403
+672,2080,Pecos County,County,TX,TX,,48,371,48371,147893
+1728,2082,Gooding County,County,ID,ID,,16,047,16047,262370
+1568,2083,Burnett County,County,WI,WI,,55,013,55013,189981
+1511,2084,Alamosa County,County,CO,CO,,8,003,8003,207059
+2590,2085,Walthall County,County,MS,MS,,28,147,28147,122296
+1182,2086,Massac County,County,IL,IL,Paducah,17,127,17127,75857
+557,2087,Henry County,County,KY,KY,Louisville/Jefferson County,21,103,21103,155322
+2786,2088,Marquette County,County,WI,WI,,55,077,55077,157772
+1592,2089,Carroll County,County,IL,IL,,17,015,17015,110482
+2313,2091,Gunnison County,County,CO,CO,,8,051,8051,480423
+331,2092,Winn Parish,County,LA,LA,,22,127,22127,112233
+517,2093,Floyd County,County,VA,VA,Blacksburg-Christiansburg-Radford,51,063,51063,176910
+403,2094,Brown County,County,IN,IN,Indianapolis-Carmel-Anderson,18,013,18013,237451
+1390,2095,Sibley County,County,MN,MN,Minneapolis-St. Paul-Bloomington,27,143,27143,165835
+2703,2096,Gasconade County,County,MO,MO,,29,073,29073,153102
+657,2097,Nolan County,County,TX,TX,Sweetwater,48,353,48353,83259
+1618,2098,Choctaw County,County,OK,OK,,40,023,40023,63494
+2960,2099,Livingston County,County,MO,MO,,29,117,29117,127196
+1577,2100,Calhoun County,County,SC,SC,Columbia,45,017,45017,189183
+1550,2101,Bourbon County,County,KS,KS,,20,011,20011,79807
+2943,2102,Jeff Davis County,County,GA,GA,,13,161,13161,100836
+643,2103,Mills County,County,IA,IA,Omaha-Council Bluffs,19,129,19129,194538
+1236,2104,Morgan County,County,OH,OH,,39,115,39115,115947
+2947,2105,Kingfisher County,County,OK,OK,,40,073,40073,150848
+457,2106,Craig County,County,OK,OK,,40,035,40035,120147
+1256,2107,Nelson County,County,VA,VA,Charlottesville,51,125,51125,260560
+2136,2108,Bayfield County,County,WI,WI,,55,007,55007,205524
+767,2109,Union County,County,KY,KY,,21,225,21225,85369
+2883,2110,Appomattox County,County,VA,VA,Lynchburg,51,011,51011,172356
+2204,2111,Cleburne County,County,AL,AL,,1,029,1029,130061
+2329,2113,Harrison County,County,IA,IA,Omaha-Council Bluffs,19,085,19085,135264
+697,2114,Roane County,County,WV,WV,,54,087,54087,94486
+486,2115,Dooly County,County,GA,GA,,13,093,13093,91813
+2989,2116,Oglethorpe County,County,GA,GA,Athens-Clarke County,13,221,13221,189260
+2372,2117,LaSalle Parish,County,LA,LA,,22,059,22059,89896
+2822,2118,Pendleton County,County,KY,KY,Cincinnati,21,191,21191,134198
+899,2119,Butler County,County,IA,IA,,19,023,19023,137503
+2806,2120,Missaukee County,County,MI,MI,Cadillac,26,113,26113,140546
+2447,2121,Moultrie County,County,IL,IL,,17,139,17139,116651
+1026,2122,Fulton County,County,PA,PA,,42,057,42057,145508
+528,2123,Grand County,County,CO,CO,,8,049,8049,578317
+1129,2124,Karnes County,County,TX,TX,,48,255,48255,153017
+2315,2125,Hamilton County,County,FL,FL,,12,047,12047,112824
+935,2126,Chowan County,County,NC,NC,,37,041,37041,161844
+1515,2127,Andrews County,County,TX,TX,Andrews,48,003,48003,195126
+2735,2128,Jefferson County,County,FL,FL,Tallahassee,12,065,12065,189400
+313,2129,Rusk County,County,WI,WI,,55,107,55107,131199
+2521,2130,San Juan County,County,UT,UT,,49,037,49037,251413
+619,2131,Macon County,County,GA,GA,,13,193,13193,61782
+3054,2132,Washington County,County,IL,IL,,17,189,17189,123906
+1006,2133,Estill County,County,KY,KY,,21,065,21065,75854
+626,2134,Mason County,County,IL,IL,,17,125,17125,65862
+807,2135,White County,County,IL,IL,,17,193,17193,79080
+655,2136,Noble County,County,OH,OH,,39,121,39121,147533
+1224,2137,Monroe County,County,OH,OH,,39,111,39111,124445
+1571,2138,Calhoun County,County,FL,FL,,12,013,12013,123415
+2018,2139,Screven County,County,GA,GA,,13,251,13251,107694
+2238,2140,Crockett County,County,TN,TN,Jackson,47,033,47033,104950
+2057,2141,Trinity County,County,TX,TX,Huntsville,48,455,48455,131842
+587,2142,Lamar County,County,AL,AL,,1,075,1075,83735
+2697,2143,Faribault County,County,MN,MN,,27,043,27043,115113
+1555,2144,Braxton County,County,WV,WV,,54,007,54007,85700
+239,2145,Long County,County,GA,GA,Hinesville,13,183,13183,184708
+1267,2146,Newton County,County,TX,TX,Beaumont-Port Arthur,48,351,48351,109930
+1058,2147,Greene County,County,MS,MS,,28,041,28041,131374
+777,2148,Union County,County,SD,SD,Sioux City,46,127,46127,276155
+1273,2149,O Brien County,County,IA,IA,,19,141,19141,115644
+3105,2150,Mississippi County,County,MO,MO,,29,133,29133,81215
+2629,2151,Bienville Parish,County,LA,LA,,22,013,22013,72958
+1708,2152,Fleming County,County,KY,KY,,21,069,21069,102137
+754,2153,Trigg County,County,KY,KY,Clarksville,21,221,21221,155044
+2424,2154,McIntosh County,County,GA,GA,Brunswick,13,191,13191,170519
+2611,2155,Allamakee County,County,IA,IA,,19,005,19005,155972
+3282,2156,Manassas Park City,County,VA,VA,Washington-Arlington-Alexandria,51,685,51685,338114
+1264,2157,Newton County,County,IN,IN,Chicago-Naperville-Elgin,18,111,18111,151707
+253,2158,Mono County,County,CA,CA,,6,051,6051,542435
+1366,2159,Saline County,County,NE,NE,,31,151,31151,137398
+592,2160,Larue County,County,KY,KY,Elizabethtown-Fort Knox,21,123,21123,135963
+375,2161,Atoka County,County,OK,OK,,40,005,40005,132268
+691,2162,Price County,County,WI,WI,,55,099,55099,125568
+1863,2163,Lincoln County,County,AR,AR,Pine Bluff,5,079,5079,83009
+3029,2164,Sequatchie County,County,TN,TN,Chattanooga,47,153,47153,159942
+160,2166,Ford County,County,IL,IL,Champaign-Urbana,17,053,17053,95814
+1812,2167,Jackson County,County,TX,TX,,48,239,48239,157529
+2232,2168,Crawford County,County,MI,MI,,26,039,26039,119235
+3279,2169,Williamsburg City,County,VA,VA,Virginia Beach-Norfolk-Newport News,51,830,51830,298820
+943,2170,Clarke County,County,VA,VA,Washington-Arlington-Alexandria,51,043,51043,412940
+549,2171,Hardy County,County,WV,WV,,54,031,54031,128129
+1506,2172,Zapata County,County,TX,TX,Zapata,48,505,48505,104489
+1107,2173,Hughes County,County,OK,OK,,40,063,40063,75068
+431,2174,Cedar County,County,MO,MO,,29,039,29039,132110
+739,2175,Swain County,County,NC,NC,,37,173,37173,199726
+229,2176,Lamb County,County,TX,TX,,48,279,48279,61892
+2222,2177,Comanche County,County,TX,TX,,48,093,48093,113130
+107,2178,Cass County,County,IA,IA,,19,029,19029,103959
+2002,2179,Rolette County,County,ND,ND,,38,079,38079,90730
+116,2180,Clay County,County,AL,AL,,1,027,1027,115269
+2996,2181,Pennington County,County,MN,MN,,27,113,27113,176710
+2047,2182,Summers County,County,WV,WV,,54,089,54089,74898
+1234,2183,Morgan County,County,KY,KY,,21,175,21175,91319
+2237,2184,Crenshaw County,County,AL,AL,,1,041,1041,86552
+1114,2185,Jasper County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,159,13159,180097
+1055,2186,Greene County,County,IL,IL,,17,061,17061,75000
+661,2187,Osage County,County,MO,MO,Jefferson City,29,151,29151,192840
+597,2189,Lewis County,County,KY,KY,,21,135,21135,76981
+130,2190,Clay County,County,SD,SD,Vermillion,46,027,46027,201960
+1463,2192,Wadena County,County,MN,MN,,27,159,27159,130754
+2223,2193,Converse County,County,WY,WY,,56,009,56009,253424
+982,2193,Dawson County,County,TX,TX,Lamesa,48,115,48115,84880
+3276,2195,Martinsville City,County,VA,VA,Martinsville,51,690,51690,65246
+121,2196,Clay County,County,IL,IL,,17,025,17025,70436
+912,2197,Cannon County,County,TN,TN,Nashville-Davidson--Murfreesboro--Franklin,47,015,47015,182278
+1209,2198,Moffat County,County,CO,CO,Craig,8,081,8081,230305
+1098,2199,Howard County,County,AR,AR,,5,061,5061,87096
+2056,2200,Trinity County,County,CA,CA,,6,105,6105,321782
+1354,2201,Reeves County,County,TX,TX,Pecos,48,389,48389,155713
+1408,2202,Sumter County,County,AL,AL,,1,119,1119,61149
+950,2203,Colfax County,County,NM,NM,,35,007,35007,163809
+1070,2204,Grundy County,County,TN,TN,,47,061,47061,115258
+571,2205,Izard County,County,AR,AR,,5,065,5065,97200
+1675,2206,Douglas County,County,MO,MO,,29,067,29067,122924
+342,2207,York County,County,NE,NE,,31,185,31185,145582
+1912,2208,Madison County,County,TX,TX,,48,313,48313,193417
+108,2209,Cass County,County,IL,IL,,17,017,17017,83554
+2078,2210,Webster County,County,KY,KY,,21,233,21233,68691
+3211,2211,Kodiak Island Borough,County,AK,AK,,2,150,2150,348213
+1564,2212,Buffalo County,County,WI,WI,,55,011,55011,157809
+2165,2213,Callahan County,County,TX,TX,Abilene,48,059,48059,138405
+2873,2214,Wilbarger County,County,TX,TX,Vernon,48,487,48487,71684
+792,2215,Wayne County,County,MO,MO,,29,223,29223,99797
+1228,2216,Monroe County,County,WV,WV,,54,063,54063,103843
+1800,2217,Jackson County,County,KY,KY,,21,109,21109,92957
+1250,2218,Murray County,County,OK,OK,,40,099,40099,97233
+3274,2219,Ketchikan Gateway Borough,County,AK,AK,Ketchikan,2,130,2130,329137
+2998,2221,Perquimans County,County,NC,NC,Elizabeth City,37,143,37143,188917
+1460,2222,Vinton County,County,OH,OH,,39,163,39163,104307
+1984,2223,Pulaski County,County,IN,IN,,18,131,18131,118835
+1724,2224,Glacier County,County,MT,MT,,30,035,30035,132896
+3180,2225,Presque Isle County,County,MI,MI,,26,141,26141,125150
+368,2226,Allen County,County,KS,KS,,20,001,20001,79502
+2397,2227,Magoffin County,County,KY,KY,,21,153,21153,51099
+2044,2228,Stewart County,County,TN,TN,,47,161,47161,152056
+3098,2229,Koochiching County,County,MN,MN,,27,071,27071,113944
+1913,2230,Madison County,County,VA,VA,,51,113,51113,259106
+1045,2231,Goshen County,County,WY,WY,,56,015,56015,192228
+1715,2232,Fremont County,County,ID,ID,Rexburg,16,043,16043,352236
+1499,2233,Wright County,County,IA,IA,,19,197,19197,88697
+3064,2234,Washington County,County,NC,NC,,37,187,37187,71651
+1640,2234,Conecuh County,County,AL,AL,,1,035,1035,81484
+3171,2236,Little River County,County,AR,AR,Texarkana,5,081,5081,100458
+1963,2237,Pamlico County,County,NC,NC,New Bern,37,137,37137,200920
+372,2238,Amite County,County,MS,MS,McComb,28,005,28005,139218
+2146,2239,Bleckley County,County,GA,GA,,13,023,13023,119759
+475,2240,Desha County,County,AR,AR,,5,041,5041,54766
+3174,2241,Pend Oreille County,County,WA,WA,Spokane-Spokane Valley,53,051,53051,306820
+2160,2242,Caldwell County,County,KY,KY,,21,033,21033,81469
+1242,2243,Morris County,County,TX,TX,,48,343,48343,94808
+2384,2244,Lawrence County,County,MS,MS,,28,077,28077,101940
+2782,2246,Lunenburg County,County,VA,VA,,51,111,51111,100968
+985,2247,DeKalb County,County,MO,MO,St. Joseph,29,063,29063,166396
+2617,2248,Appanoose County,County,IA,IA,,19,007,19007,85957
+1042,2249,Glades County,County,FL,FL,,12,043,12043,150806
+1546,2250,Bledsoe County,County,TN,TN,,47,007,47007,131602
+2831,2252,Red River County,County,TX,TX,,48,387,48387,74866
+275,2253,Pike County,County,IN,IN,Jasper,18,125,18125,119078
+2275,2254,Franklin County,County,ID,ID,Logan,16,041,16041,336006
+1765,2255,Haskell County,County,OK,OK,,40,061,40061,109912
+2631,2256,Blackford County,County,IN,IN,,18,009,18009,85941
+2547,2257,Shoshone County,County,ID,ID,,16,079,16079,180202
+237,2258,Linn County,County,MO,MO,,29,115,29115,75338
+1194,2259,Menard County,County,IL,IL,Springfield,17,129,17129,164409
+830,2260,Amelia County,County,VA,VA,Richmond,51,007,51007,224759
+901,2260,Butler County,County,KY,KY,Bowling Green,21,031,21031,119318
+2882,2262,Yalobusha County,County,MS,MS,,28,161,28161,93468
+1166,2263,Marion County,County,KS,KS,,20,115,20115,95483
+742,2264,Terry County,County,TX,TX,,48,445,48445,73645
+2407,2265,Marshall County,County,IL,IL,Peoria,17,123,17123,100931
+2227,2266,Crawford County,County,GA,GA,Macon-Bibb County,13,079,13079,140763
+1334,2267,Powell County,County,KY,KY,,21,197,21197,90063
+2651,2268,Charlotte County,County,VA,VA,,51,037,51037,140591
+1820,2269,Johnson County,County,IL,IL,,17,087,17087,101216
+1980,2270,Prowers County,County,CO,CO,,8,099,8099,103368
+764,2271,Union County,County,IA,IA,,19,175,19175,98416
+1932,2272,Millard County,County,UT,UT,,49,027,49027,225722
+3256,2273,Jefferson Davis County,County,MS,MS,,28,065,28065,78789
+319,2274,Todd County,County,KY,KY,,21,219,21219,112132
+1067,2275,Grundy County,County,IA,IA,Waterloo-Cedar Falls,19,075,19075,159807
+2200,2276,Chippewa County,County,MN,MN,,27,023,27023,111409
+2654,2277,Chickasaw County,County,IA,IA,,19,037,19037,137360
+854,2278,Barton County,County,MO,MO,,29,011,29011,110159
+106,2279,Camp County,County,TX,TX,,48,063,48063,129545
+732,2280,Stone County,County,AR,AR,,5,137,5137,124528
+3113,2281,Northampton County,County,VA,VA,,51,131,51131,200929
+2632,2282,Bollinger County,County,MO,MO,Cape Girardeau,29,017,29017,138506
+3272,2283,Falls Church City,County,VA,VA,Washington-Arlington-Alexandria,51,610,51610,932919
+3245,2284,Northumberland County,County,VA,VA,,51,133,51133,332721
+680,2285,Perry County,County,MS,MS,Hattiesburg,28,111,28111,108188
+1019,2286,Fulton County,County,AR,AR,,5,049,5049,126197
+3094,2287,Greensville County,County,VA,VA,,51,081,51081,93263
+2976,2288,Montgomery County,County,MO,MO,,29,139,29139,119494
+1904,2289,Madison County,County,MO,MO,,29,123,29123,107797
+520,2290,Gates County,County,NC,NC,Virginia Beach-Norfolk-Newport News,37,073,37073,147887
+2462,2291,Okfuskee County,County,OK,OK,,40,107,40107,80977
+2184,2292,Charlton County,County,GA,GA,,13,049,13049,126987
+1382,2293,Shelby County,County,IA,IA,,19,165,19165,137690
+2257,2294,Edmonson County,County,KY,KY,Bowling Green,21,061,21061,118274
+600,2294,Lewis County,County,TN,TN,,47,101,47101,129559
+3215,2296,Poquoson City,County,VA,VA,Virginia Beach-Norfolk-Newport News,51,735,51735,370297
+1414,2298,Sussex County,County,VA,VA,Richmond,51,183,51183,128822
+2618,2299,Archuleta County,County,CO,CO,,8,007,8007,384852
+2189,2300,Cherokee County,County,IA,IA,,19,035,19035,116920
+1982,2301,Pulaski County,County,GA,GA,Warner Robins,13,235,13235,109564
+1392,2302,Sierra County,County,NM,NM,,35,051,35051,106421
+3008,2303,Rio Grande County,County,CO,CO,,8,105,8105,216476
+1461,2304,Wabash County,County,IL,IL,,17,185,17185,100899
+881,2305,Blaine County,County,OK,OK,,40,011,40011,65028
+544,2306,Grant County,County,WV,WV,,54,023,54023,121125
+551,2307,Heard County,County,GA,GA,Atlanta-Sandy Springs-Roswell,13,149,13149,144019
+191,2308,Iron County,County,MI,MI,,26,071,26071,101239
+934,2309,Chicot County,County,AR,AR,,5,017,5017,53763
+1666,2311,Decatur County,County,TN,TN,,47,039,47039,109618
+638,2312,Meigs County,County,TN,TN,,47,121,47121,202891
+3057,2313,Washington County,County,KY,KY,,21,229,21229,139188
+967,2314,Custer County,County,MT,MT,,30,017,30017,202201
+2906,2315,Cottonwood County,County,MN,MN,,27,033,27033,123058
+1507,2316,Zavala County,County,TX,TX,,48,507,48507,71226
+1489,2317,Wilcox County,County,AL,AL,,1,131,1131,93064
+2144,2318,Big Horn County,County,WY,WY,,56,003,56003,195829
+1811,2319,Jackson County,County,TN,TN,Cookeville,47,087,47087,131217
+2072,2320,Washita County,County,OK,OK,,40,149,40149,66798
+3199,2321,West Carroll Parish,County,LA,LA,,22,123,22123,85956
+95,2322,Bath County,County,KY,KY,Mount Sterling,21,011,21011,96378
+1012,2323,Fergus County,County,MT,MT,,30,027,30027,223988
+245,2324,Lyon County,County,IA,IA,,19,119,19119,154963
+3002,2325,Pushmataha County,County,OK,OK,,40,127,40127,122639
+656,2326,Noble County,County,OK,OK,,40,103,40103,94277
+2272,2327,Franklin County,County,FL,FL,,12,037,12037,327386
+222,2329,Lake County,County,MI,MI,,26,085,26085,103854
+456,2329,Coosa County,County,AL,AL,Talladega-Sylacauga,1,037,1037,125543
+2392,2331,Live Oak County,County,TX,TX,,48,297,48297,148272
+1304,2332,Owyhee County,County,ID,ID,Boise City,16,073,16073,302482
+1553,2333,Bradley County,County,AR,AR,,5,011,5011,64820
+1350,2334,Ramsey County,County,ND,ND,,38,071,38071,173673
+2014,2335,Sanders County,County,MT,MT,,30,089,30089,284383
+2746,2336,Jefferson County,County,MT,MT,Helena,30,043,30043,377779
+2778,2337,Lancaster County,County,VA,VA,,51,103,51103,270268
+1152,2338,Louisa County,County,IA,IA,,19,115,19115,114335
+1749,2339,Hancock County,County,IA,IA,,19,081,19081,114298
+1148,2340,Leslie County,County,KY,KY,,21,131,21131,40641
+2636,2341,Box Butte County,County,NE,NE,,31,013,31013,114151
+1888,2342,Lowndes County,County,AL,AL,Montgomery,1,085,1085,82007
+272,2343,Pike County,County,AR,AR,,5,109,5109,105010
+3203,2344,Chattahoochee County,County,GA,GA,Columbus,13,053,13053,82590
+545,2345,Green County,County,KY,KY,,21,087,21087,86752
+705,2346,Scott County,County,AR,AR,,5,127,5127,90347
+2595,2347,Watonwan County,County,MN,MN,,27,165,27165,115061
+3185,2348,Saint Helena Parish,County,LA,LA,Baton Rouge,22,091,22091,107959
+227,2349,Lake County,County,SD,SD,,46,079,46079,201689
+1244,2350,Morrow County,County,OR,OR,Hermiston-Pendleton,41,049,41049,222672
+2612,2351,Alleghany County,County,NC,NC,,37,005,37005,191470
+1850,2352,Latimer County,County,OK,OK,,40,077,40077,75928
+506,2353,Essex County,County,VA,VA,,51,057,51057,211304
+784,2354,Walsh County,County,ND,ND,,38,099,38099,92430
+2395,2355,Mackinac County,County,MI,MI,,26,097,26097,138761
+377,2356,Bacon County,County,GA,GA,,13,005,13005,102401
+2549,2357,Skamania County,County,WA,WA,Portland-Vancouver-Hillsboro,53,059,53059,457178
+849,2357,Barnes County,County,ND,ND,,38,003,38003,126773
+3003,2359,Red Willow County,County,NE,NE,,31,145,31145,130121
+2909,2360,Cumberland County,County,IL,IL,Charleston-Mattoon,17,035,17035,95618
+492,2361,Early County,County,GA,GA,,13,099,13099,94224
+508,2362,Evans County,County,GA,GA,,13,109,13109,107991
+1586,2363,Candler County,County,GA,GA,,13,043,13043,132201
+298,2364,Pope County,County,MN,MN,,27,121,27121,228853
+2147,2366,Boundary County,County,ID,ID,,16,021,16021,354443
+1219,2367,Monroe County,County,KY,KY,,21,171,21171,80304
+2803,2368,Middlesex County,County,VA,VA,,51,119,51119,289005
+2361,2369,Johnston County,County,OK,OK,,40,069,40069,96411
+1742,2370,Guthrie County,County,IA,IA,Des Moines-West Des Moines,19,077,19077,146330
+825,2371,Alcona County,County,MI,MI,,26,001,26001,125502
+968,2372,Custer County,County,NE,NE,,31,041,31041,103324
+693,2374,Rains County,County,TX,TX,,48,379,48379,175866
+1567,2374,Bullock County,County,AL,AL,,1,011,1011,78799
+1294,2376,Oregon County,County,MO,MO,,29,149,29149,127414
+223,2377,Lake County,County,MN,MN,,27,075,27075,196835
+2876,2377,Winnebago County,County,IA,IA,,19,189,19189,114813
+265,2379,Owen County,County,KY,KY,,21,187,21187,138260
+1361,2380,Sabine County,County,TX,TX,,48,403,48403,123116
+1594,2381,Carroll County,County,KY,KY,,21,041,21041,104715
+1443,2382,Tunica County,County,MS,MS,Memphis,28,143,28143,101716
+2436,2383,Mitchell County,County,IA,IA,,19,131,19131,135955
+132,2384,Clay County,County,TX,TX,Wichita Falls,48,077,48077,119865
+2970,2385,Montgomery County,County,IA,IA,,19,137,19137,87300
+2230,2386,Crawford County,County,IN,IN,,18,025,18025,113019
+2274,2387,Franklin County,County,IA,IA,,19,069,19069,99642
+326,2388,Ward County,County,TX,TX,,48,475,48475,137449
+192,2389,Iron County,County,MO,MO,,29,093,29093,99174
+3144,2390,Switzerland County,County,IN,IN,,18,155,18155,155252
+2291,2391,Franklin County,County,TX,TX,,48,159,48159,202451
+1491,2393,Wilkes County,County,GA,GA,,13,317,13317,107512
+128,2395,Clay County,County,NC,NC,,37,043,37043,220055
+1883,2396,Lincoln County,County,WA,WA,,53,043,53043,234399
+1174,2397,Marion County,County,TX,TX,,48,315,48315,141499
+1271,2398,Nowata County,County,OK,OK,,40,105,40105,86325
+949,2399,Colfax County,County,NE,NE,,31,037,31037,138177
+1134,2400,Keokuk County,County,IA,IA,,19,107,19107,92950
+2004,2401,Runnels County,County,TX,TX,,48,399,48399,76861
+882,2402,Blanco County,County,TX,TX,,48,031,48031,422378
+752,2403,Towns County,County,GA,GA,,13,281,13281,255914
+1997,2405,Ritchie County,County,WV,WV,,54,085,54085,72952
+675,2406,Perry County,County,AR,AR,Little Rock-North Little Rock-Conway,5,105,5105,101292
+3264,2407,Yellow Medicine County,County,MN,MN,,27,173,27173,119523
+79,2410,Lee County,County,AR,AR,,5,077,5077,49232
+2615,2411,Allendale County,County,SC,SC,,45,005,45005,37699
+92,2413,Sac County,County,IA,IA,,19,161,19161,104008
+1177,2414,Martin County,County,IN,IN,,18,101,18101,123022
+500,2415,Emmet County,County,IA,IA,,19,063,19063,89310
+1627,2416,Clinton County,County,KY,KY,,21,053,21053,86484
+1309,2417,Parmer County,County,TX,TX,,48,369,48369,114971
+1803,2418,Jackson County,County,MN,MN,,27,063,27063,142764
+1069,2419,Grundy County,County,MO,MO,,29,079,29079,82784
+2081,2420,Webster County,County,MS,MS,,28,155,28155,125597
+2563,2421,Sublette County,County,WY,WY,,56,035,56035,304751
+196,2422,Juab County,County,UT,UT,Provo-Orem,49,023,49023,352793
+2817,2424,Ochiltree County,County,TX,TX,,48,357,48357,122079
+598,2425,Lewis County,County,MO,MO,Quincy,29,111,29111,124498
+3053,2426,Washington County,County,ID,ID,,16,087,16087,263159
+2813,2428,Nantucket County,County,MA,MA,,25,019,25019,1908712
+743,2429,Teton County,County,ID,ID,Jackson,16,081,16081,520562
+694,2430,Ralls County,County,MO,MO,Hannibal,29,173,29173,154604
+575,2431,Jones County,County,NC,NC,New Bern,37,103,37103,97832
+1999,2432,Roberts County,County,SD,SD,,46,109,46109,161803
+1102,2433,Howard County,County,MO,MO,,29,089,29089,145481
+2161,2434,Caldwell Parish,County,LA,LA,,22,021,22021,86073
+420,2436,Butte County,County,SD,SD,,46,019,46019,188534
+2432,2437,Metcalfe County,County,KY,KY,Glasgow,21,169,21169,94487
+303,2438,Rice County,County,KS,KS,,20,159,20159,72870
+914,2439,Carbon County,County,MT,MT,Billings,30,009,30009,374809
+1141,2439,Lanier County,County,GA,GA,Valdosta,13,173,13173,135887
+2916,2441,Cumberland County,County,VA,VA,,51,049,51049,183271
+348,2442,Yuma County,County,CO,CO,,8,125,8125,207789
+3078,2443,White Pine County,County,NV,NV,,32,033,32033,160839
+2198,2444,Cheyenne County,County,NE,NE,,31,033,31033,114601
+993,2445,Dimmit County,County,TX,TX,,48,127,48127,109442
+404,2446,Brown County,County,KS,KS,,20,013,20013,101851
+1818,2447,Johnson County,County,GA,GA,Dublin,13,167,13167,83378
+910,2447,Camden County,County,NC,NC,Elizabeth City,37,029,37029,281374
+1454,2450,Valley County,County,ID,ID,,16,085,16085,477306
+2352,2451,Humboldt County,County,IA,IA,,19,091,19091,121225
+3124,2452,Saint Clair County,County,MO,MO,,29,185,29185,123906
+740,2453,Swift County,County,MN,MN,,27,151,27151,118155
+3106,2454,Montmorency County,County,MI,MI,,26,119,26119,113543
+2041,2456,Stevens County,County,MN,MN,,27,149,27149,148909
+666,2457,Ozark County,County,MO,MO,,29,153,29153,179020
+1116,2458,Jasper County,County,IL,IL,,17,079,17079,80690
+306,2459,Rock County,County,MN,MN,,27,133,27133,161922
+647,2460,Modoc County,County,CA,CA,,6,049,6049,151954
+1573,2461,Calhoun County,County,IA,IA,,19,025,19025,92453
+236,2462,Linn County,County,KS,KS,Kansas City,20,107,20107,143605
+690,2462,Pratt County,County,KS,KS,,20,151,20151,92035
+2559,2465,Stephens County,County,TX,TX,,48,429,48429,95962
+1774,2466,Hickory County,County,MO,MO,,29,085,29085,124020
+366,2469,Alger County,County,MI,MI,,26,003,26003,140860
+2826,2470,Pipestone County,County,MN,MN,,27,117,27117,104424
+795,2471,Wayne County,County,NE,NE,,31,179,31179,173929
+1099,2472,Howard County,County,IA,IA,,19,089,19089,117264
+2874,2473,Wilkinson County,County,GA,GA,,13,319,13319,83422
+570,2474,Irwin County,County,GA,GA,,13,155,13155,112376
+1187,2476,McLean County,County,KY,KY,Owensboro,21,149,21149,99797
+2957,2477,Livingston County,County,KY,KY,Paducah,21,139,21139,94906
+2968,2479,Montgomery County,County,AR,AR,,5,097,5097,117860
+1238,2480,Morgan County,County,UT,UT,Ogden-Clearfield,49,029,49029,570941
+584,2481,Kiowa County,County,OK,OK,,40,075,40075,51065
+2411,2482,Marshall County,County,MN,MN,,27,089,27089,119921
+1748,2484,Hancock County,County,GA,GA,Milledgeville,13,141,13141,114626
+2162,2485,Caldwell County,County,MO,MO,Kansas City,29,025,29025,146145
+241,2486,Love County,County,OK,OK,,40,085,40085,127168
+2821,2487,Palo Alto County,County,IA,IA,,19,147,19147,110149
+1494,2488,Wilson County,County,KS,KS,,20,205,20205,74442
+2439,2489,Mitchell County,County,TX,TX,,48,335,48335,75890
+133,2490,Clay County,County,WV,WV,Charleston,54,015,54015,99020
+1054,2492,Greene County,County,IA,IA,,19,073,19073,96354
+2051,2493,Terrell County,County,GA,GA,Albany,13,273,13273,76188
+2908,2493,Crittenden County,County,KY,KY,,21,055,21055,88489
+1016,2495,Forest County,County,WI,WI,,55,041,55041,151593
+2919,2496,Deer Lodge County,County,MT,MT,,30,023,30023,159789
+1596,2497,Carroll County,County,MO,MO,,29,033,29033,97211
+941,2498,Clarke County,County,IA,IA,,19,039,19039,120506
+1541,2499,Benewah County,County,ID,ID,,16,009,16009,238419
+1490,2500,Wilcox County,County,GA,GA,,13,315,13315,79238
+2512,2501,Richmond County,County,VA,VA,,51,159,51159,168457
+2887,2502,Beaverhead County,County,MT,MT,,30,001,30001,271778
+1211,2503,Monona County,County,IA,IA,,19,133,19133,98133
+2152,2505,Brewster County,County,TX,TX,,48,043,48043,203469
+529,2506,Grand County,County,UT,UT,,49,019,49019,509258
+759,2507,Tyler County,County,WV,WV,,54,095,54095,75712
+1318,2508,Phelps County,County,NE,NE,,31,137,31137,158123
+471,2509,Dawes County,County,NE,NE,,31,045,31045,138864
+1158,2510,Maries County,County,MO,MO,,29,125,29125,166319
+964,2512,Cuming County,County,NE,NE,,31,039,31039,174865
+2320,2514,Hamilton County,County,NE,NE,Grand Island,31,081,31081,202566
+2969,2515,Montgomery County,County,GA,GA,Vidalia,13,209,13209,126809
+3035,2516,Stillwater County,County,MT,MT,,30,095,30095,343408
+2830,2517,Red River Parish,County,LA,LA,,22,081,22081,94432
+3091,2518,Clear Creek County,County,CO,CO,Denver-Aurora-Lakewood,8,019,8019,469418
+835,2519,Archer County,County,TX,TX,Wichita Falls,48,009,48009,154313
+1051,2520,Greene County,County,AL,AL,,1,063,1063,87116
+195,2521,Jack County,County,TX,TX,,48,237,48237,122262
+299,2522,Quay County,County,NM,NM,,35,037,35037,88776
+1446,2523,Twiggs County,County,GA,GA,Macon-Bibb County,13,289,13289,81884
+1260,2524,Nevada County,County,AR,AR,Hope,5,099,5099,50324
+1919,2525,Mathews County,County,VA,VA,Virginia Beach-Norfolk-Newport News,51,115,51115,286976
+980,2526,Dawson County,County,MT,MT,,30,021,30021,181179
+1188,2527,McLean County,County,ND,ND,,38,055,38055,174007
+2332,2528,Harrison County,County,MO,MO,,29,081,29081,95998
+1444,2529,Turner County,County,GA,GA,,13,287,13287,84122
+1420,2530,Taylor County,County,GA,GA,,13,269,13269,93165
+615,2531,Lucas County,County,IA,IA,,19,117,19117,93925
+1637,2532,Coleman County,County,TX,TX,,48,083,48083,74001
+811,2534,Woods County,County,OK,OK,,40,151,40151,90930
+2769,2535,Lafayette County,County,FL,FL,,12,067,12067,166821
+3226,2536,San Augustine County,County,TX,TX,,48,405,48405,138433
+1049,2537,Graham County,County,NC,NC,,37,075,37075,165163
+847,2538,Baraga County,County,MI,MI,,26,013,26013,134153
+866,2539,Benton County,County,IN,IN,Lafayette-West Lafayette,18,007,18007,113718
+432,2540,Cedar County,County,NE,NE,,31,027,31027,149187
+1221,2541,Monroe County,County,MO,MO,,29,137,29137,141267
+2055,2542,Trimble County,County,KY,KY,Louisville/Jefferson County,21,223,21223,157540
+2903,2543,Clearwater County,County,ID,ID,,16,035,16035,213368
+469,2544,Davis County,County,IA,IA,Ottumwa,19,051,19051,150257
+1162,2545,Marion County,County,GA,GA,Columbus,13,197,13197,121996
+869,2546,Benton County,County,MS,MS,Memphis,28,009,28009,93926
+2539,2546,Seminole County,County,GA,GA,,13,253,13253,101768
+1249,2548,Murray County,County,MN,MN,,27,101,27101,144891
+3000,2549,Pocahontas County,County,WV,WV,,54,075,54075,92223
+1977,2550,Prairie County,County,AR,AR,,5,117,5117,82925
+213,2551,Knox County,County,NE,NE,,31,107,31107,107761
+2904,2552,Clearwater County,County,MN,MN,,27,029,27029,164319
+1040,2553,Gilmer County,County,WV,WV,,54,021,54021,72644
+2666,2554,Cleveland County,County,AR,AR,Pine Bluff,5,025,5025,95529
+1328,2555,Platte County,County,WY,WY,,56,031,56031,219094
+1295,2556,Oscoda County,County,MI,MI,,26,135,26135,92902
+948,2557,Coffey County,County,KS,KS,,20,031,20031,124465
+2298,2558,Gallatin County,County,KY,KY,Cincinnati,21,077,21077,136105
+3206,2559,Franklin City,County,VA,VA,,51,620,51620,140474
+1828,2560,Johnson County,County,WY,WY,,56,019,56019,295970
+1752,2561,Hancock County,County,KY,KY,Owensboro,21,091,21091,120859
+1617,2562,Choctaw County,County,MS,MS,,28,019,28019,77539
+123,2563,Clay County,County,KS,KS,,20,027,20027,111890
+2593,2564,Washakie County,County,WY,WY,,56,043,56043,193736
+2324,2565,Hamilton County,County,TX,TX,,48,193,48193,125685
+1473,2566,Warren County,County,IN,IN,,18,171,18171,154648
+2848,2567,Somervell County,County,TX,TX,Dallas-Fort Worth-Arlington,48,425,48425,281593
+1552,2568,Bracken County,County,KY,KY,Cincinnati,21,023,21023,106920
+3138,2569,Schoolcraft County,County,MI,MI,,26,153,26153,117348
+1663,2570,Decatur County,County,IA,IA,,19,053,19053,82953
+2317,2570,Hamilton County,County,IL,IL,,17,065,17065,83736
+2019,2572,Shannon County,County,MO,MO,,29,203,29203,125482
+2309,2573,Greenlee County,County,AZ,AZ,,4,011,4011,105455
+1653,2574,Daviess County,County,MO,MO,,29,061,29061,152318
+1784,2575,Houston County,County,TN,TN,,47,083,47083,127445
+1200,2576,Mercer County,County,ND,ND,,38,057,38057,167249
+903,2577,Butler County,County,NE,NE,,31,023,31023,150929
+2132,2578,Atkinson County,County,GA,GA,,13,003,13003,92192
+579,2579,Keith County,County,NE,NE,,31,101,31101,154636
+1858,2580,Liberty County,County,FL,FL,,12,077,12077,130103
+1445,2582,Turner County,County,SD,SD,Sioux Falls,46,125,46125,187101
+1815,2583,Jenkins County,County,GA,GA,,13,165,13165,82545
+1262,2584,Newton County,County,AR,AR,Harrison,5,101,5101,132176
+247,2585,Lyon County,County,KY,KY,,21,143,21143,157404
+2790,2586,McCulloch County,County,TX,TX,,48,307,48307,110489
+2948,2587,Kit Carson County,County,CO,CO,,8,063,8063,185430
+1641,2588,Conejos County,County,CO,CO,,8,021,8021,147393
+1527,2589,Ballard County,County,KY,KY,Paducah,21,007,21007,93263
+970,2592,Custer County,County,SD,SD,Rapid City,46,033,46033,282663
+2685,2593,Doddridge County,County,WV,WV,Clarksburg,54,017,54017,74140
+1372,2594,Searcy County,County,AR,AR,,5,129,5129,94362
+1213,2595,Monroe County,County,AR,AR,,5,095,5095,58361
+1439,2596,Traill County,County,ND,ND,,38,097,38097,132781
+975,2598,Dallas County,County,AR,AR,,5,039,5039,47342
+2120,2599,Anderson County,County,KS,KS,,20,003,20003,116439
+926,2600,Castro County,County,TX,TX,,48,069,48069,122803
+1865,2601,Lincoln County,County,GA,GA,Augusta-Richmond County,13,181,13181,172856
+2053,2602,Tillman County,County,OK,OK,,40,141,40141,36138
+1216,2603,Monroe County,County,IA,IA,,19,135,19135,128051
+2253,2604,Doniphan County,County,KS,KS,St. Joseph,20,043,20043,107418
+595,2605,Lemhi County,County,ID,ID,,16,059,16059,317910
+683,2606,Perry County,County,TN,TN,,47,135,47135,109415
+1431,2607,Thomas County,County,KS,KS,,20,193,20193,132915
+226,2608,Lake County,County,OR,OR,,41,037,41037,128951
+84,2609,Lee County,County,KY,KY,,21,129,21129,72789
+144,2610,Dade County,County,MO,MO,,29,057,29057,114940
+2856,2612,Trousdale County,County,TN,TN,Nashville-Davidson--Murfreesboro--Franklin,47,169,47169,168718
+131,2613,Clay County,County,TN,TN,,47,027,47027,116619
+1840,2614,Kingman County,County,KS,KS,Wichita,20,095,20095,103479
+2048,2615,Swisher County,County,TX,TX,,48,437,48437,64930
+1928,2617,Merrick County,County,NE,NE,Grand Island,31,121,31121,151155
+228,2618,Lake County,County,TN,TN,,47,095,47095,61959
+2183,2619,Chariton County,County,MO,MO,,29,041,29041,129547
+532,2620,Grant County,County,KS,KS,,20,067,20067,133136
+689,2622,Power County,County,ID,ID,,16,077,16077,248822
+3160,2623,East Carroll Parish,County,LA,LA,,22,035,22035,48395
+2491,2625,Randolph County,County,GA,GA,,13,243,13243,64304
+1015,2626,Forest County,County,PA,PA,,42,053,42053,100623
+2823,2627,Pendleton County,County,WV,WV,,54,071,54071,110845
+1906,2628,Madison County,County,MT,MT,,30,057,30057,448332
+349,2629,Adair County,County,IA,IA,,19,001,19001,111789
+2768,2631,Lafayette County,County,AR,AR,,5,073,5073,48119
+1579,2632,Calhoun County,County,WV,WV,,54,013,54013,63011
+2828,2633,Pleasants County,County,WV,WV,,54,073,54073,112366
+813,2634,Worth County,County,IA,IA,Mason City,19,195,19195,116838
+2859,2635,Van Buren County,County,IA,IA,,19,177,19177,106261
+511,2636,Ferry County,County,WA,WA,,53,019,53019,237941
+2747,2637,Jefferson County,County,NE,NE,,31,095,31095,85257
+624,2639,Major County,County,OK,OK,,40,093,40093,97120
+766,2641,Union County,County,IN,IN,Cincinnati,18,161,18161,153370
+673,2642,Pepin County,County,WI,WI,,55,091,55091,162401
+540,2643,Grant County,County,OR,OR,,41,023,41023,186517
+1714,2644,Fremont County,County,IA,IA,,19,071,19071,113985
+1086,2645,Harney County,County,OR,OR,,41,025,41025,128090
+2087,2646,Wheeler County,County,GA,GA,,13,309,13309,89683
+1967,2647,Pembina County,County,ND,ND,,38,067,38067,93663
+1996,2648,Refugio County,County,TX,TX,,48,391,48391,106678
+3183,2649,Rappahannock County,County,VA,VA,Washington-Arlington-Alexandria,51,157,51157,435142
+1455,2650,Valley County,County,MT,MT,,30,105,30105,202063
+3022,2651,San Miguel County,County,CO,CO,,8,113,8113,924161
+2940,2654,Hutchinson County,County,SD,SD,,46,067,46067,103023
+2717,2655,Henderson County,County,IL,IL,Burlington,17,071,17071,85647
+2999,2656,Pocahontas County,County,IA,IA,,19,151,19151,75931
+218,2656,Lake County,County,CO,CO,,8,065,8065,315605
+1321,2658,Pierce County,County,NE,NE,Norfolk,31,139,31139,177298
+2604,2659,Woodruff County,County,AR,AR,,5,147,5147,48172
+3212,2660,Lac Qui Parle County,County,MN,MN,,27,073,27073,85421
+3156,2661,Charles City County,County,VA,VA,Richmond,51,036,51036,204548
+1258,2662,Nemaha County,County,NE,NE,,31,127,31127,92769
+894,2663,Brooks County,County,TX,TX,,48,047,48047,65882
+1043,2664,Goliad County,County,TX,TX,Victoria,48,175,48175,238906
+1486,2665,Weston County,County,WY,WY,,56,045,56045,197642
+845,2666,Bailey County,County,TX,TX,,48,017,48017,90405
+1441,2667,Tucker County,County,WV,WV,,54,093,54093,116397
+2454,2669,Nicholas County,County,KY,KY,,21,181,21181,102762
+198,2670,Kane County,County,UT,UT,,49,025,49025,325810
+2100,2671,Winkler County,County,TX,TX,,48,495,48495,105331
+2926,2672,Fall River County,County,SD,SD,,46,047,46047,170868
+74,2673,Ida County,County,IA,IA,,19,093,19093,82687
+463,2674,Crook County,County,WY,WY,,56,011,56011,290614
+738,2676,Surry County,County,VA,VA,,51,181,51181,195611
+2867,2677,Wabaunsee County,County,KS,KS,Topeka,20,197,20197,180060
+3242,2678,Lexington City,County,VA,VA,,51,678,51678,231057
+2927,2678,Galax City,County,VA,VA,,51,640,51640,116455
+2656,2680,Childress County,County,TX,TX,,48,075,48075,69640
+389,2682,Boise County,County,ID,ID,Boise City,16,015,16015,354061
+1335,2683,Powell County,County,MT,MT,,30,077,30077,209215
+2068,2684,Wallowa County,County,OR,OR,,41,063,41063,334337
+1310,2685,Pawnee County,County,KS,KS,,20,145,20145,78568
+2006,2686,Russell County,County,KS,KS,,20,167,20167,85633
+2931,2686,Grand Isle County,County,VT,VT,Burlington-South Burlington,50,013,50013,308346
+1587,2688,Caribou County,County,ID,ID,,16,029,16029,229817
+3241,2689,King and Queen County,County,VA,VA,,51,097,51097,194739
+2574,2690,Thurston County,County,NE,NE,,31,173,31173,99408
+2582,2693,Treutlen County,County,GA,GA,,13,283,13283,78876
+1417,2694,Talbot County,County,GA,GA,,13,263,13263,118889
+105,2695,Burt County,County,NE,NE,,31,021,31021,120853
+2910,2696,Cumberland County,County,KY,KY,,21,057,21057,96321
+1269,2697,Norman County,County,MN,MN,,27,107,27107,127920
+1583,2698,Cameron Parish,County,LA,LA,Lake Charles,22,023,22023,181184
+388,2699,Bland County,County,VA,VA,,51,021,51021,132865
+1756,2700,Hancock County,County,TN,TN,,47,067,47067,98251
+1023,2701,Fulton County,County,KY,KY,Union City,21,075,21075,47782
+944,2702,Clinch County,County,GA,GA,,13,065,13065,87266
+2819,2703,Ontonagon County,County,MI,MI,,26,131,26131,81861
+2474,2704,Pershing County,County,NV,NV,,32,027,32027,164282
+1035,2705,Gentry County,County,MO,MO,,29,075,29075,107620
+1686,2706,Edwards County,County,IL,IL,,17,047,17047,63512
+2565,2707,Sullivan County,County,MO,MO,,29,211,29211,51991
+2350,2708,Huerfano County,County,CO,CO,,8,055,8055,173925
+973,2709,Dallam County,County,TX,TX,,48,111,48111,83915
+2501,2710,Reynolds County,County,MO,MO,,29,179,29179,125303
+1572,2711,Calhoun County,County,GA,GA,,13,037,13037,60440
+2709,2712,Greenwood County,County,KS,KS,,20,073,20073,70383
+2126,2713,Antelope County,County,NE,NE,,31,003,31003,129950
+3007,2714,Rio Blanco County,County,CO,CO,,8,103,8103,260496
+863,2715,Benson County,County,ND,ND,,38,005,38005,96697
+3265,2716,Buena Vista City,County,VA,VA,,51,530,51530,115308
+242,2717,Luce County,County,MI,MI,,26,095,26095,87296
+1493,2719,Wilkin County,County,MN,MN,Wahpeton,27,167,27167,162187
+129,2720,Clay County,County,NE,NE,,31,035,31035,109594
+99,2721,Bent County,County,CO,CO,,8,011,8011,81855
+2692,2722,Ellsworth County,County,KS,KS,,20,053,20053,93971
+1834,2724,Kearney County,County,NE,NE,Kearney,31,099,31099,178397
+648,2725,Moody County,County,SD,SD,,46,101,46101,204185
+2750,2726,Jefferson County,County,OK,OK,,40,067,40067,41693
+1958,2727,Osceola County,County,IA,IA,,19,143,19143,96820
+516,2729,Floyd County,County,TX,TX,,48,153,48153,59060
+2568,2731,Sullivan County,County,PA,PA,,42,113,42113,185062
+727,2732,Spink County,County,SD,SD,,46,115,46115,106739
+787,2733,Wayne County,County,IA,IA,,19,185,19185,82499
+1386,2734,Shelby County,County,MO,MO,,29,205,29205,95419
+650,2736,Moore County,County,TN,TN,Tullahoma-Manchester,47,127,47127,214006
+2427,2737,McKenzie County,County,ND,ND,,38,053,38053,277420
+1421,2738,Taylor County,County,IA,IA,,19,173,19173,85921
+1927,2739,Menifee County,County,KY,KY,Mount Sterling,21,165,21165,84673
+507,2739,Essex County,County,VT,VT,Berlin,50,009,50009,145340
+1103,2741,Howard County,County,NE,NE,Grand Island,31,093,31093,203898
+547,2743,Greer County,County,OK,OK,,40,055,40055,47546
+959,2744,Cotton County,County,OK,OK,Lawton,40,033,40033,78677
+918,2745,Carson County,County,TX,TX,Amarillo,48,065,48065,123570
+1974,2747,Pondera County,County,MT,MT,,30,073,30073,174654
+2523,2748,San Saba County,County,TX,TX,,48,411,48411,139707
+2036,2749,Stanton County,County,NE,NE,Norfolk,31,167,31167,181754
+260,2750,Ohio County,County,IN,IN,Cincinnati,18,115,18115,190113
+1206,2751,Miller County,County,GA,GA,,13,201,13201,115731
+1522,2752,Audubon County,County,IA,IA,,19,009,19009,82286
+2517,2753,Saguache County,County,CO,CO,,8,109,8109,214419
+1299,2754,Ottawa County,County,KS,KS,Salina,20,143,20143,124695
+744,2755,Teton County,County,MT,MT,,30,099,30099,252063
+963,2757,Crosby County,County,TX,TX,Lubbock,48,107,48107,57945
+2043,2758,Stewart County,County,GA,GA,,13,259,13259,50693
+535,2760,Grant County,County,MN,MN,,27,051,27051,143991
+2024,2761,Sherman County,County,KS,KS,,20,181,20181,113917
+1340,2762,Putnam County,County,IL,IL,Ottawa-Peru,17,155,17155,127350
+166,2762,Gray County,County,KS,KS,,20,069,20069,169535
+481,2764,Dixon County,County,NE,NE,Sioux City,31,051,31051,129774
+728,2765,Stark County,County,IL,IL,Peoria,17,175,17175,74565
+2627,2766,Bear Lake County,County,ID,ID,,16,007,16007,293694
+3238,2767,Covington City,County,VA,VA,,51,580,51580,64201
+3161,2768,Emporia City,County,VA,VA,,51,595,51595,68995
+134,2769,Coal County,County,OK,OK,,40,029,40029,86992
+1240,2770,Morris County,County,KS,KS,,20,127,20127,110642
+194,2771,Iron County,County,WI,WI,,55,051,55051,152875
+1074,2773,Hamlin County,County,SD,SD,,46,057,46057,167086
+1766,2774,Haskell County,County,TX,TX,,48,207,48207,64689
+1871,2775,Lincoln County,County,MN,MN,,27,081,27081,88066
+2264,2776,Fillmore County,County,NE,NE,,31,059,31059,108998
+1470,2777,Warren County,County,GA,GA,,13,301,13301,69656
+1645,2778,Crowley County,County,CO,CO,,8,025,8025,87800
+2202,2779,Chouteau County,County,MT,MT,,30,015,30015,169305
+186,2780,Hyde County,County,NC,NC,,37,095,37095,157616
+1140,2782,Lander County,County,NV,NV,,32,015,32015,210549
+2040,2783,Stevens County,County,KS,KS,,20,189,20189,127519
+332,2784,Wirt County,County,WV,WV,Parkersburg-Vienna,54,105,54105,71841
+70,2786,Day County,County,SD,SD,,46,037,46037,137122
+2131,2787,Atchison County,County,MO,MO,,29,005,29005,83587
+1184,2793,McCook County,County,SD,SD,Sioux Falls,46,087,46087,184344
+2893,2795,Broadwater County,County,MT,MT,,30,007,30007,332689
+2861,2800,Van Buren County,County,TN,TN,,47,175,47175,141176
+1864,2803,Lincoln County,County,CO,CO,,8,073,8073,171570
+1041,2805,Gilpin County,County,CO,CO,Denver-Aurora-Lakewood,8,047,8047,442801
+2398,2807,Mahnomen County,County,MN,MN,,27,087,27087,104130
+2090,2808,Wheeler County,County,TX,TX,,48,483,48483,90205
+291,2809,Polk County,County,NE,NE,,31,143,31143,150019
+1923,2810,McHenry County,County,ND,ND,Minot,38,049,38049,157135
+1570,2811,Calhoun County,County,AR,AR,Camden,5,013,5013,66507
+1878,2813,Lincoln County,County,NV,NV,,32,017,32017,181852
+2630,2818,Big Stone County,County,MN,MN,,27,011,27011,112352
+1428,2820,Tensas Parish,County,LA,LA,,22,107,22107,142439
+474,2821,Delta County,County,TX,TX,,48,119,48119,104382
+1825,2823,Johnson County,County,NE,NE,,31,097,31097,138004
+1866,2824,Lincoln County,County,ID,ID,Hailey,16,063,16063,220071
+458,2825,Craig County,County,VA,VA,Roanoke,51,045,51045,166621
+140,2827,Cook County,County,MN,MN,,27,031,27031,310594
+2764,2829,Kingsbury County,County,SD,SD,,46,077,46077,118223
+2513,2830,Ringgold County,County,IA,IA,,19,159,19159,106185
+2175,2831,Carlisle County,County,KY,KY,,21,039,21039,90333
+1574,2832,Calhoun County,County,IL,IL,St. Louis,17,013,17013,111066
+1584,2833,Cameron County,County,PA,PA,,42,023,42023,73635
+1973,2834,Pickett County,County,TN,TN,,47,137,47137,147299
+1939,2835,Morrill County,County,NE,NE,,31,123,31123,113820
+1369,2836,Schley County,County,GA,GA,Americus,13,249,13249,124772
+644,2840,Mills County,County,TX,TX,,48,333,48333,322039
+1772,2844,Hickman County,County,KY,KY,,21,105,21105,78713
+2321,2850,Hamilton County,County,NY,NY,,36,041,36041,231681
+3049,2851,Washington County,County,CO,CO,,8,121,8121,148861
+3096,2852,Hot Springs County,County,WY,WY,,56,017,56017,182197
+1181,2854,Martin County,County,TX,TX,Midland,48,317,48317,234766
+1935,2855,Mineral County,County,NV,NV,,32,021,32021,100517
+96,2857,Bath County,County,VA,VA,,51,017,51017,154964
+1136,2860,Kimble County,County,TX,TX,,48,267,48267,155884
+539,2865,Grant County,County,OK,OK,,40,053,40053,79461
+2459,2866,Nuckolls County,County,NE,NE,,31,129,31129,67837
+297,2867,Pope County,County,IL,IL,,17,151,17151,146083
+2476,2868,Phillips County,County,CO,CO,,8,095,8095,180714
+2555,2869,Stafford County,County,KS,KS,,20,185,20185,70656
+665,2870,Ouray County,County,CO,CO,,8,091,8091,552408
+2267,2872,Florence County,County,WI,WI,Iron Mountain,55,037,55037,168456
+2059,2873,Tyrrell County,County,NC,NC,Kill Devil Hills,37,177,37177,99484
+459,2874,Crane County,County,TX,TX,,48,103,48103,150213
+966,2875,Custer County,County,ID,ID,,16,037,16037,285070
+477,2876,Deuel County,County,SD,SD,,46,039,46039,157262
+1282,2879,Oneida County,County,ID,ID,,16,071,16071,271406
+965,2883,Custer County,County,CO,CO,,8,027,8027,295468
+1934,2886,Mineral County,County,MT,MT,,30,061,30061,250047
+497,2889,Ellis County,County,OK,OK,,40,045,40045,77854
+2497,2894,Red Lake County,County,MN,MN,,27,125,27125,123237
+2217,2896,Columbia County,County,WA,WA,Walla Walla,53,013,53013,198379
+1685,2897,Edmunds County,County,SD,SD,Aberdeen,46,045,46045,178062
+3275,2899,Lake of the Woods County,County,MN,MN,,27,077,27077,164450
+1000,2900,Echols County,County,GA,GA,Valdosta,13,101,13101,108567
+354,2901,Adams County,County,IA,IA,,19,003,19003,113482
+1402,2903,Storey County,County,NV,NV,Reno,32,029,32029,396569
+2868,2905,Wahkiakum County,County,WA,WA,,53,069,53069,321803
+355,2907,Adams County,County,ID,ID,,16,003,16003,390250
+1014,2908,Fisher County,County,TX,TX,,48,151,48151,87969
+3114,2910,Norton City,County,VA,VA,Big Stone Gap,51,720,51720,92866
+722,2912,Smith County,County,KS,KS,,20,183,20183,70665
+596,2914,Lewis County,County,ID,ID,,16,061,16061,195436
+698720,2916,Petersburg Borough,County,AK,AK,,2,195,2195,282354
+2082,2917,Webster County,County,NE,NE,,31,181,31181,87874
+94,2919,Baca County,County,CO,CO,,8,009,8009,103732
+1199,2920,Mercer County,County,MO,MO,,29,129,29129,91642
+1088,2928,Harper County,County,OK,OK,,40,059,40059,72150
+995,2929,Donley County,County,TX,TX,,48,129,48129,96723
+3143,2931,Sweet Grass County,County,MT,MT,,30,097,30097,349154
+1137,2933,Kinney County,County,TX,TX,,48,271,48271,85639
+2580,2934,Traverse County,County,MN,MN,,27,155,27155,56908
+1005,2935,Emmons County,County,ND,ND,,38,029,38029,79408
+2225,2937,Costilla County,County,CO,CO,,8,023,8023,134027
+379,2940,Baker County,County,GA,GA,Albany,13,007,13007,97009
+3139,2945,Shackelford County,County,TX,TX,,48,417,48417,140632
+1353,2946,Reagan County,County,TX,TX,,48,383,48383,143094
+174,2948,Hall County,County,TX,TX,,48,191,48191,53856
+300,2952,Real County,County,TX,TX,,48,385,48385,212258
+2103,2952,Woodson County,County,KS,KS,,20,207,20207,74656
+1391,2957,Sierra County,County,CA,CA,,6,091,6091,288804
+119,2960,Clay County,County,GA,GA,,13,061,13061,92529
+2306,2968,Glascock County,County,GA,GA,,13,125,13125,128154
+1730,2969,Granite County,County,MT,MT,,30,039,30039,296852
+2034,2979,Stanley County,County,SD,SD,Pierre,46,117,46117,231322
+1085,2981,Harmon County,County,OK,OK,,40,057,40057,36267
+2076,2988,Webster County,County,GA,GA,,13,307,13307,94986
+434,2989,Chase County,County,KS,KS,,20,017,20017,119051
+1311,2991,Pawnee County,County,NE,NE,,31,133,31133,83976
+2296,2992,Frontier County,County,NE,NE,,31,063,31063,79133
+1988,3003,Quitman County,County,GA,GA,Eufaula,13,239,13239,76861
+2536,3017,Sedgwick County,County,CO,CO,,8,115,8115,90294
+359,3021,Adams County,County,ND,ND,,38,001,38001,123972
+2344,3025,Highland County,County,VA,VA,,51,091,51091,197498
+2833,3026,Robertson County,County,KY,KY,,21,201,21201,109504
+2305,3027,Garfield County,County,WA,WA,,53,023,53023,172723
+305,3028,Rich County,County,UT,UT,,49,033,49033,453175
+2366,3036,Keweenaw County,County,MI,MI,Houghton,26,083,26083,152106
+3169,3039,Judith Basin County,County,MT,MT,,30,045,30045,231606
+1669,3042,Dolores County,County,CO,CO,,8,033,8033,186524
+1008,3052,Eureka County,County,NV,NV,Elko,32,011,32011,177070
+2621,3059,Armstrong County,County,TX,TX,Amarillo,48,011,48011,141285
+1925,3060,Meagher County,County,MT,MT,,30,059,30059,228050
+1723,3062,Gilliam County,County,OR,OR,,41,021,41021,160857
+2196,3064,Cheyenne County,County,CO,CO,,8,017,8017,122841
+2026,3066,Sherman County,County,OR,OR,,41,055,41055,158493
+3037,3071,Taliaferro County,County,GA,GA,,13,265,13265,90605
+2089,3083,Wheeler County,County,OR,OR,,41,069,41069,215323
+582,3086,Kiowa County,County,CO,CO,,8,061,8061,104939
+1793,3087,Jackson County,County,CO,CO,,8,057,8057,197349
+828,3098,Alpine County,County,CA,CA,,6,003,6003,467410
+425,3101,Camas County,County,ID,ID,Hailey,16,025,16025,174203
+1648,3102,Daggett County,County,UT,UT,,49,009,49009,272437
+2345,3112,Hinsdale County,County,CO,CO,,8,053,8053,365426
+1933,3122,Mineral County,County,CO,CO,,8,079,8079,324328
+2518,3124,San Juan County,County,CO,CO,,8,111,8111,357121
